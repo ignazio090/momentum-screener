@@ -1,0 +1,32 @@
+name: Momentum Screener
+
+on:
+  schedule:
+    - cron: '0 6 * * 1-5'   # maandag t/m vrijdag om 06:00 UTC = 08:00 NL zomertijd
+  workflow_dispatch:          # handmatig starten kan ook
+
+jobs:
+  screener:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Installeer packages
+        run: pip install requests openpyxl
+
+      - name: Draai screener
+        env:
+          FINNHUB_KEY: ${{ secrets.FINNHUB_KEY }}
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python momentum_screener.py
+
+      - name: Sla Excel op
+        uses: actions/upload-artifact@v4
+        with:
+          name: beleggen-tracker
+          path: beleggen_tracker.xlsx
