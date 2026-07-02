@@ -42,8 +42,14 @@ BASE = "https://finnhub.io/api/v1"
 # DATA
 # ============================================================
 def get_json(url, params):
-    r = requests.get(url, params=dict(params, token=FINNHUB_KEY), timeout=20)
-    r.raise_for_status()
+    p = dict(params, token=FINNHUB_KEY)
+    r = requests.get(url, params=p, timeout=20)
+    if r.status_code == 429:
+        raise Exception(f'Rate limit bereikt (429) — wacht even')
+    if r.status_code == 403:
+        raise Exception(f'Geen toegang (403) — controleer je API-key')
+    if r.status_code != 200:
+        raise Exception(f'HTTP {r.status_code}: {r.text[:100]}')
     return r.json()
 
 def load_universe():
@@ -309,6 +315,19 @@ def send_telegram(text):
 def run_real():
     if not FINNHUB_KEY:
         sys.exit("Stel FINNHUB_KEY in als omgevingsvariabele.")
+    # Test of de API-key werkt
+    try:
+        test = get_json(f"{BASE}/stock/candle",
+                        {"symbol": "AAPL", "resolution": "D",
+                         "from": int(time.time())-7*86400, "to": int(time.time())})
+        if test.get("s") == "ok":
+            print(f"API-key werkt (AAPL test OK).")
+        else:
+            print(f"API-key werkt maar AAPL gaf geen data: {test}")
+    except Exception as e:
+        print(f"API-key test MISLUKT: {e}")
+        print("Controleer of je FINNHUB_KEY correct is ingesteld.")
+        sys.exit(1)
     universe = load_universe()
     print(f"Screenen van {len(universe)} aandelen...")
     hits = []
@@ -318,6 +337,10 @@ def run_real():
             ch = pct_changes(tk)
         except Exception as e:
             errors += 1
+            if errors <= 5:
+                print(f'  ✗ {tk}: {e}')
+            elif errors == 6:
+                print(f'  ... verdere fouten worden niet getoond')
             time.sleep(SLEEP_BETWEEN_CALLS); continue
         if ch and is_hit(ch):
             news = get_news(tk)
