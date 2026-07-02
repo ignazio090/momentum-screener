@@ -2,7 +2,7 @@ name: Momentum Screener
 
 on:
   schedule:
-    - cron: '0 6 * * 1-5'   # maandag t/m vrijdag om 06:00 UTC = 08:00 NL zomertijd
+    - cron: '0 6 * * 1-5'   # ma-vr 06:00 UTC = 08:00 NL zomertijd
   workflow_dispatch:          # handmatig starten kan ook
 
 jobs:
@@ -25,7 +25,15 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: python momentum_screener.py
 
-      - name: Sla Excel op
+      - name: Sla resultaten op in repo
+        run: |
+          git config user.name "Momentum Bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add docs/index.html results_history.json beleggen_tracker.xlsx
+          git diff --cached --quiet || git commit -m "Update $(date +%Y-%m-%d)"
+          git push
+
+      - name: Upload Excel als artifact
         uses: actions/upload-artifact@v4
         with:
           name: beleggen-tracker
