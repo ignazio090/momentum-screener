@@ -315,18 +315,37 @@ def send_telegram(text):
 def run_real():
     if not FINNHUB_KEY:
         sys.exit("Stel FINNHUB_KEY in als omgevingsvariabele.")
-    # Test of de API-key werkt
+    # Diagnose: is de key aanwezig en wat zegt Finnhub?
+    key_len = len(FINNHUB_KEY)
+    print(f"API-key lengte: {key_len} tekens (eerste 4: {FINNHUB_KEY[:4]}...)")
+    if key_len < 10:
+        print("Key lijkt te kort of leeg — controleer je GitHub secret.")
+        sys.exit(1)
+
+    # Test 1: simpelste endpoint (quote, geen historie nodig)
     try:
-        test = get_json(f"{BASE}/stock/candle",
-                        {"symbol": "AAPL", "resolution": "D",
-                         "from": int(time.time())-7*86400, "to": int(time.time())})
-        if test.get("s") == "ok":
-            print(f"API-key werkt (AAPL test OK).")
-        else:
-            print(f"API-key werkt maar AAPL gaf geen data: {test}")
+        r = requests.get(f"{BASE}/quote", params={"symbol": "AAPL", "token": FINNHUB_KEY}, timeout=20)
+        print(f"Test /quote: HTTP {r.status_code}")
+        print(f"Response: {r.text[:300]}")
     except Exception as e:
-        print(f"API-key test MISLUKT: {e}")
-        print("Controleer of je FINNHUB_KEY correct is ingesteld.")
+        print(f"Test /quote mislukt: {e}")
+
+    # Test 2: candle endpoint
+    try:
+        r2 = requests.get(f"{BASE}/stock/candle",
+                          params={"symbol": "AAPL", "resolution": "D",
+                                  "from": int(time.time())-7*86400,
+                                  "to": int(time.time()),
+                                  "token": FINNHUB_KEY}, timeout=20)
+        print(f"Test /candle: HTTP {r2.status_code}")
+        print(f"Response: {r2.text[:300]}")
+        if r2.status_code != 200:
+            print("
+Candle endpoint geeft geen 200. Mogelijk is de gratis tier veranderd.")
+            print("Probeer een alternatieve databron (yfinance)...")
+            sys.exit(1)
+    except Exception as e:
+        print(f"Test /candle mislukt: {e}")
         sys.exit(1)
     universe = load_universe()
     print(f"Screenen van {len(universe)} aandelen...")
