@@ -2,8 +2,11 @@ name: Momentum Screener
 
 on:
   schedule:
-    - cron: '0 6 * * 1-5'   # ma-vr 06:00 UTC = 08:00 NL zomertijd
-  workflow_dispatch:          # handmatig starten kan ook
+    - cron: '0 6 * * 1-5'
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   screener:
