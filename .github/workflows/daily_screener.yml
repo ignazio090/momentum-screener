@@ -19,7 +19,7 @@ jobs:
           python-version: '3.12'
 
       - name: Installeer packages
-        run: pip install requests openpyxl
+        run: pip install requests openpyxl yfinance
 
       - name: Draai screener
         env:
