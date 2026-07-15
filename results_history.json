@@ -9009,5 +9009,267 @@
       ],
       "score": 3.5
     }
+  ],
+  "2026-07-15": [
+    {
+      "ticker": "DELL",
+      "price": 457.5400085449219,
+      "1D": 0.07124633990542702,
+      "1W": 0.09648200221290472,
+      "1M": 0.1566600097916701,
+      "6M": 2.8263764940531373,
+      "1J": 2.6961645626852992,
+      "news": [
+        {
+          "headline": "Zacks Investment Ideas feature highlights: QQQ, SPY, SanDisk, Micron and Dell",
+          "url": "https://finnhub.io/api/news?id=fdfec679027d8447aeb7495acc3b1fc411c514385f0a68ab0b680eb9992342f2"
+        },
+        {
+          "headline": "Cisco Stock: Market Risk, Not Portfolio Diversification",
+          "url": "https://finnhub.io/api/news?id=7c3dbc086cd9d288b3f2cd225a82898f78560039c5bb02204f677632db282ebf"
+        }
+      ],
+      "score": 116.9
+    },
+    {
+      "ticker": "HPE",
+      "price": 49.560001373291016,
+      "1D": 0.04911091474159989,
+      "1W": 0.14009661793355213,
+      "1M": 0.03186637310465339,
+      "6M": 1.263597349129672,
+      "1J": 1.4476204955807832,
+      "news": [
+        {
+          "headline": "Zacks.com featured highlights Harmony, StoneCo, General Motors, Hewlett and Nexa",
+          "url": "https://finnhub.io/api/news?id=5df4c940a9f350f1b976266484806e9b7aa8df0230a75ae9c7c8c12ab539d9a5"
+        },
+        {
+          "headline": "Cisco Stock: Market Risk, Not Portfolio Diversification",
+          "url": "https://finnhub.io/api/news?id=7c3dbc086cd9d288b3f2cd225a82898f78560039c5bb02204f677632db282ebf"
+        }
+      ],
+      "score": 58.6
+    },
+    {
+      "ticker": "DDOG",
+      "price": 270.7300109863281,
+      "1D": 0.04030902684289873,
+      "1W": 0.05420354955051306,
+      "1M": 0.177599035118844,
+      "6M": 1.1389745724823526,
+      "1J": 0.9505043590335822,
+      "news": [
+        {
+          "headline": "Critical Cloud and Tarian Labs Launch Continuous Runtime Security Validation for Fintech firms",
+          "url": "https://finnhub.io/api/news?id=6e2b06dbc97dcd618536bcac8f4cc8d02936d8629498d7c4939db9f67299cf06"
+        },
+        {
+          "headline": "DigitalOcean vs. Datadog: What the Revenue Trends of These Tech Companies Reveal for Investors",
+          "url": "https://finnhub.io/api/news?id=118aa0de2a06ac2c268c54c7754cbcd819842ed3f5f6a1f958df4352e7a48ff6"
+        }
+      ],
+      "score": 47.2
+    },
+    {
+      "ticker": "PANW",
+      "price": 352.8900146484375,
+      "1D": 0.06839245440610832,
+      "1W": 0.04702707601967996,
+      "1M": 0.26203426368183313,
+      "6M": 0.8683291270951752,
+      "1J": 0.8503041757013706,
+      "news": [
+        {
+          "headline": "CRWD, PANW, NET, ZS: One Cybersecurity Stock Won Over Retail Investors \u2013 But Another Tops Wall Stree",
+          "url": "https://finnhub.io/api/news?id=05a513304bea63b4aa0a77f70121cb54dc94addc6c5f266ebe954152e0b6c427"
+        },
+        {
+          "headline": "The Ithaka Group Q2 2026 Portfolio Review",
+          "url": "https://finnhub.io/api/news?id=53e347fb265ff938645e30e952d9271c2f45f7ed8a216d0659ff6229411ce739"
+        }
+      ],
+      "score": 41.9
+    },
+    {
+      "ticker": "CRWD",
+      "price": 210.72999572753906,
+      "1D": 0.12144107083550212,
+      "1W": 0.08277669825575305,
+      "1M": 0.2345049765374884,
+      "6M": 0.805006532339393,
+      "1J": 0.7701709350986505,
+      "news": [
+        {
+          "headline": "US Stock Market Today: S&P 500 Futures Slip As Traders Eye Key CPI Data",
+          "url": "https://finnhub.io/api/news?id=15d54572f84cded5b21e2f02fa95c24243475091401852f148e162235702f2e8"
+        },
+        {
+          "headline": "CRWD, PANW, NET, ZS: One Cybersecurity Stock Won Over Retail Investors \u2013 But Another Tops Wall Stree",
+          "url": "https://finnhub.io/api/news?id=05a513304bea63b4aa0a77f70121cb54dc94addc6c5f266ebe954152e0b6c427"
+        }
+      ],
+      "score": 40.3
+    },
+    {
+      "ticker": "OKTA",
+      "price": 154.6199951171875,
+      "1D": 0.10814875990760521,
+      "1W": 0.04142246814790758,
+      "1M": 0.32960696448444377,
+      "6M": 0.6524526624075668,
+      "1J": 0.681200316026324,
+      "news": [
+        {
+          "headline": "Why The Trade Desk (TTD) Shares Are Sliding Today",
+          "url": "https://finnhub.io/api/news?id=f046320403c53b9ed7b97b80a107e86b7ec4c8c935bb07b974d98616043de4ff"
+        },
+        {
+          "headline": "Atlassian, monday.com, and Agilysys Stocks Trade Down, What You Need To Know",
+          "url": "https://finnhub.io/api/news?id=0e78d3c0adbe5237f51a9e82383efe60050517566c6cc8164edacb7b0779b18a"
+        }
+      ],
+      "score": 36.3
+    },
+    {
+      "ticker": "NET",
+      "price": 281.75,
+      "1D": 0.04533818601286532,
+      "1W": 0.048060164687994275,
+      "1M": 0.2331495328631968,
+      "6M": 0.5116154349622665,
+      "1J": 0.5404593187655414,
+      "news": [
+        {
+          "headline": "IBM Says AI Spending Isn't Crowding Out Cybersecurity. These ETFs Are Gaining Momentum",
+          "url": "https://finnhub.io/api/news?id=6e5e8a97be5c4fee35ed9aff54f1f1ed20903e4becff5571201754256042a12a"
+        },
+        {
+          "headline": "Cloudflare: Valuation Is Now A Real Issue",
+          "url": "https://finnhub.io/api/news?id=c74fb388eb93f03473e9d274693b1e14e9169702de9efb28087b23e729b9763d"
+        }
+      ],
+      "score": 27.6
+    },
+    {
+      "ticker": "PSX",
+      "price": 201.4499969482422,
+      "1D": 0.015936273988115396,
+      "1W": 0.1264258615149681,
+      "1M": 0.12259682571265433,
+      "6M": 0.47339360505494105,
+      "1J": 0.6150354746314609,
+      "news": [
+        {
+          "headline": "Texas Port CEO Sees US Oil Exports Holding Above Prewar Levels",
+          "url": "https://finnhub.io/api/news?id=3a05f91a61d76dee29d3eb9fce11e0a84a632171aae111570c5997d8d721f060"
+        },
+        {
+          "headline": "Here's Why Phillips 66's Refining Strength Supports Long-Term Growth",
+          "url": "https://finnhub.io/api/news?id=c919bcca1a5963cd13db0818707bd8745a03040764db530d4a87d785ea5e605a"
+        }
+      ],
+      "score": 27.1
+    },
+    {
+      "ticker": "S",
+      "price": 19.920000076293945,
+      "1D": 0.07385449571859337,
+      "1W": 0.09691631297742796,
+      "1M": 0.34141411209327077,
+      "6M": 0.324468093538457,
+      "1J": 0.1197301321613486,
+      "news": [
+        {
+          "headline": "IBM Says AI Spending Isn't Crowding Out Cybersecurity. These ETFs Are Gaining Momentum",
+          "url": "https://finnhub.io/api/news?id=6e5e8a97be5c4fee35ed9aff54f1f1ed20903e4becff5571201754256042a12a"
+        },
+        {
+          "headline": "Formula Considers Allot Acquisition -Globes",
+          "url": "https://finnhub.io/api/news?id=6cc601d78a94d7fec776ee5583217ee12f48d13d0b20a05803951c9a32554a9e"
+        }
+      ],
+      "score": 19.1
+    },
+    {
+      "ticker": "SNOW",
+      "price": 275.94000244140625,
+      "1D": 0.02713571081535496,
+      "1W": 0.05023982909969773,
+      "1M": 0.18541113449798663,
+      "6M": 0.25267842732229306,
+      "1J": 0.2923379398648505,
+      "news": [
+        {
+          "headline": "Formula Considers Allot Acquisition -Globes",
+          "url": "https://finnhub.io/api/news?id=6cc601d78a94d7fec776ee5583217ee12f48d13d0b20a05803951c9a32554a9e"
+        },
+        {
+          "headline": "My Portfolio Is Outperforming This Market - Here's Why",
+          "url": "https://finnhub.io/api/news?id=6ca182fe1d74ae51c26a050e4030006c4910d7b58ad70c06d499ea959d8a8a80"
+        }
+      ],
+      "score": 16.2
+    },
+    {
+      "ticker": "AFRM",
+      "price": 84.44999694824219,
+      "1D": 0.030757923027948653,
+      "1W": 0.009925785391032916,
+      "1M": 0.2762581122130964,
+      "6M": 0.1055111614477373,
+      "1J": 0.31850106049174515,
+      "news": [
+        {
+          "headline": "Micron To Rally Around 87%? Here Are 10 Top Analyst Forecasts For Tuesday",
+          "url": "https://finnhub.io/api/news?id=c8dccec053339653fccd0d64037aeae00207e895c2c953a268bb0dd93aa4a850"
+        },
+        {
+          "headline": "Baird Maintains Neutral on Affirm Holdings, Raises Price Target to $82",
+          "url": "https://finnhub.io/api/news?id=d682fafddd00ce51f163ce82ea6823ea7c3fd91986f258280e0bea2ded1329a6"
+        }
+      ],
+      "score": 14.8
+    },
+    {
+      "ticker": "HUBB",
+      "price": 483.8900146484375,
+      "1D": 0.014380680222827005,
+      "1W": 0.010440810722834966,
+      "1M": 0.01467843692462378,
+      "6M": 0.029145866673036043,
+      "1J": 0.1798469289997569,
+      "news": [
+        {
+          "headline": "Hubbell (HUBB) Completes $3 Billion NSI Industries Acquisition",
+          "url": "https://finnhub.io/api/news?id=c82c2f603f3d8368adfec7ebd092c751f1050793f05fe5b00cbf427abe13f877"
+        },
+        {
+          "headline": "Hubbell to Announce Second Quarter 2026 Results on July 28, 2026",
+          "url": "https://finnhub.io/api/news?id=d5034c7e7eb50e715134753f172e1318c28aab3d02f660e316f9885c0487bedb"
+        }
+      ],
+      "score": 5.0
+    },
+    {
+      "ticker": "SAIC",
+      "price": 113.91999816894531,
+      "1D": 0.0053834668034135735,
+      "1W": 0.005461524657396344,
+      "1M": 0.00422472266787635,
+      "6M": 0.006957116126868169,
+      "1J": 0.015727470864976206,
+      "news": [
+        {
+          "headline": "IT Keeps Buying What The Market Keeps Selling",
+          "url": "https://finnhub.io/api/news?id=c788ca08266e96347e916716dc98887175b4784455fc78f07c7e55dd477c9e70"
+        },
+        {
+          "headline": "3 Dividend Stocks You Have to Buy Now to Get Paid in July",
+          "url": "https://finnhub.io/api/news?id=f6817df223476806b702bf2a943a2ac95255cb80ecbce8bdd6ed2b99e4f02aea"
+        }
+      ],
+      "score": 0.8
+    }
   ]
 }
