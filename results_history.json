@@ -29624,5 +29624,903 @@
       ],
       "score": 1.2
     }
+  ],
+  "2026-08-19": [
+    {
+      "ticker": "VLO",
+      "price": 350.04998779296875,
+      "1D": 0.008237522196639771,
+      "1W": 0.08066798370599566,
+      "1M": 0.1348387230178157,
+      "6M": 0.7638624375155986,
+      "1J": 1.6129066280326612,
+      "news": [
+        {
+          "headline": "Valero (VLO) Stock Could Be 8% Overvalued On Refining Cash Flow",
+          "url": "https://finnhub.io/api/news?id=1073529652fc75a4fb5753547b3c1bc8acc086053a7702ffbe4d54937e016f3b"
+        },
+        {
+          "headline": "The Questions That Decide CVX Stock",
+          "url": "https://finnhub.io/api/news?id=081385baeb039748f9ee3bf8631af3bdebb9cf449183e53ddaf7c43fa8d56fae"
+        }
+      ],
+      "score": 52.0
+    },
+    {
+      "ticker": "U",
+      "price": 46.7400016784668,
+      "1D": 0.028382857950999815,
+      "1W": 0.06542062494777291,
+      "1M": 0.6122801672124333,
+      "6M": 1.5021413765992424,
+      "1J": 0.219092370695046,
+      "news": [
+        {
+          "headline": "Unity Software: Vector's Inflection Is Becoming Harder To Ignore",
+          "url": "https://finnhub.io/api/news?id=9550835ee28f604fe8d706e4c50890d361a713e936155597d8e3df9a86bd01cf"
+        },
+        {
+          "headline": "Unity (U) Q2 2026 Earnings Call Transcript",
+          "url": "https://finnhub.io/api/news?id=d84d92edb33589ac0576aa74ba2dcb6f7ac310ed3e0edfbcf4e96ff4070c0bf2"
+        }
+      ],
+      "score": 48.5
+    },
+    {
+      "ticker": "MPC",
+      "price": 366.2099914550781,
+      "1D": 0.022418892577747915,
+      "1W": 0.08854995790475725,
+      "1M": 0.17149707071281975,
+      "6M": 0.8176223333044785,
+      "1J": 1.2953040635403015,
+      "news": [
+        {
+          "headline": "Lockheed Martin + Sandisk: Balance And Diversification, Growth And Income",
+          "url": "https://finnhub.io/api/news?id=c6b853ca7b237269d77205a37b89003ece4a7f91158da8ed2190542d300f874c"
+        },
+        {
+          "headline": "Refiner stocks are on a nearly unprecedented run. History says it could end soon",
+          "url": "https://finnhub.io/api/news?id=e0f4b66e517d8e8472e6fc1eda0bea56f0a0310588b07e32ffcd3f682dea0ec8"
+        }
+      ],
+      "score": 47.9
+    },
+    {
+      "ticker": "PSX",
+      "price": 243.49000549316406,
+      "1D": 0.017594413273513205,
+      "1W": 0.13577552168369697,
+      "1M": 0.1833237512256953,
+      "6M": 0.555902051273501,
+      "1J": 1.0610020593409735,
+      "news": [
+        {
+          "headline": "Lockheed Martin + Sandisk: Balance And Diversification, Growth And Income",
+          "url": "https://finnhub.io/api/news?id=c6b853ca7b237269d77205a37b89003ece4a7f91158da8ed2190542d300f874c"
+        },
+        {
+          "headline": "Top Wall Street analysts like these 3 dividend stocks for steady income",
+          "url": "https://finnhub.io/api/news?id=8ee61dc79707d611fd60f376588a0a2176be5133ae6c177799aad57e1296a24e"
+        }
+      ],
+      "score": 39.1
+    },
+    {
+      "ticker": "WBD",
+      "price": 28.479999542236328,
+      "1D": 0.019692059829968033,
+      "1W": 0.052087176332022686,
+      "1M": 0.059918074161432106,
+      "6M": 0.017506244198821914,
+      "1J": 1.4094754887944072,
+      "news": [
+        {
+          "headline": "'Cinema United Urges Paramount\u2019s David Ellison, California AG To Resolve Differences; Cinemark Throw",
+          "url": "https://finnhub.io/api/news?id=cb6178dc4ed232f6655903b66c173a46e20c88198329149bbbc63b0a14677686"
+        },
+        {
+          "headline": "Paramount Demands Up to $1.9 Billion Bond From 12 States, WGA as Warner Bros. Deal Faces Costly Dela",
+          "url": "https://finnhub.io/api/news?id=37caf35776605db5712be3a51a5c2507fc50fbd0cb3f50b53d52c601cf0feca9"
+        }
+      ],
+      "score": 31.2
+    },
+    {
+      "ticker": "TRGP",
+      "price": 297.7699890136719,
+      "1D": 0.07134628480276448,
+      "1W": 0.12175541653934244,
+      "1M": 0.05745137940380902,
+      "6M": 0.34291870163918814,
+      "1J": 0.8886864081367388,
+      "news": [
+        {
+          "headline": "Q2 2026 Midstream/MLP Buybacks: Momentum Continues",
+          "url": "https://finnhub.io/api/news?id=b235f19720cc4ad00e596b6367249632bf5839282e72f1641d3b10f62915d8ca"
+        },
+        {
+          "headline": "Discover which S&P500 stocks are making waves on Tuesday.",
+          "url": "https://finnhub.io/api/news?id=0c34c0b3b03ebf33b5cdb2e2aa62df9dea0c5b400ba5098836973b6aae6b94b7"
+        }
+      ],
+      "score": 29.6
+    },
+    {
+      "ticker": "S",
+      "price": 22.489999771118164,
+      "1D": 0.030705778444757345,
+      "1W": 0.0013357385515767133,
+      "1M": 0.1492079776100463,
+      "6M": 0.6214852167759496,
+      "1J": 0.3221634020281586,
+      "news": [
+        {
+          "headline": "AI Agents Are Creating a New Cybersecurity Boom: 3 Stocks to Watch",
+          "url": "https://finnhub.io/api/news?id=390b45d95b815f57bd014584eb3917b619edf1d293c60db0c3ee039f0fea382a"
+        },
+        {
+          "headline": "TD Cowen Maintains Buy on SentinelOne, Raises Price Target to $25",
+          "url": "https://finnhub.io/api/news?id=32aa2d1385c829102e3c793ac74fc419c4eb9d8786a7f4c2bce1b0e0af02a111"
+        }
+      ],
+      "score": 22.5
+    },
+    {
+      "ticker": "LLY",
+      "price": 1225.72998046875,
+      "1D": 0.035979871749621126,
+      "1W": 0.010260281485403103,
+      "1M": 0.04102795857983565,
+      "6M": 0.1823071802944329,
+      "1J": 0.7670088934861699,
+      "news": [
+        {
+          "headline": "10 Health Care Stocks Whale Activity In Today\u2019s Session",
+          "url": "https://finnhub.io/api/news?id=a607edaa23bb540143fdfe73de9dde5d38de54822e9469632d272690e461761a"
+        },
+        {
+          "headline": "From The ETF Professor: NFLX content deal helps SKYY, cloud computing ETF, hit high of the day. NFLX",
+          "url": "https://finnhub.io/api/news?id=b79febb56b13c87a7cca143e78b5079c18f27f0b0e19568309d66e12a3a0ff7d"
+        }
+      ],
+      "score": 20.7
+    },
+    {
+      "ticker": "HWM",
+      "price": 292.6499938964844,
+      "1D": 0.012209459182738568,
+      "1W": 0.0402004610286921,
+      "1M": 0.07474027959337741,
+      "6M": 0.17069836741039576,
+      "1J": 0.6946504612393454,
+      "news": [
+        {
+          "headline": "Howmet Aerospace (NYSE:HWM) Combines High Growth Momentum with a Breakout Setup",
+          "url": "https://finnhub.io/api/news?id=78b9985d8d0db427c5cbe35797ca581564bb4c33654d5eb1ffb35fc52021416d"
+        },
+        {
+          "headline": "5 Insightful Analyst Questions From Howmet\u2019s Q2 Earnings Call",
+          "url": "https://finnhub.io/api/news?id=95eec9ab26115b06d117b44410478617865256a262464178deed97c9c8eda554"
+        }
+      ],
+      "score": 19.8
+    },
+    {
+      "ticker": "ESTC",
+      "price": 85.01000213623047,
+      "1D": 0.01881591142002559,
+      "1W": 0.11386271588252611,
+      "1M": 0.3802565664169513,
+      "6M": 0.3807049302840373,
+      "1J": 0.08265417435849003,
+      "news": [
+        {
+          "headline": "RBC Capital Maintains Outperform on Elastic, Raises Price Target to $87",
+          "url": "https://finnhub.io/api/news?id=ba0da76c4b304b4ba56c97f0e16291c1a61eb596a4e47a014a5c4d09413d55f3"
+        },
+        {
+          "headline": "Top 3 Tech Stocks That May Fall Off A Cliff In August",
+          "url": "https://finnhub.io/api/news?id=7408f575c4817c6507ac144c8a4c50eb4cd6c23dd250f1df6d208f18dd865527"
+        }
+      ],
+      "score": 19.5
+    },
+    {
+      "ticker": "TGT",
+      "price": 152.47999572753906,
+      "1D": 0.00973446310956975,
+      "1W": 0.008932747940194588,
+      "1M": 0.10064720894789693,
+      "6M": 0.3398587272310891,
+      "1J": 0.5117147759861199,
+      "news": [
+        {
+          "headline": "Target Earnings Prediction Market Preview: What Will Michael Fiddelke Say?",
+          "url": "https://finnhub.io/api/news?id=4cc731be29ddb41406428e4025e0428a21511b2dbd2af770df2ef131bdf7bd5e"
+        },
+        {
+          "headline": "Target Q2 Preview: Retailer Could Be Taking Market Share from Walmart, Will Stock Gains Continue?",
+          "url": "https://finnhub.io/api/news?id=79fe5390049ae2b0e02451c7034e1caf8f234d000110b2be42577864ffa3071a"
+        }
+      ],
+      "score": 19.4
+    },
+    {
+      "ticker": "FANG",
+      "price": 210.02000427246094,
+      "1D": 0.018081395645567957,
+      "1W": 0.04693179704819362,
+      "1M": 0.07996635783817019,
+      "6M": 0.26290255052001626,
+      "1J": 0.5415622587436374,
+      "news": [
+        {
+          "headline": "Insider Unloading: Matt Zmigrosky Sells $506K Worth Of Diamondback Energy Shares",
+          "url": "https://finnhub.io/api/news?id=3eee788858aa029a6ebea1bf1944e69bddc4374fb2becedf688b9ac42cf9c33d"
+        },
+        {
+          "headline": "Barclays Maintains Overweight on Diamondback Energy, Lowers Price Target to $221",
+          "url": "https://finnhub.io/api/news?id=6f8a6fdc16a26427d37092e411eb070d33666598a3d06eb6bb2364733e2f18d0"
+        }
+      ],
+      "score": 19.0
+    },
+    {
+      "ticker": "XOM",
+      "price": 165.55999755859375,
+      "1D": 0.02539322850390065,
+      "1W": 0.04275359512293618,
+      "1M": 0.1307819469917107,
+      "6M": 0.1300978995865249,
+      "1J": 0.5963115527401658,
+      "news": [
+        {
+          "headline": "Trump\u2019s Hormuz Shock Sends Oil Above $85: 3 ETFs Poised for the Next Energy Rally",
+          "url": "https://finnhub.io/api/news?id=4d882427f468ebe5dc3db06b6654e9470c1164903d42eb4e9732b8fb1327e0ab"
+        },
+        {
+          "headline": "Nasdaq Drops, Chip Stocks Crater As Bond Yields Bite: Stock Market Today",
+          "url": "https://finnhub.io/api/news?id=a1e896aa71ebecc79b309653ec4b85bc10559029986ca2b2de4dd3a0e243df93"
+        }
+      ],
+      "score": 18.5
+    },
+    {
+      "ticker": "AMGN",
+      "price": 425.2799987792969,
+      "1D": 0.01406837194856968,
+      "1W": 0.026502561694051952,
+      "1M": 0.16104722721952286,
+      "6M": 0.1606259142623088,
+      "1J": 0.497037202552002,
+      "news": [
+        {
+          "headline": "Explore the top gainers and losers within the dow jones index in today's session.",
+          "url": "https://finnhub.io/api/news?id=93ae485a341815fe23fcf7ff4561ae7f48c8b2dacec60a5793cc677ac3351659"
+        },
+        {
+          "headline": "Amgen To Terminate Research Collaboration And License Agreement With TScan Therapeutics; Termination",
+          "url": "https://finnhub.io/api/news?id=1011302742ecb6c729b832b6fcd1571d9373383ba3f323443bed1b8b593db274"
+        }
+      ],
+      "score": 17.2
+    },
+    {
+      "ticker": "JNJ",
+      "price": 271.1099853515625,
+      "1D": 0.03331169873472493,
+      "1W": 0.04353347994614434,
+      "1M": 0.07141160506195747,
+      "6M": 0.12597533236064415,
+      "1J": 0.5766467506369382,
+      "news": [
+        {
+          "headline": "Explore the top gainers and losers within the dow jones index in today's session.",
+          "url": "https://finnhub.io/api/news?id=93ae485a341815fe23fcf7ff4561ae7f48c8b2dacec60a5793cc677ac3351659"
+        },
+        {
+          "headline": "Which dow jones stocks are moving on Tuesday?",
+          "url": "https://finnhub.io/api/news?id=c403cfdc8e76b95c2c482fae3fa9b3d407ffa166cf0ae935a0f4797898d64f03"
+        }
+      ],
+      "score": 17.0
+    },
+    {
+      "ticker": "RTX",
+      "price": 225.49000549316406,
+      "1D": 0.01737053832393864,
+      "1W": 0.010627524480735402,
+      "1M": 0.16913377830584178,
+      "6M": 0.13933844768328088,
+      "1J": 0.47162007524747307,
+      "news": [
+        {
+          "headline": "Elizabeth Warren Targets Defense Contractors\u2019 $100 Billion Shareholder Payouts: \u2018This Needs to Stop\u2019",
+          "url": "https://finnhub.io/api/news?id=98c78827abd463c41d979db1be2d993983418b72c50d697839136824507138f2"
+        },
+        {
+          "headline": "RTX\u2019s Raytheon Lands $22.9 Billion Tomahawk Deal as US Rushes to Rebuild Missile Stockpiles Depleted",
+          "url": "https://finnhub.io/api/news?id=35ef6ca5c149ff6359da9052c5ecdac8d778b1230789ba9a65f6e54a889c0425"
+        }
+      ],
+      "score": 16.2
+    },
+    {
+      "ticker": "OXY",
+      "price": 59.79999923706055,
+      "1D": 0.012872600097357483,
+      "1W": 0.01252959442199038,
+      "1M": 0.09004736733044902,
+      "6M": 0.31021178323892595,
+      "1J": 0.38060746439210624,
+      "news": [
+        {
+          "headline": "Barclays Maintains Overweight on Occidental Petroleum, Lowers Price Target to $71",
+          "url": "https://finnhub.io/api/news?id=c4393619f675ae849e9305200f3395fbda3249d173dc1b1f77f55767cc34a932"
+        },
+        {
+          "headline": "Dividend Announcements: August 1-7, 2026",
+          "url": "https://finnhub.io/api/news?id=9d892d1c46fc34e76484400133ccfacd3aaf49d29a7d83b06d9eef6c6da6ce1f"
+        }
+      ],
+      "score": 16.1
+    },
+    {
+      "ticker": "COP",
+      "price": 129.72000122070312,
+      "1D": 0.01693323693517,
+      "1W": 0.03704906402056403,
+      "1M": 0.13839430233071193,
+      "6M": 0.18980044290040282,
+      "1J": 0.42350657125976277,
+      "news": [
+        {
+          "headline": "Trump\u2019s Hormuz Shock Sends Oil Above $85: 3 ETFs Poised for the Next Energy Rally",
+          "url": "https://finnhub.io/api/news?id=4d882427f468ebe5dc3db06b6654e9470c1164903d42eb4e9732b8fb1327e0ab"
+        },
+        {
+          "headline": "The Hidden Winners Inside SCHD - August 2026",
+          "url": "https://finnhub.io/api/news?id=6c674bf3153c4c112b1c368a5a3d8d5c53ce0cb6ca09bafc6aeb63dd260d5f92"
+        }
+      ],
+      "score": 16.1
+    },
+    {
+      "ticker": "BIIB",
+      "price": 212.5500030517578,
+      "1D": 0.01625631964854955,
+      "1W": 0.042473901064463124,
+      "1M": 0.03184619342520212,
+      "6M": 0.0815692979380991,
+      "1J": 0.5639025629061554,
+      "news": [
+        {
+          "headline": "Biogen (NASDAQ:BIIB) Shows Strong Technical Breakout Setup With Perfect Trend Rating",
+          "url": "https://finnhub.io/api/news?id=7520059c1e635c3a1db5a71abc23c482a4e538243e4691dbd434400fd30c87ea"
+        },
+        {
+          "headline": "Wolfe Research upgrades Biogen, AbbVie on pipeline strength and valuation",
+          "url": "https://finnhub.io/api/news?id=9069d19d991acf04b9fca1c8a243ae50a474fe8d50a62762c1f60f1f800987d3"
+        }
+      ],
+      "score": 14.7
+    },
+    {
+      "ticker": "GE",
+      "price": 375.0899963378906,
+      "1D": 0.015320909981114341,
+      "1W": 0.019100143525316755,
+      "1M": 0.07528025335111156,
+      "6M": 0.19243087030157635,
+      "1J": 0.40433883199794335,
+      "news": [
+        {
+          "headline": "Elizabeth Warren Targets Defense Contractors\u2019 $100 Billion Shareholder Payouts: \u2018This Needs to Stop\u2019",
+          "url": "https://finnhub.io/api/news?id=98c78827abd463c41d979db1be2d993983418b72c50d697839136824507138f2"
+        },
+        {
+          "headline": "Nelson Peltz Is Now Betting on Both Sides of GE's Breakup",
+          "url": "https://finnhub.io/api/news?id=e24eacf67e9590ad6281401edc9bbb5dd347b704c4e2dc0419ed84aedbf47f50"
+        }
+      ],
+      "score": 14.1
+    },
+    {
+      "ticker": "DVN",
+      "price": 47.83000183105469,
+      "1D": 0.005465674540644529,
+      "1W": 0.05352423399789166,
+      "1M": 0.0912616890918288,
+      "6M": 0.08423187701979927,
+      "1J": 0.46266009868307084,
+      "news": [
+        {
+          "headline": "The Hidden Winners Inside SCHD - August 2026",
+          "url": "https://finnhub.io/api/news?id=6c674bf3153c4c112b1c368a5a3d8d5c53ce0cb6ca09bafc6aeb63dd260d5f92"
+        },
+        {
+          "headline": "Argus Research Reiterates Buy on Devon Energy, Maintains $45.85 Price Target",
+          "url": "https://finnhub.io/api/news?id=411dc769069388b7ed5bb3d92cbd4372fd635bd92b8c92b384158d31f0b6caf9"
+        }
+      ],
+      "score": 13.9
+    },
+    {
+      "ticker": "BMY",
+      "price": 66.05000305175781,
+      "1D": 0.02197131144493042,
+      "1W": 0.038358786637225355,
+      "1M": 0.08742181802035556,
+      "6M": 0.11103587824750263,
+      "1J": 0.4364041158649516,
+      "news": [
+        {
+          "headline": "5 Undervalued Winners Up To 6.8% And 15 Overvalued To Avoid Now",
+          "url": "https://finnhub.io/api/news?id=e6bf7b78e031bbcb468b8823cda499b666ece9ead74075c85b9647263cd0d6bf"
+        },
+        {
+          "headline": "Adicet Bio: A Cheap Gamma Delta T-Cell Play",
+          "url": "https://finnhub.io/api/news?id=6820c078b6e54fa4209864376be3883485e28cbbb76228e7459a6e3b45b80c7b"
+        }
+      ],
+      "score": 13.9
+    },
+    {
+      "ticker": "OKE",
+      "price": 97.06999969482422,
+      "1D": 0.018359211137251225,
+      "1W": 0.060642518087092645,
+      "1M": 0.0503357391772316,
+      "6M": 0.1543896836251466,
+      "1J": 0.4011403904643032,
+      "news": [
+        {
+          "headline": "Morgan Stanley Maintains Equal-Weight on ONEOK, Raises Price Target to $105",
+          "url": "https://finnhub.io/api/news?id=79c1a5651567ed25586e415503f38ae30e9a92c968896066930305178e264ff5"
+        },
+        {
+          "headline": "The Hidden Winners Inside SCHD - August 2026",
+          "url": "https://finnhub.io/api/news?id=6c674bf3153c4c112b1c368a5a3d8d5c53ce0cb6ca09bafc6aeb63dd260d5f92"
+        }
+      ],
+      "score": 13.7
+    },
+    {
+      "ticker": "CVX",
+      "price": 205.74000549316406,
+      "1D": 0.014997575681750586,
+      "1W": 0.046171065096975474,
+      "1M": 0.09798270963774343,
+      "6M": 0.14104420015740435,
+      "1J": 0.3800988816322194,
+      "news": [
+        {
+          "headline": "Explore the top gainers and losers within the dow jones index in today's session.",
+          "url": "https://finnhub.io/api/news?id=93ae485a341815fe23fcf7ff4561ae7f48c8b2dacec60a5793cc677ac3351659"
+        },
+        {
+          "headline": "Trump\u2019s Hormuz Shock Sends Oil Above $85: 3 ETFs Poised for the Next Energy Rally",
+          "url": "https://finnhub.io/api/news?id=4d882427f468ebe5dc3db06b6654e9470c1164903d42eb4e9732b8fb1327e0ab"
+        }
+      ],
+      "score": 13.6
+    },
+    {
+      "ticker": "EOG",
+      "price": 148.6999969482422,
+      "1D": 0.01744784918406454,
+      "1W": 0.036959576550496274,
+      "1M": 0.06297803700788114,
+      "6M": 0.25044876317539105,
+      "1J": 0.3069665970705246,
+      "news": [
+        {
+          "headline": "The Hidden Winners Inside SCHD - August 2026",
+          "url": "https://finnhub.io/api/news?id=6c674bf3153c4c112b1c368a5a3d8d5c53ce0cb6ca09bafc6aeb63dd260d5f92"
+        },
+        {
+          "headline": "Barclays Maintains Equal-Weight on EOG Resources, Lowers Price Target to $147",
+          "url": "https://finnhub.io/api/news?id=43a69dbf7facd7d27a05b39444c2737ed8ba108b0f44d0f4c0297c5850416ce5"
+        }
+      ],
+      "score": 13.5
+    },
+    {
+      "ticker": "GLBE",
+      "price": 41.310001373291016,
+      "1D": 0.0031568981824144126,
+      "1W": 0.011013234366556738,
+      "1M": 0.08368317237118367,
+      "6M": 0.3048010604039121,
+      "1J": 0.269124495900343,
+      "news": [
+        {
+          "headline": "UBS Maintains Buy on Global E Online, Raises Price Target to $54",
+          "url": "https://finnhub.io/api/news?id=c6d9da3a7228e1cf415e2412559b9772c9b30dc6e7537aaf712e22e5c210e393"
+        },
+        {
+          "headline": "Morgan Stanley Maintains Equal-Weight on Global E Online, Raises Price Target to $46",
+          "url": "https://finnhub.io/api/news?id=32017ca81031264f7cc076446b8df0aab461c6fffa963948185571accfad5f3a"
+        }
+      ],
+      "score": 13.4
+    },
+    {
+      "ticker": "BAC",
+      "price": 64.2300033569336,
+      "1D": 0.0053217087264559315,
+      "1W": 0.0035938024520874023,
+      "1M": 0.04831080262861093,
+      "6M": 0.23556073400225896,
+      "1J": 0.3695567421560743,
+      "news": [
+        {
+          "headline": "Bank of America: Current Price Already Requires A 16% Terminal ROTCE, Hold",
+          "url": "https://finnhub.io/api/news?id=2f98b014963a86255f19c5298d56158edc16823eb02095cda2adb2b7a2921399"
+        },
+        {
+          "headline": "Bank of America: Don't Chase Short-Term Momentum From The Global Bond Rout",
+          "url": "https://finnhub.io/api/news?id=44537f2c3573bcfef6d5b6d3209ae6d94ffae7adc2a4805d9e0e198916ce6c4d"
+        }
+      ],
+      "score": 13.2
+    },
+    {
+      "ticker": "SAIC",
+      "price": 125.94999694824219,
+      "1D": 0.012948372669856196,
+      "1W": 0.0039056102928839813,
+      "1M": 0.09038173854155913,
+      "6M": 0.46465620785186534,
+      "1J": 0.08928375835709386,
+      "news": [
+        {
+          "headline": "SAIC Schedules Second Quarter Fiscal Year 2027 Earnings Conference Call for August 31 at 10 A.M. EDT",
+          "url": "https://finnhub.io/api/news?id=ef6292dae47c434915b507235f109681a416fcba0ca67b8524232a7e22c7bb61"
+        }
+      ],
+      "score": 13.2
+    },
+    {
+      "ticker": "REGN",
+      "price": 810.239990234375,
+      "1D": 0.006521820225952684,
+      "1W": 0.017799374337662304,
+      "1M": 0.19875585585569314,
+      "6M": 0.012705803804409974,
+      "1J": 0.4190286640118927,
+      "news": [
+        {
+          "headline": "European Medicines Agency Concerns Prompt Sanofi To Pull Dupixent Indication",
+          "url": "https://finnhub.io/api/news?id=d98609cacbbd4a08159e7bd82711b940086ebba59ce448ff34d38d20d40ef79a"
+        },
+        {
+          "headline": "Nektar: Maintaining 'Strong Buy' Rating Due To REZPEG Catalyst, Another Coming",
+          "url": "https://finnhub.io/api/news?id=343266a2ab01d309b98a829686f38986221f1cda38a9702571e22fe231634d38"
+        }
+      ],
+      "score": 13.1
+    },
+    {
+      "ticker": "KO",
+      "price": 88.81999969482422,
+      "1D": 0.02115424542282396,
+      "1W": 0.027058235974305317,
+      "1M": 0.08901425151484084,
+      "6M": 0.14397703519519653,
+      "1J": 0.32121294314449594,
+      "news": [
+        {
+          "headline": "Explore the top gainers and losers within the dow jones index in today's session.",
+          "url": "https://finnhub.io/api/news?id=93ae485a341815fe23fcf7ff4561ae7f48c8b2dacec60a5793cc677ac3351659"
+        },
+        {
+          "headline": "Which dow jones stocks are moving on Tuesday?",
+          "url": "https://finnhub.io/api/news?id=c403cfdc8e76b95c2c482fae3fa9b3d407ffa166cf0ae935a0f4797898d64f03"
+        }
+      ],
+      "score": 12.0
+    },
+    {
+      "ticker": "DXCM",
+      "price": 89.5999984741211,
+      "1D": 0.009463680911153915,
+      "1W": 0.0007818574307900655,
+      "1M": 0.16894972851200732,
+      "6M": 0.2796344297310611,
+      "1J": 0.10863646142600955,
+      "news": [
+        {
+          "headline": "DexCom (DXCM) Rebounds On Growth Hopes, Does It Look Fully Valued?",
+          "url": "https://finnhub.io/api/news?id=f5e5a944e5b5fed36bd36d7275c18b31dc508df8f25d7b98535c11f42c129b4a"
+        },
+        {
+          "headline": "DexCom (DXCM) Stock Sees Modest Fair Value Lift After Q2 And Clinical Updates",
+          "url": "https://finnhub.io/api/news?id=68527f962f1107807a5e0264b10d46c55183f0f056fcdb7ce561c4c366a7af80"
+        }
+      ],
+      "score": 11.3
+    },
+    {
+      "ticker": "JPM",
+      "price": 363.25,
+      "1D": 0.006344217085363238,
+      "1W": 0.003342148454645143,
+      "1M": 0.06493694957531718,
+      "6M": 0.21220900509244908,
+      "1J": 0.2698496148516909,
+      "news": [
+        {
+          "headline": "Which dow jones stocks are moving on Tuesday?",
+          "url": "https://finnhub.io/api/news?id=c403cfdc8e76b95c2c482fae3fa9b3d407ffa166cf0ae935a0f4797898d64f03"
+        },
+        {
+          "headline": "Discover which dow jones stocks are making waves on Monday.",
+          "url": "https://finnhub.io/api/news?id=ec0668889a4c1c71892f8037054930e2b4ad337fa2c786bae0c8ac483da2e41c"
+        }
+      ],
+      "score": 11.1
+    },
+    {
+      "ticker": "LNG",
+      "price": 273.7799987792969,
+      "1D": 0.025662182188105724,
+      "1W": 0.031458412138507016,
+      "1M": 0.04483817814380045,
+      "6M": 0.24557364453341993,
+      "1J": 0.2023774341975734,
+      "news": [
+        {
+          "headline": "Q2 2026 Midstream/MLP Buybacks: Momentum Continues",
+          "url": "https://finnhub.io/api/news?id=b235f19720cc4ad00e596b6367249632bf5839282e72f1641d3b10f62915d8ca"
+        },
+        {
+          "headline": "Trump\u2019s Hormuz Shock Sends Oil Above $85: 3 ETFs Poised for the Next Energy Rally",
+          "url": "https://finnhub.io/api/news?id=4d882427f468ebe5dc3db06b6654e9470c1164903d42eb4e9732b8fb1327e0ab"
+        }
+      ],
+      "score": 11.0
+    },
+    {
+      "ticker": "SCHW",
+      "price": 111.68000030517578,
+      "1D": 0.009947535321998666,
+      "1W": 0.03997830258585718,
+      "1M": 0.10285212772305335,
+      "6M": 0.19939778241884856,
+      "1J": 0.1761195077950818,
+      "news": [
+        {
+          "headline": "Tracking Al Gore's Generation Investment Management Portfolio - Q2 2026 Update",
+          "url": "https://finnhub.io/api/news?id=9d71a11ac50f796cfd2586dab3cdda355e745abc81ec1890055606c493633591"
+        },
+        {
+          "headline": "Nasdaq's Going Almost 24/7: Exchange Eyes 23-Hour Trading Day",
+          "url": "https://finnhub.io/api/news?id=fb30f5681492633a89ee6947ddf2805c2dd7db5cd9bbe3457f4f5a181fb2925f"
+        }
+      ],
+      "score": 10.6
+    },
+    {
+      "ticker": "ABBV",
+      "price": 258.9200134277344,
+      "1D": 0.03431475066451285,
+      "1W": 0.044158616579129284,
+      "1M": 0.01740739454968226,
+      "6M": 0.13575075918264626,
+      "1J": 0.29230979429537296,
+      "news": [
+        {
+          "headline": "10 Health Care Stocks Whale Activity In Today\u2019s Session",
+          "url": "https://finnhub.io/api/news?id=a607edaa23bb540143fdfe73de9dde5d38de54822e9469632d272690e461761a"
+        },
+        {
+          "headline": "5 Undervalued Winners Up To 6.8% And 15 Overvalued To Avoid Now",
+          "url": "https://finnhub.io/api/news?id=e6bf7b78e031bbcb468b8823cda499b666ece9ead74075c85b9647263cd0d6bf"
+        }
+      ],
+      "score": 10.5
+    },
+    {
+      "ticker": "WMB",
+      "price": 75.12999725341797,
+      "1D": 0.022872707623931184,
+      "1W": 0.03899875245520698,
+      "1M": 0.023848460963501694,
+      "6M": 0.0546366763514989,
+      "1J": 0.37142976913043224,
+      "news": [
+        {
+          "headline": "Morgan Stanley Maintains Overweight on Williams Companies, Raises Price Target to $103",
+          "url": "https://finnhub.io/api/news?id=56271ffc7a315d7e5b30e5421e45f12329cac1b06611650cda749a5fe0e80d26"
+        },
+        {
+          "headline": "Williams: Play The New Growth Cycle For Natural Gas",
+          "url": "https://finnhub.io/api/news?id=c7e085e1f257f044e89447b7b33c3826f779bdf9fd7bc0e4c26d92aa30a39f44"
+        }
+      ],
+      "score": 10.2
+    },
+    {
+      "ticker": "GD",
+      "price": 393.4800109863281,
+      "1D": 0.0059825030686104785,
+      "1W": 0.004057251469693614,
+      "1M": 0.0675566371512157,
+      "6M": 0.14212246556772026,
+      "1J": 0.276936328047937,
+      "news": [
+        {
+          "headline": "Elizabeth Warren Targets Defense Contractors\u2019 $100 Billion Shareholder Payouts: \u2018This Needs to Stop\u2019",
+          "url": "https://finnhub.io/api/news?id=98c78827abd463c41d979db1be2d993983418b72c50d697839136824507138f2"
+        },
+        {
+          "headline": "5 Undervalued Winners Up To 6.8% And 15 Overvalued To Avoid Now",
+          "url": "https://finnhub.io/api/news?id=e6bf7b78e031bbcb468b8823cda499b666ece9ead74075c85b9647263cd0d6bf"
+        }
+      ],
+      "score": 9.9
+    },
+    {
+      "ticker": "KMI",
+      "price": 32.869998931884766,
+      "1D": 0.016702662240847203,
+      "1W": 0.04415500031324627,
+      "1M": 0.02715893649671033,
+      "6M": 0.0360140045745295,
+      "1J": 0.30352193466515864,
+      "news": [
+        {
+          "headline": "Oil Is Up 86% in 2026. The 4% Toll-Collector Fund Beats Chasing Crude",
+          "url": "https://finnhub.io/api/news?id=34d02692f38c7291a8bde317e1e2d9d0422d5e5a444e4db6cd03985dcc66e06e"
+        },
+        {
+          "headline": "LNG Q2 Earnings Beat Estimates on Higher Volumes and Margins",
+          "url": "https://finnhub.io/api/news?id=bf0c2f12f4ce4c967c8a1f6be3309088549ef5ed08c09fb74f407de3d4eef5af"
+        }
+      ],
+      "score": 8.6
+    },
+    {
+      "ticker": "VZ",
+      "price": 48.540000915527344,
+      "1D": 0.009987505795267918,
+      "1W": 0.02686694405468502,
+      "1M": 0.11355817264537396,
+      "6M": 0.02244433111155698,
+      "1J": 0.16818475806551564,
+      "news": [
+        {
+          "headline": "5 Undervalued Winners Up To 6.8% And 15 Overvalued To Avoid Now",
+          "url": "https://finnhub.io/api/news?id=e6bf7b78e031bbcb468b8823cda499b666ece9ead74075c85b9647263cd0d6bf"
+        },
+        {
+          "headline": "Verizon (VZ) Brings AI And 5G To Airspace Monitoring Pilots",
+          "url": "https://finnhub.io/api/news?id=ad9f1caaa08cac42d5985a0a3e447cc9580836ca6cdfef0c54243a76af7ab9f8"
+        }
+      ],
+      "score": 6.8
+    },
+    {
+      "ticker": "PFE",
+      "price": 27.25,
+      "1D": 0.014142134309566436,
+      "1W": 0.023666383955859568,
+      "1M": 0.10685472421732019,
+      "6M": 0.021913909828996585,
+      "1J": 0.16318729900264603,
+      "news": [
+        {
+          "headline": "Curious about the most active S&P500 stocks in today's session?",
+          "url": "https://finnhub.io/api/news?id=24c9996a10530fa6a0427d69ff6a313d93278a413a4647420282430a58033efa"
+        },
+        {
+          "headline": "The 9% Portfolio That Retires Your Paycheck",
+          "url": "https://finnhub.io/api/news?id=af9e9891c36a35905a94feb76585bb6875f18fcb3e7f02310634986236b6873c"
+        }
+      ],
+      "score": 6.6
+    },
+    {
+      "ticker": "SJM",
+      "price": 118.5,
+      "1D": 0.005686142396110284,
+      "1W": 0.01935008887136743,
+      "1M": 0.06785587193016132,
+      "6M": 0.094166376488687,
+      "1J": 0.10683603817079973,
+      "news": [
+        {
+          "headline": "J. M. Smucker Q1 Earnings: The Tide Is Turning After Years Of Underperformance",
+          "url": "https://finnhub.io/api/news?id=9bce366f388995ac5429aa9a25513278279f222783ee87fc1e623017f65f8f61"
+        },
+        {
+          "headline": "JP Morgan Maintains Overweight on JM Smucker, Raises Price Target to $139",
+          "url": "https://finnhub.io/api/news?id=1864a903acda325f78b9240477684f5c1d51ad9f4eda19d80ae531d1d09d1aaf"
+        }
+      ],
+      "score": 5.9
+    },
+    {
+      "ticker": "V",
+      "price": 364.25,
+      "1D": 0.015076367510089962,
+      "1W": 0.0039413280605096225,
+      "1M": 0.0177562886980157,
+      "6M": 0.16429960014386275,
+      "1J": 0.07125852959433111,
+      "news": [
+        {
+          "headline": "Explore the top gainers and losers within the dow jones index in today's session.",
+          "url": "https://finnhub.io/api/news?id=93ae485a341815fe23fcf7ff4561ae7f48c8b2dacec60a5793cc677ac3351659"
+        },
+        {
+          "headline": "Which dow jones stocks are moving on Tuesday?",
+          "url": "https://finnhub.io/api/news?id=c403cfdc8e76b95c2c482fae3fa9b3d407ffa166cf0ae935a0f4797898d64f03"
+        }
+      ],
+      "score": 5.4
+    },
+    {
+      "ticker": "DLTR",
+      "price": 130.47999572753906,
+      "1D": 0.007256465108269206,
+      "1W": 0.018897377909429088,
+      "1M": 0.03604885817153331,
+      "6M": 0.03506265472431776,
+      "1J": 0.16437621426248822,
+      "news": [
+        {
+          "headline": "Wall Street Lunch: Meta Faces High-Stakes Federal Trial Over Child Safety",
+          "url": "https://finnhub.io/api/news?id=069dcaa59f8d9b58211f0ace2cb2a20b41ee5c27991f7c110010c37daa93981c"
+        },
+        {
+          "headline": "Wells Fargo Maintains Overweight on Dollar Tree, Raises Price Target to $155",
+          "url": "https://finnhub.io/api/news?id=67e4f40c51970501613b78d03541f82acde74ab810288df8afba417f2a52c3c7"
+        }
+      ],
+      "score": 5.2
+    },
+    {
+      "ticker": "BLK",
+      "price": 1154.3499755859375,
+      "1D": 0.006311504848557405,
+      "1W": 0.004796150838720742,
+      "1M": 0.07661819451145802,
+      "6M": 0.08941350983416585,
+      "1J": 0.03733510602413207,
+      "news": [
+        {
+          "headline": "Tom Lee Says Ethereum Is the 'Downstream Story' for AI's New 'Hive Mind'",
+          "url": "https://finnhub.io/api/news?id=43853c9a960fdfc792edb91fe016dce505acc21e90f998af9f80f387b2d40679"
+        },
+        {
+          "headline": "Bitcoin's Investment Case Hasn't Changed, BlackRock Says, Backs up to 2% Portfolio Allocation",
+          "url": "https://finnhub.io/api/news?id=70e57381eadcd2b3e720e92c3971299462ac430db9a1bd9e7381426c02f7eeea"
+        }
+      ],
+      "score": 4.3
+    },
+    {
+      "ticker": "MDLZ",
+      "price": 62.65999984741211,
+      "1D": 0.007719516562890296,
+      "1W": 0.014244109509599602,
+      "1M": 0.02721311225265753,
+      "6M": 0.018250337832036712,
+      "1J": 0.04845813375208826,
+      "news": [
+        {
+          "headline": "For the First Time Ever, the OREO Brand Lets Fans Determine Which of Three New Flavors Returns in \"T",
+          "url": "https://finnhub.io/api/news?id=4881fbe935c31d28b930284e4a9042cc28f7bad8559ad3b71c7d82c56d170036"
+        },
+        {
+          "headline": "Mondelez: This Dividend Stock Still Has Room To Run",
+          "url": "https://finnhub.io/api/news?id=47b01e04a4c08c332efdb036cc8cee34df20fd745a2d7eea0c0532fd294e1e52"
+        }
+      ],
+      "score": 2.3
+    }
   ]
 }
