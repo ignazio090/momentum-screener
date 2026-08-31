@@ -36105,5 +36105,518 @@
       ],
       "score": 3.0
     }
+  ],
+  "2026-08-31": [
+    {
+      "ticker": "TEAM",
+      "price": 190.4149932861328,
+      "1D": 0.02583233646740528,
+      "1W": 0.10828820203663672,
+      "1M": 0.8259972719134387,
+      "6M": 1.3972679410115159,
+      "1J": 0.07712973526976155,
+      "news": [],
+      "score": 48.7
+    },
+    {
+      "ticker": "VLO",
+      "price": 352.3599853515625,
+      "1D": 0.01664788099667687,
+      "1W": 0.010032678286312735,
+      "1M": 0.17390718634257057,
+      "6M": 0.7439633931980012,
+      "1J": 1.3804624530461418,
+      "news": [
+        {
+          "headline": "The Iranian War 'Tax' Hits The 6-Month Mark",
+          "url": "https://finnhub.io/api/news?id=262a5f8e50f6c97221642f5a195b1ddac524a005ea2d5a520acbf2ef07fb5c59"
+        },
+        {
+          "headline": "Refiners Fuel Oil & Gas Gains as Margin Expansion Drives Downstream Leadership",
+          "url": "https://finnhub.io/api/news?id=807f76c792ccf49cd90c3a26cba3e7d61933479f6c5c3ef80b0541c2f5bd81b6"
+        }
+      ],
+      "score": 46.5
+    },
+    {
+      "ticker": "MPC",
+      "price": 368.8299865722656,
+      "1D": 0.014551295326522716,
+      "1W": 0.022482771468501084,
+      "1M": 0.1979784334916355,
+      "6M": 0.8463787387393443,
+      "1J": 1.0914141126166865,
+      "news": [],
+      "score": 43.5
+    },
+    {
+      "ticker": "PSX",
+      "price": 244.00999450683594,
+      "1D": 0.017513852595807584,
+      "1W": 0.004693866729393126,
+      "1M": 0.18613747394292693,
+      "6M": 0.6206610932022273,
+      "1J": 0.8914073844355319,
+      "news": [],
+      "score": 34.4
+    },
+    {
+      "ticker": "ESTC",
+      "price": 99.91000366210938,
+      "1D": 0.1930977574736226,
+      "1W": 0.16255528070560446,
+      "1M": 0.5504345108142282,
+      "6M": 0.6224423626393095,
+      "1J": 0.13805675612469867,
+      "news": [
+        {
+          "headline": "Warsh's Jackson Hole Debut Rattles Rates and Tech",
+          "url": "https://finnhub.io/api/news?id=2d5abdb607b055573b7822022510206b08f75be320eb83da85199aa95a9795c4"
+        },
+        {
+          "headline": "Tech Rallies In September, I'm Adding Software And Chip Stocks",
+          "url": "https://finnhub.io/api/news?id=489d22b32da9cee09f148951e508dd220168e5c4fe174fda6d01dcbd9b29741a"
+        }
+      ],
+      "score": 33.3
+    },
+    {
+      "ticker": "MDB",
+      "price": 446.6199951171875,
+      "1D": 0.013709221319636972,
+      "1W": 0.03665020782455059,
+      "1M": 0.3909062180871058,
+      "6M": 0.32681742833840255,
+      "1J": 0.4040238495683936,
+      "news": [],
+      "score": 23.4
+    },
+    {
+      "ticker": "ABNB",
+      "price": 189.42999267578125,
+      "1D": 0.027277651549818045,
+      "1W": 0.011372074689367965,
+      "1M": 0.23802365516272336,
+      "6M": 0.3830035116269588,
+      "1J": 0.45201581271761404,
+      "news": [
+        {
+          "headline": "Top S&P500 movers in Friday's session",
+          "url": "https://finnhub.io/api/news?id=c2d0ebb5a2588268a382b2c76dc70a1993b39bdd31f4c0a0a9a78650e71a0a0b"
+        },
+        {
+          "headline": "Airbnb: Even At Multi-Year Highs, This Company Can Still Rally Further",
+          "url": "https://finnhub.io/api/news?id=327a00bb40776af03e7e17ff9305912b177386b2c7d4db294041fc401e3e49a8"
+        }
+      ],
+      "score": 22.2
+    },
+    {
+      "ticker": "PLTR",
+      "price": 186.2899932861328,
+      "1D": 0.001936215912078908,
+      "1W": 0.035289489599703135,
+      "1M": 0.5145527909441692,
+      "6M": 0.3703839189382739,
+      "1J": 0.17815582493578802,
+      "news": [
+        {
+          "headline": "Jackson Hole Just Changed The Game",
+          "url": "https://finnhub.io/api/news?id=69c13fb568ed66aae2fc04afe7601d7d6482c634af27cf03a14645b8a4ecc0fc"
+        },
+        {
+          "headline": "Cathie Wood Trims AMD After a 120% Rally \u2014 Is the AI Trade Getting Too Crowded?",
+          "url": "https://finnhub.io/api/news?id=00ca459523d00476785ba984c3513109ae093739e21e9ba21e3bb04f30aa7dd6"
+        }
+      ],
+      "score": 22.0
+    },
+    {
+      "ticker": "SLB",
+      "price": 57.33000183105469,
+      "1D": 0.04217421523922022,
+      "1W": 0.06422875381053708,
+      "1M": 0.1709559416482204,
+      "6M": 0.11925783960759623,
+      "1J": 0.6144730159084835,
+      "news": [],
+      "score": 20.2
+    },
+    {
+      "ticker": "CRM",
+      "price": 256.0,
+      "1D": 0.01567148145374577,
+      "1W": 0.22388488904240647,
+      "1M": 0.35895526788659216,
+      "6M": 0.28993154385987574,
+      "1J": 0.014287994350965607,
+      "news": [],
+      "score": 18.1
+    },
+    {
+      "ticker": "HAL",
+      "price": 36.18000030517578,
+      "1D": 0.01944205675052515,
+      "1W": 0.023769104384861718,
+      "1M": 0.15998716529899967,
+      "6M": 0.022401182161843544,
+      "1J": 0.6358559988892343,
+      "news": [
+        {
+          "headline": "'Chevron, Other U.S. Firms Near Deal to Invest Billions in Venezuelan Oil Fields'- WSJ",
+          "url": "https://finnhub.io/api/news?id=08973627b5b8a2442a91b5bcac5537825fbb821c42feaf2dac1e662bfd5654bb"
+        },
+        {
+          "headline": "Halliburton AWarded Integrated Contract By BP For First Appraisal Campaign In Bumerangue Field Offsh",
+          "url": "https://finnhub.io/api/news?id=5d31731f72649f506e93d140f095792477059c8b7bba2147ed8f23ad34664aa6"
+        }
+      ],
+      "score": 17.2
+    },
+    {
+      "ticker": "GOOGL",
+      "price": 346.5899963378906,
+      "1D": 0.017437259791090086,
+      "1W": 0.00513308095840168,
+      "1M": 0.029342773109038055,
+      "6M": 0.12902969579687476,
+      "1J": 0.6423112460262883,
+      "news": [
+        {
+          "headline": "Tracking Terry Smith's Fundsmith 13F Portfolio - Q2 2026 Update",
+          "url": "https://finnhub.io/api/news?id=891189d904c37cd1a42d9adf35703a2729dacbb6529f24d5bb557f9ddb970015"
+        },
+        {
+          "headline": "Microsoft: A High-Quality AI Name That Is No Longer Misunderstood",
+          "url": "https://finnhub.io/api/news?id=b1c233d5799408d07e2e32b2a1adca075e81e92599584c8165fa077acb1c0882"
+        }
+      ],
+      "score": 16.5
+    },
+    {
+      "ticker": "GOOG",
+      "price": 342.8800048828125,
+      "1D": 0.01530903307141887,
+      "1W": 0.003306524894842721,
+      "1M": 0.02120560790475782,
+      "6M": 0.1177862295363793,
+      "1J": 0.619151234424458,
+      "news": [],
+      "score": 15.5
+    },
+    {
+      "ticker": "MSFT",
+      "price": 513.530029296875,
+      "1D": 0.016770347640328837,
+      "1W": 0.0626811515491694,
+      "1M": 0.3173983684080278,
+      "6M": 0.28350868098844345,
+      "1J": 0.015923346150994677,
+      "news": [
+        {
+          "headline": "Tracking Terry Smith's Fundsmith 13F Portfolio - Q2 2026 Update",
+          "url": "https://finnhub.io/api/news?id=891189d904c37cd1a42d9adf35703a2729dacbb6529f24d5bb557f9ddb970015"
+        },
+        {
+          "headline": "Microsoft Among 14 Dividend Growth Companies To Announce Annual Dividend Increases In September",
+          "url": "https://finnhub.io/api/news?id=d51433a38a0f4890cf4c5e89cba7f152e5467f9b5df585ace5da77fceb26f54f"
+        }
+      ],
+      "score": 13.9
+    },
+    {
+      "ticker": "AMZN",
+      "price": 266.42999267578125,
+      "1D": 0.03968618794425904,
+      "1W": 0.030158866510879092,
+      "1M": 0.17551290470126907,
+      "6M": 0.2814062861778869,
+      "1J": 0.15038853909484812,
+      "news": [
+        {
+          "headline": "AI Threat To Global Financial System",
+          "url": "https://finnhub.io/api/news?id=700b0dcac7386e497ccee5924ba0fffc7f5c416a51977aef6382e7e470de55d2"
+        },
+        {
+          "headline": "Microsoft: A High-Quality AI Name That Is No Longer Misunderstood",
+          "url": "https://finnhub.io/api/news?id=b1c233d5799408d07e2e32b2a1adca075e81e92599584c8165fa077acb1c0882"
+        }
+      ],
+      "score": 13.5
+    },
+    {
+      "ticker": "GEN",
+      "price": 31.020000457763672,
+      "1D": 0.01704919533651383,
+      "1W": 0.07224335051990909,
+      "1M": 0.12764204423131445,
+      "6M": 0.3738474690526835,
+      "1J": 0.04730189944934174,
+      "news": [],
+      "score": 12.8
+    },
+    {
+      "ticker": "C",
+      "price": 132.89999389648438,
+      "1D": 0.0016581341034644398,
+      "1W": 0.009494873208903205,
+      "1M": 0.050701578850987146,
+      "6M": 0.15506973067884633,
+      "1J": 0.40168835380273893,
+      "news": [],
+      "score": 12.4
+    },
+    {
+      "ticker": "CART",
+      "price": 50.540000915527344,
+      "1D": 0.0011886167558462994,
+      "1W": 0.01424842581543266,
+      "1M": 0.10736199805888408,
+      "6M": 0.3147763455020262,
+      "1J": 0.15256562540941665,
+      "news": [
+        {
+          "headline": "Maplebear (NASDAQ:CART): Strong Growth and a Technical Setup Aligned for a Breakout",
+          "url": "https://finnhub.io/api/news?id=c1d4e3be998c54a1d57c54c186d2905e7ae07ede96676265e2759976c73ae2c7"
+        },
+        {
+          "headline": "Maplebear (NASDAQ:CART) Flashes a High-Quality Technical Breakout Setup",
+          "url": "https://finnhub.io/api/news?id=6086927074c5eea0578f772cf7e7206e673d1db68dd541569fabb5b6082762c1"
+        }
+      ],
+      "score": 11.8
+    },
+    {
+      "ticker": "SJM",
+      "price": 132.33999633789062,
+      "1D": 0.0037924758334986447,
+      "1W": 0.06451091266693673,
+      "1M": 0.05722389306879882,
+      "6M": 0.16433591194309558,
+      "1J": 0.2911248946675917,
+      "news": [],
+      "score": 11.6
+    },
+    {
+      "ticker": "OKE",
+      "price": 94.76000213623047,
+      "1D": 0.000422306957472892,
+      "1W": 0.015321978754102648,
+      "1M": 0.06544285199104713,
+      "6M": 0.15495063342718335,
+      "1J": 0.3164305820499944,
+      "news": [],
+      "score": 11.1
+    },
+    {
+      "ticker": "MET",
+      "price": 96.51000213623047,
+      "1D": 0.002701320895900974,
+      "1W": 0.023001970347419704,
+      "1M": 0.0009062132219302176,
+      "6M": 0.28854414554857066,
+      "1J": 0.22852805258860648,
+      "news": [
+        {
+          "headline": "Why The Fed Might Raise Rates Despite August Job Declines",
+          "url": "https://finnhub.io/api/news?id=a299b766185dceb88655212608b26bdb4969b7720c7fa120d7c7e8941765af13"
+        },
+        {
+          "headline": "Dividend Champion, Contender, And Challenger Highlights: Week August 30",
+          "url": "https://finnhub.io/api/news?id=a70f356816315e6c1cffbf3ddb6582552dedd39464f32f29f67f627611d5c738"
+        }
+      ],
+      "score": 10.9
+    },
+    {
+      "ticker": "BAC",
+      "price": 62.31999969482422,
+      "1D": 0.018800090899180985,
+      "1W": 0.010212369624571078,
+      "1M": 0.020468315150588407,
+      "6M": 0.20454945451802617,
+      "1J": 0.2611912212927508,
+      "news": [],
+      "score": 10.3
+    },
+    {
+      "ticker": "LNG",
+      "price": 282.3299865722656,
+      "1D": 0.005448713838352903,
+      "1W": 0.017368659280836047,
+      "1M": 0.09409184497686196,
+      "6M": 0.21972643600070746,
+      "1J": 0.17745443299126523,
+      "news": [],
+      "score": 10.3
+    },
+    {
+      "ticker": "JPM",
+      "price": 357.6199951171875,
+      "1D": 0.009598537306666509,
+      "1W": 0.017179614243145718,
+      "1M": 0.03745178260605127,
+      "6M": 0.1794645306888456,
+      "1J": 0.21055412601568696,
+      "news": [
+        {
+          "headline": "Stay informed with the top movers within the dow jones index on Friday.",
+          "url": "https://finnhub.io/api/news?id=55cae651cbeff84fbf63cc5a69133b5bb10f6b6420ada6c314a3e1af3a9e0019"
+        },
+        {
+          "headline": "10 Financials Stocks Whale Activity In Today\u2019s Session",
+          "url": "https://finnhub.io/api/news?id=6e8f5ed6918318267e66a01ba53439eedf0cd99720765cb915d9a9e4c04a7bd4"
+        }
+      ],
+      "score": 9.1
+    },
+    {
+      "ticker": "SBUX",
+      "price": 107.8499984741211,
+      "1D": 0.005500618367891445,
+      "1W": 0.007190853846652592,
+      "1M": 0.04157421137462584,
+      "6M": 0.11241133576961186,
+      "1J": 0.2565579640868771,
+      "news": [],
+      "score": 8.5
+    },
+    {
+      "ticker": "V",
+      "price": 381.6000061035156,
+      "1D": 0.005109841496848368,
+      "1W": 0.028460536102308896,
+      "1M": 0.03682618941405324,
+      "6M": 0.20966681380867264,
+      "1J": 0.09944515439468775,
+      "news": [
+        {
+          "headline": "Tracking Terry Smith's Fundsmith 13F Portfolio - Q2 2026 Update",
+          "url": "https://finnhub.io/api/news?id=891189d904c37cd1a42d9adf35703a2729dacbb6529f24d5bb557f9ddb970015"
+        },
+        {
+          "headline": "Why The Fed Might Raise Rates Despite August Job Declines",
+          "url": "https://finnhub.io/api/news?id=a299b766185dceb88655212608b26bdb4969b7720c7fa120d7c7e8941765af13"
+        }
+      ],
+      "score": 7.6
+    },
+    {
+      "ticker": "VZ",
+      "price": 50.099998474121094,
+      "1D": 0.013554484418547686,
+      "1W": 0.013144544007141545,
+      "1M": 0.06099104572143178,
+      "6M": 0.05789413611002525,
+      "1J": 0.21835367414867288,
+      "news": [],
+      "score": 7.3
+    },
+    {
+      "ticker": "LPLA",
+      "price": 370.69000244140625,
+      "1D": 0.026216713328997013,
+      "1W": 0.025847505687366736,
+      "1M": 0.09830906751007887,
+      "6M": 0.16331066844175382,
+      "1J": 0.019741398691596725,
+      "news": [
+        {
+          "headline": "LPL Financial: Buy Reaffirmed After Q2 Shows Durability Of The Advisor-Driven Platform",
+          "url": "https://finnhub.io/api/news?id=5c005e1476e6ea01f1210ddd55f284f90747d80e954a3d2ae66bed4c470c8fa1"
+        },
+        {
+          "headline": "LPL Financial (NASDAQ:LPLA) Stands Out as an Affordable Growth Pick",
+          "url": "https://finnhub.io/api/news?id=6a5f58175db1ea8025eb1955ece15fc10420408a123e4bd4cd48d69301a55136"
+        }
+      ],
+      "score": 6.7
+    },
+    {
+      "ticker": "BILL",
+      "price": 50.310001373291016,
+      "1D": 0.029465980619588966,
+      "1W": 0.05207029892006255,
+      "1M": 0.061168562227641596,
+      "6M": 0.15469363611832793,
+      "1J": 0.022560987665424692,
+      "news": [],
+      "score": 6.4
+    },
+    {
+      "ticker": "J",
+      "price": 151.97999572753906,
+      "1D": 0.009029349717435827,
+      "1W": 0.012659873889282074,
+      "1M": 0.12096767658669509,
+      "6M": 0.0935403223849685,
+      "1J": 0.045532410403467165,
+      "news": [],
+      "score": 5.6
+    },
+    {
+      "ticker": "RJF",
+      "price": 179.36000061035156,
+      "1D": 0.018454375042509474,
+      "1W": 0.02374431355348898,
+      "1M": 0.029857584054320447,
+      "6M": 0.1314703909343272,
+      "1J": 0.0776446262011902,
+      "news": [],
+      "score": 5.6
+    },
+    {
+      "ticker": "APD",
+      "price": 308.0899963378906,
+      "1D": 0.008576930980841372,
+      "1W": 0.009800033348280378,
+      "1M": 0.04696369946028261,
+      "6M": 0.1293035887392397,
+      "1J": 0.0721326869062406,
+      "news": [],
+      "score": 5.3
+    },
+    {
+      "ticker": "MA",
+      "price": 595.2999877929688,
+      "1D": 0.0060331695909521125,
+      "1W": 0.02526563006869937,
+      "1M": 0.05677053904166398,
+      "6M": 0.16036794297212292,
+      "1J": 0.014445248437492036,
+      "news": [
+        {
+          "headline": "Tracking Terry Smith's Fundsmith 13F Portfolio - Q2 2026 Update",
+          "url": "https://finnhub.io/api/news?id=891189d904c37cd1a42d9adf35703a2729dacbb6529f24d5bb557f9ddb970015"
+        },
+        {
+          "headline": "Why The Fed Might Raise Rates Despite August Job Declines",
+          "url": "https://finnhub.io/api/news?id=a299b766185dceb88655212608b26bdb4969b7720c7fa120d7c7e8941765af13"
+        }
+      ],
+      "score": 5.3
+    },
+    {
+      "ticker": "MCO",
+      "price": 514.9500122070312,
+      "1D": 0.011649882757747847,
+      "1W": 0.023106581724499007,
+      "1M": 0.06787157985534839,
+      "6M": 0.08116793351635702,
+      "1J": 0.019603362213032126,
+      "news": [],
+      "score": 4.1
+    },
+    {
+      "ticker": "WFC",
+      "price": 86.69000244140625,
+      "1D": 0.020242452583183475,
+      "1W": 0.0339933948950758,
+      "1M": 0.03955762430837628,
+      "6M": 0.016062225834051088,
+      "1J": 0.08051253498846754,
+      "news": [],
+      "score": 3.8
+    }
   ]
 }
