@@ -39334,5 +39334,527 @@
       ],
       "score": 2.2
     }
+  ],
+  "2026-09-07": [
+    {
+      "ticker": "DELL",
+      "price": 524.1400146484375,
+      "1D": 0.015008036135780554,
+      "1W": 0.148825236426955,
+      "1M": 0.13278582412034914,
+      "6M": 2.594256896884395,
+      "1J": 3.190567001964501,
+      "news": [
+        {
+          "headline": "Hewlett Packard Enterprise: Surging Revenue Backlog, Massive AI Catalyst, 11.4x P/E",
+          "url": "https://finnhub.io/api/news?id=e11d12ac6881e0cadd6ef00a688341dc1fff56110d208a06bf927f5a27581ae8"
+        },
+        {
+          "headline": "Dell and HPE Just Posted Record AI Numbers. Why Did Their Stocks Split?",
+          "url": "https://finnhub.io/api/news?id=cb466a3a24d1581e36449d5b95e301c8e559351ef9a5817ce66e1a19607d7763"
+        }
+      ],
+      "score": 121.6
+    },
+    {
+      "ticker": "STX",
+      "price": 849.280029296875,
+      "1D": 0.0634477966400666,
+      "1W": 0.023524897924116214,
+      "1M": 0.013872044176496429,
+      "6M": 1.3176571525368284,
+      "1J": 3.6542686444052612,
+      "news": [
+        {
+          "headline": "These 2 AI Storage Stocks Soared as the S&P 500 Fell",
+          "url": "https://finnhub.io/api/news?id=df341fd8d1bc3a6ae42fcc2847a6b180ba3b5134aee814ae8a568a3d916aeeca"
+        },
+        {
+          "headline": "SK Hynix Surges 7% as Memory Bid Widens Beyond NAND; Seagate Rallies 5%",
+          "url": "https://finnhub.io/api/news?id=4ee08e0c13ee5430857a03ce10c0bf02addec9821b5aa8a2fb8887fbd93e51e1"
+        }
+      ],
+      "score": 101.5
+    },
+    {
+      "ticker": "MRVL",
+      "price": 223.5500030517578,
+      "1D": 0.0704879619385903,
+      "1W": 0.031991543212902866,
+      "1M": 0.059378250998036286,
+      "6M": 1.9560924447956194,
+      "1J": 2.4949500841051293,
+      "news": [
+        {
+          "headline": "Nvidia Is Near Its High While Its Biggest Chip Peers Sit 18% to 32% Below Theirs. These Are the Chip",
+          "url": "https://finnhub.io/api/news?id=50b120564eecbbbee0e2ebd59ef2a28fd08023ebf7a1379534e4efa0669fa535"
+        },
+        {
+          "headline": "Nvidia Barely Moved. These 2 AI Connectivity Stocks Jumped More Than 7%",
+          "url": "https://finnhub.io/api/news?id=cf0e6f1798e75872ac0c1441e71e299a10edfd0ce042c5245411dab79a7d9da9"
+        }
+      ],
+      "score": 92.3
+    },
+    {
+      "ticker": "LRCX",
+      "price": 307.6499938964844,
+      "1D": 0.051219811545146064,
+      "1W": 0.019046042120728107,
+      "1M": 0.0007480985580142192,
+      "6M": 0.43407269347318983,
+      "1J": 2.080588525236894,
+      "news": [
+        {
+          "headline": "SCHD-Inspired 4-Factor Dividend Growth Strategy Selections For September 2026",
+          "url": "https://finnhub.io/api/news?id=bb42b4fff5961915e0943d39451f7e871deed7c2986a302501fb247dccc82cdd"
+        },
+        {
+          "headline": "Two Chip-Equipment Stocks Just Crushed Nvidia. Is the AI Rally Broadening?",
+          "url": "https://finnhub.io/api/news?id=878c667041bf1934c4e1cd08ed28572a0ac35d25e4261f254d619cb33d8c3f12"
+        }
+      ],
+      "score": 51.7
+    },
+    {
+      "ticker": "MPC",
+      "price": 388.8999938964844,
+      "1D": 0.0030693107416194334,
+      "1W": 0.054415335127005436,
+      "1M": 0.3097056226959218,
+      "6M": 0.80094383859351,
+      "1J": 1.2091620379804646,
+      "news": [
+        {
+          "headline": "Marathon Petroleum (NYSE:MPC): A Value Play with Margin of Safety",
+          "url": "https://finnhub.io/api/news?id=acacf732f17ee18bf3a11fe35deaa0518a960e78795da77411951df4e4357f7e"
+        },
+        {
+          "headline": "Valero Energy: Diesel Scarcity Lifted Q2, But The Rally Leaves Little Room For Error",
+          "url": "https://finnhub.io/api/news?id=b6ae88fb3c2629bd0196244a2d506a4d60bd82b53647d45849af2128677a8871"
+        }
+      ],
+      "score": 47.5
+    },
+    {
+      "ticker": "VLO",
+      "price": 370.7200012207031,
+      "1D": 8.092686368474912e-05,
+      "1W": 0.05210584808834682,
+      "1M": 0.225966411793415,
+      "6M": 0.6397879112317835,
+      "1J": 1.4363216250603679,
+      "news": [
+        {
+          "headline": "Does Valero Energy (VLO) Still Sit Above Fair Value After Its 7x Run?",
+          "url": "https://finnhub.io/api/news?id=3db58e9e40b7234bffbba2eed0da833994b75d66fb9ee58a9bc823004e1cc707"
+        },
+        {
+          "headline": "Benzinga's 'Stock Whisper' Index: 5 Stocks Investors Secretly Monitor But Don't Talk About Yet",
+          "url": "https://finnhub.io/api/news?id=1683d9c939c148e46ca18f6e0bbdd03668935b01cdd069c1ae57b4f77cb39183"
+        }
+      ],
+      "score": 47.1
+    },
+    {
+      "ticker": "OKTA",
+      "price": 170.60000610351562,
+      "1D": 0.0010562606296466582,
+      "1W": 0.026288939952445595,
+      "1M": 0.1602286037346054,
+      "6M": 1.1418707198403049,
+      "1J": 0.9010475837373679,
+      "news": [
+        {
+          "headline": "Okta CFO Dumps 80,000 Company Shares Worth $12.9 Million After the Stock Hit a 52-Week High",
+          "url": "https://finnhub.io/api/news?id=5cefa0071a262221efcba8abf718f2d1851a53ce4455965160ca61f683af9108"
+        },
+        {
+          "headline": "Okta Jumps 20% as AI-Driven Security Fears Fuel a Beat-and-Raise Quarter",
+          "url": "https://finnhub.io/api/news?id=e9aadee686dda29898bcc7ccd02989b56acedec22354a7c31c93d37f787d0312"
+        }
+      ],
+      "score": 44.6
+    },
+    {
+      "ticker": "PSX",
+      "price": 255.08999633789062,
+      "1D": 0.0016884970925853647,
+      "1W": 0.045407983609229916,
+      "1M": 0.2660769821197517,
+      "6M": 0.5519447189983605,
+      "1J": 0.9960767588377998,
+      "news": [
+        {
+          "headline": "Phillips 66 (NYSE:PSX) Passes Minervini Trend Template with High-Growth Momentum",
+          "url": "https://finnhub.io/api/news?id=e648906d412ec7aa3521eb85702d6aae40f7991bf764220ae98bbf1624e40128"
+        },
+        {
+          "headline": "Valero Energy: Diesel Scarcity Lifted Q2, But The Rally Leaves Little Room For Error",
+          "url": "https://finnhub.io/api/news?id=b6ae88fb3c2629bd0196244a2d506a4d60bd82b53647d45849af2128677a8871"
+        }
+      ],
+      "score": 37.2
+    },
+    {
+      "ticker": "ASML",
+      "price": 1714.8800048828125,
+      "1D": 0.04172669371183518,
+      "1W": 0.011036677156574158,
+      "1M": 0.021844594165047398,
+      "6M": 0.2575991696869864,
+      "1J": 1.29108903770179,
+      "news": [
+        {
+          "headline": "ASML vs. Taiwan Semiconductor: Which Semiconductor Monopoly Is the Safer Investment?",
+          "url": "https://finnhub.io/api/news?id=f50564404dc39947250382175907bb112df0c9db516eb919910c753e1df9760c"
+        },
+        {
+          "headline": "Why ASML Holding Stock Bumped 4% Higher Today",
+          "url": "https://finnhub.io/api/news?id=deecba037999ae67da7f57dcf03779b17b67d418a340d44ae38c2ffec73439a8"
+        }
+      ],
+      "score": 32.5
+    },
+    {
+      "ticker": "GTLB",
+      "price": 49.83000183105469,
+      "1D": 0.010545537280096943,
+      "1W": 0.11054163176378701,
+      "1M": 0.37804209185086346,
+      "6M": 0.9641308704253237,
+      "1J": 0.1465716263408275,
+      "news": [
+        {
+          "headline": "GitLab Is Starting to Prove the Bears Wrong",
+          "url": "https://finnhub.io/api/news?id=d80df8be0dc46a5e81e209b0429833a02ccf1b049d2f38c858aa9dfea897a8c1"
+        },
+        {
+          "headline": "Why GitLab Stock Surged This Week",
+          "url": "https://finnhub.io/api/news?id=e3b5de823612b979aef5acd6da7060b02e693f832790c6c7402498af85776004"
+        }
+      ],
+      "score": 32.2
+    },
+    {
+      "ticker": "VRT",
+      "price": 280.5299987792969,
+      "1D": 0.043521975938075295,
+      "1W": 0.0912167941180416,
+      "1M": 0.00931854470439761,
+      "6M": 0.1237443626550757,
+      "1J": 1.234200542459901,
+      "news": [
+        {
+          "headline": "These 3 AI Stocks Are Way Off Their Highs. Is the Pullback a Buying Opportunity?",
+          "url": "https://finnhub.io/api/news?id=14ba9aa89d0b03f43386ac970f17c9a6dea7ac3832918ed06e64d37d5907993c"
+        },
+        {
+          "headline": "Buy 3 Ideal September Dividend Dogs Out Of Barron's 58 August Picks",
+          "url": "https://finnhub.io/api/news?id=99f1dbb7cb0e8b9d81deeb5c8ae56d37d85d41ec6cac2ff9644d8e26d4eec6da"
+        }
+      ],
+      "score": 30.0
+    },
+    {
+      "ticker": "TGT",
+      "price": 164.44000244140625,
+      "1D": 0.0026218398205750185,
+      "1W": 0.007721594694078003,
+      "1M": 0.12188338544000293,
+      "6M": 0.3897285018566483,
+      "1J": 0.8455263828702524,
+      "news": [
+        {
+          "headline": "Target Stock at $165: Here's Why Investors Should Pause.",
+          "url": "https://finnhub.io/api/news?id=ab6c62d0641afe02d44b01ff7eddcca48c2b208e3c7979c658a17cb887dd60df"
+        },
+        {
+          "headline": "Target (TGT) Launches Beauty Studio With 1,600 Products From 90 Brands",
+          "url": "https://finnhub.io/api/news?id=a21ccb7732c67eecab5662455316dda107430304e87b06dea7b0113284e1c185"
+        }
+      ],
+      "score": 27.3
+    },
+    {
+      "ticker": "TSM",
+      "price": 428.9100036621094,
+      "1D": 0.028536470630939077,
+      "1W": 0.0272801660953879,
+      "1M": 0.036014501599298004,
+      "6M": 0.21835151921584564,
+      "1J": 0.843686543235392,
+      "news": [
+        {
+          "headline": "Taiwan Semiconductor (NYSE:TSM) Displays Strong Technical Breakout Setup",
+          "url": "https://finnhub.io/api/news?id=7906c106a44855e8dc2e9fec5c6e64781ae5cd43686d8bfa12147093bda294c1"
+        },
+        {
+          "headline": "Dow Jones Futures Fall With Iran, Apple, Inflation In Focus; Nvidia, Micron, Sandisk Flash Buy Signa",
+          "url": "https://finnhub.io/api/news?id=cffb60530c356ad83d70f5ba341f71adb8ce87c95dbba1f4ae5067ff4efff611"
+        }
+      ],
+      "score": 23.1
+    },
+    {
+      "ticker": "EAT",
+      "price": 230.22000122070312,
+      "1D": 0.005854580169974693,
+      "1W": 0.00013032181666756376,
+      "1M": 0.018807806244374264,
+      "6M": 0.639977156382691,
+      "1J": 0.4399549298828696,
+      "news": [
+        {
+          "headline": "BE, P, ILMN Join S&P 500; LNG Misses Out \u2014 Bloom Energy Stock Gains While Cheniere Energy Slips",
+          "url": "https://finnhub.io/api/news?id=c1d8669e69b6f463738a0b73cf1fb3a8d6f4e8ad7a78361ac19711797ac441d0"
+        },
+        {
+          "headline": "Bloom Energy, Illumina, and Everpure Set to Join S&P 500; Others to Join S&P 100, S&P MidCap 400, an",
+          "url": "https://finnhub.io/api/news?id=1f2abd83e90d07d31c13eb14b213027822c84c4c217ea9d3e0e8d77d84a07d30"
+        }
+      ],
+      "score": 22.1
+    },
+    {
+      "ticker": "SLB",
+      "price": 57.5099983215332,
+      "1D": 0.0017418302453732094,
+      "1W": 0.008344581082111464,
+      "1M": 0.158252824527463,
+      "6M": 0.225980831766286,
+      "1J": 0.6361005637616756,
+      "news": [
+        {
+          "headline": "How Could SLB (SLB) Change After Its Upstream Software Deal?",
+          "url": "https://finnhub.io/api/news?id=97a852c4152663e8ce17f85dfc55f6bfb562a0f937e72cc3b18c3a4664e68c62"
+        },
+        {
+          "headline": "AppLovin (APP) Down 6.6% Since Last Earnings Report: Can It Rebound?",
+          "url": "https://finnhub.io/api/news?id=90fada5a40cdd29717f49cc5b22cebac7fe35133d7f375ae4b13036f5ae105a1"
+        }
+      ],
+      "score": 20.6
+    },
+    {
+      "ticker": "NVDA",
+      "price": 230.36000061035156,
+      "1D": 0.008360707759353164,
+      "1W": 0.05888300335048074,
+      "1M": 0.0508165282712186,
+      "6M": 0.2579959074166553,
+      "1J": 0.3437423731275611,
+      "news": [
+        {
+          "headline": "Hot Payrolls Reload the September Hike Bet and Push Wall Street Into a Quiet Labor Day on the Back F",
+          "url": "https://finnhub.io/api/news?id=f18133eba8cfe4de1a0040ef723c5f04e69debc44f0a362604012a2d4d428379"
+        },
+        {
+          "headline": "SCHD-Inspired 4-Factor Dividend Growth Strategy Selections For September 2026",
+          "url": "https://finnhub.io/api/news?id=bb42b4fff5961915e0943d39451f7e871deed7c2986a302501fb247dccc82cdd"
+        }
+      ],
+      "score": 14.4
+    },
+    {
+      "ticker": "SAIC",
+      "price": 126.75,
+      "1D": 0.001976284584980237,
+      "1W": 0.006271839641706767,
+      "1M": 0.05361593337173187,
+      "6M": 0.36665899705310795,
+      "1J": 0.21034307382590528,
+      "news": [
+        {
+          "headline": "Stocks making big moves this week: SAIC, Reddit, Fortrea, GitLab, and G-III",
+          "url": "https://finnhub.io/api/news?id=25468af967938f456899b3fdb741548e8921c88841ffa061918b85a3414fa6cf"
+        },
+        {
+          "headline": "Science Applications (SAIC) Grew Revenue 6% but Posted a 0.6 Book-to-Bill Ratio. Is the $22B Backlog",
+          "url": "https://finnhub.io/api/news?id=4c8eac4f3ad350c21debd589056e325b8b086b2bbd24655f15cef8dec3e4f43d"
+        }
+      ],
+      "score": 12.8
+    },
+    {
+      "ticker": "SWKS",
+      "price": 74.0199966430664,
+      "1D": 0.03524470829463505,
+      "1W": 0.12509493255831025,
+      "1M": 0.10494102109979224,
+      "6M": 0.32194009012866504,
+      "1J": 0.02384315509975664,
+      "news": [
+        {
+          "headline": "Skyworks Chair: It Will Be a While Before This Cycle Ends",
+          "url": "https://finnhub.io/api/news?id=15803f31731e774d5fdfb0b0acc1c745521edea05f187b808ea5b7d13330dc6a"
+        },
+        {
+          "headline": "Skyworks to Present at the Goldman Sachs Communacopia and Technology Conference",
+          "url": "https://finnhub.io/api/news?id=a9a480e7c35f920bddfc6b245288a42bf3342d153d69eca0d77dc6ea07f0afcd"
+        }
+      ],
+      "score": 12.2
+    },
+    {
+      "ticker": "LNG",
+      "price": 292.0,
+      "1D": 0.003953907073583089,
+      "1W": 0.03425074872540761,
+      "1M": 0.14866576221262065,
+      "6M": 0.17541110187112996,
+      "1J": 0.2443516523274625,
+      "news": [
+        {
+          "headline": "BE, P, ILMN Join S&P 500; LNG Misses Out \u2014 Bloom Energy Stock Gains While Cheniere Energy Slips",
+          "url": "https://finnhub.io/api/news?id=c1d8669e69b6f463738a0b73cf1fb3a8d6f4e8ad7a78361ac19711797ac441d0"
+        },
+        {
+          "headline": "Bloom Energy, Astera Rally On Hopes They Will Join S&P Friday; Who Else Could Be Added",
+          "url": "https://finnhub.io/api/news?id=3c516e726b9aa98799bfd614b2a406706faaf70f97eb6c523b8d83da7be41d89"
+        }
+      ],
+      "score": 12.1
+    },
+    {
+      "ticker": "ZM",
+      "price": 101.33000183105469,
+      "1D": 0.03250461036524852,
+      "1W": 0.02946257763778971,
+      "1M": 0.006856145127095677,
+      "6M": 0.3103581977462455,
+      "1J": 0.2239400979647791,
+      "news": [
+        {
+          "headline": "Anthropic's $2 Trillion IPO Approaches: The Companies Poised to Benefit",
+          "url": "https://finnhub.io/api/news?id=f88c67a8eb7e654a2e18acfe5ec3cd20b85ac37a2f40b73ee3c575d7171c36ca"
+        },
+        {
+          "headline": "Snowflake Stock Is Soaring. How the Software Giant\u2019s Earnings Silenced AI Skeptics.",
+          "url": "https://finnhub.io/api/news?id=da176fab766db8aaa75fb8c4bf960cedd31d64fe73778377bc065c21591ac560"
+        }
+      ],
+      "score": 12.1
+    },
+    {
+      "ticker": "EL",
+      "price": 103.86000061035156,
+      "1D": 0.029744199701026982,
+      "1W": 0.007958071501731237,
+      "1M": 0.19839911066007151,
+      "6M": 0.0912249346658439,
+      "1J": 0.20440713166709296,
+      "news": [
+        {
+          "headline": "Zacks Industry Outlook Highlights Estee Lauder, e.l.f. Beauty, Coty and Helen of Troy",
+          "url": "https://finnhub.io/api/news?id=929f087c1b07303944f9e858116852017802f9e7f7021740b354846b7c3dae5c"
+        },
+        {
+          "headline": "Software Rebound Extends Moat Index Gains",
+          "url": "https://finnhub.io/api/news?id=814e73db5d703af98ad84b037219310746d8c95d98095282138f68b72379680b"
+        }
+      ],
+      "score": 10.6
+    },
+    {
+      "ticker": "DLTR",
+      "price": 131.4199981689453,
+      "1D": 0.002899915310455939,
+      "1W": 0.024637484776603158,
+      "1M": 0.020658618946804583,
+      "6M": 0.13381066359077431,
+      "1J": 0.31092267500194826,
+      "news": [
+        {
+          "headline": "S&P 500 Companies Snag More Than $10 Billion in Tariff Refunds. What Goes to You.",
+          "url": "https://finnhub.io/api/news?id=7e8153f27770489243605b8a2245b479e2bebaefe0717b996d96ad76237b1273"
+        },
+        {
+          "headline": "Dollar General (DG) or Dollar Tree (DLTR): Which Stock Is Better?",
+          "url": "https://finnhub.io/api/news?id=5d1f78d54577f0e282a71e9982e2b81e2e8c1896813a2a3aacf718794bb729d8"
+        }
+      ],
+      "score": 9.9
+    },
+    {
+      "ticker": "QCOM",
+      "price": 168.74000549316406,
+      "1D": 0.001008472216640217,
+      "1W": 0.03330511459889685,
+      "1M": 0.07699092773842467,
+      "6M": 0.24295630984481234,
+      "1J": 0.07854225101487501,
+      "news": [
+        {
+          "headline": "MarketBeat Week in Review \u2013 08/31 - 09/04",
+          "url": "https://finnhub.io/api/news?id=c154a363f86768c4a1eb0f3e89657bd0c0c659ce2c8656bcf803e6ac740c27e1"
+        },
+        {
+          "headline": "Qualcomm: A Long-Term Play That Demands Patience",
+          "url": "https://finnhub.io/api/news?id=9f6d80bf33eaae96219b54842fe3985c4c6bc1aab5af6ca470acd81b3655a9e5"
+        }
+      ],
+      "score": 8.7
+    },
+    {
+      "ticker": "WMB",
+      "price": 74.1500015258789,
+      "1D": 0.0013504182309242994,
+      "1W": 0.005696434963010424,
+      "1M": 0.032586047163917775,
+      "6M": 0.006216518078994971,
+      "1J": 0.3286232022247731,
+      "news": [
+        {
+          "headline": "Is Ultra-High-Yield Energy Transfer a Buy Now?",
+          "url": "https://finnhub.io/api/news?id=4fa6ad558718f819219616d85145e5ea6bd4c645f4b2168a7b6dcd4a7b9ef0b2"
+        },
+        {
+          "headline": "Is Williams Companies (WMB) Undervalued On Its Momentum Midstream Deal?",
+          "url": "https://finnhub.io/api/news?id=eede9dbf53f4fb3f19227f5c85eab6de5dc091ebd2951bf1f1723d1b9068db3f"
+        }
+      ],
+      "score": 7.5
+    },
+    {
+      "ticker": "GPN",
+      "price": 92.54000091552734,
+      "1D": 0.008390588434429396,
+      "1W": 0.007841442203181696,
+      "1M": 0.057841762281924954,
+      "6M": 0.19044388665199394,
+      "1J": 0.07419292303166156,
+      "news": [
+        {
+          "headline": "Global Payments (GPN) Could Be 9% Undervalued Following Its Genius World Conference Appearance",
+          "url": "https://finnhub.io/api/news?id=0e50b303a2c97a9e2a9c2f431b3c08b1c256414b6632d7066fff07758d3921a7"
+        },
+        {
+          "headline": "Global Payments (GPN) Up 4.7% Since Last Earnings Report: Can It Continue?",
+          "url": "https://finnhub.io/api/news?id=b7706a69785cf0dbbc1fa9e3eae3e805fc78cfe6a5ab6a8f2c8b026ef3eda97d"
+        }
+      ],
+      "score": 6.8
+    },
+    {
+      "ticker": "WFC",
+      "price": 89.97000122070312,
+      "1D": 0.008745361116110503,
+      "1W": 0.03783595209278977,
+      "1M": 0.014764341571427933,
+      "6M": 0.10831645137172694,
+      "1J": 0.12345043305420177,
+      "news": [
+        {
+          "headline": "Wells Fargo: Stick To High-Yield Preferred Shares During Interest Rate Volatility",
+          "url": "https://finnhub.io/api/news?id=7682d01b6fff0769df501e699a4849e4eafdebda960da24591d05a7127efa3a6"
+        },
+        {
+          "headline": "Wells Fargo (WFC) Stock Looks Undervalued On Fair Value And Earnings",
+          "url": "https://finnhub.io/api/news?id=ec7c93a73dcb0af6beb8573ad76f18053588a8ab874085f026ac531ba29376e9"
+        }
+      ],
+      "score": 5.9
+    }
   ]
 }
