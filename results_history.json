@@ -39856,5 +39856,527 @@
       ],
       "score": 5.9
     }
+  ],
+  "2026-09-08": [
+    {
+      "ticker": "DELL",
+      "price": 524.1400146484375,
+      "1D": 0.015008036135780554,
+      "1W": 0.148825236426955,
+      "1M": 0.13278582412034914,
+      "6M": 2.594256896884395,
+      "1J": 3.190567001964501,
+      "news": [
+        {
+          "headline": "Why Did DELL, VOD, ZETA Stocks Surge To 52-Week Highs Last Week?",
+          "url": "https://finnhub.io/api/news?id=1bb465e6e6681ae46cf9ed7fb548772442e52e82ed14b4bc63bc6e9bf43eda0b"
+        },
+        {
+          "headline": "Dell Stock Jumped 15% Last Week. Here's Why This Top AI Stock Is Still a Buy",
+          "url": "https://finnhub.io/api/news?id=e4ae0b157df06cc7273ffe69c0ac59e3648d6ac2e985cd77ad9c2f5c81550da9"
+        }
+      ],
+      "score": 121.6
+    },
+    {
+      "ticker": "STX",
+      "price": 849.280029296875,
+      "1D": 0.0634477966400666,
+      "1W": 0.023524897924116214,
+      "1M": 0.013872044176496429,
+      "6M": 1.3176571525368284,
+      "1J": 3.6542686444052612,
+      "news": [
+        {
+          "headline": "Meet the AI Infrastructure Stock That Has Tripled in 2026 (Hint: It Can Still Double)",
+          "url": "https://finnhub.io/api/news?id=fbe5d8410b7d1b708c2cab4a0510c6f53d16bb2ac6d818171d688f56b5b0dab5"
+        },
+        {
+          "headline": "Sandisk Jumps 12% as AI Storage Trade Keeps Running",
+          "url": "https://finnhub.io/api/news?id=8c3737f39afc221eebcfa2feb53534359cdb72e1acfbcfa979658c503b3a1509"
+        }
+      ],
+      "score": 101.5
+    },
+    {
+      "ticker": "MRVL",
+      "price": 223.5500030517578,
+      "1D": 0.0704879619385903,
+      "1W": 0.031991543212902866,
+      "1M": 0.059378250998036286,
+      "6M": 1.95609274302571,
+      "1J": 2.4949498756717228,
+      "news": [
+        {
+          "headline": "Should You Buy Marvell Technology Stock Before Oct. 6?",
+          "url": "https://finnhub.io/api/news?id=3ea9224d2db1cec32d022aa830f5964a98aef4d7711afa9dad2071c33dbe6f70"
+        },
+        {
+          "headline": "Marvell's AI Business Is Booming. Photonics Could Be Next",
+          "url": "https://finnhub.io/api/news?id=42e021a8d5b615c94a6d165a5986c499964aecbb1ee9499813535010fa9f9e97"
+        }
+      ],
+      "score": 92.3
+    },
+    {
+      "ticker": "LRCX",
+      "price": 307.6499938964844,
+      "1D": 0.051219811545146064,
+      "1W": 0.019046042120728107,
+      "1M": 0.0007480985580142192,
+      "6M": 0.43407269347318983,
+      "1J": 2.080588289894311,
+      "news": [
+        {
+          "headline": "Lam Research Nearly Triples in a Year: Is the Stock Still Worth Buying?",
+          "url": "https://finnhub.io/api/news?id=ae01f735c52523cec87bd501abe2250cc2c777f79d2943355798246d670a82cb"
+        },
+        {
+          "headline": "SCHD-Inspired 4-Factor Dividend Growth Strategy Selections For September 2026",
+          "url": "https://finnhub.io/api/news?id=bb42b4fff5961915e0943d39451f7e871deed7c2986a302501fb247dccc82cdd"
+        }
+      ],
+      "score": 51.7
+    },
+    {
+      "ticker": "MPC",
+      "price": 388.8999938964844,
+      "1D": 0.0030693107416194334,
+      "1W": 0.054415335127005436,
+      "1M": 0.3097056226959218,
+      "6M": 0.80094383859351,
+      "1J": 1.2091618464943712,
+      "news": [
+        {
+          "headline": "Can Marathon Petroleum (MPC) Keep Rallying? Wells Fargo Says Yes",
+          "url": "https://finnhub.io/api/news?id=13e660b325fa3eff3899503f77692307040babc6740819a3c1e9272d4d5d73a0"
+        },
+        {
+          "headline": "PBF Energy Rises 168% in a Year: Is This the Right Time to Buy?",
+          "url": "https://finnhub.io/api/news?id=26192bd189dc2cb3aa8f1710131e79b27e408abba6bb7b034e663a2ae83da93a"
+        }
+      ],
+      "score": 47.5
+    },
+    {
+      "ticker": "VLO",
+      "price": 370.7200012207031,
+      "1D": 8.092686368474912e-05,
+      "1W": 0.05210584808834682,
+      "1M": 0.225966411793415,
+      "6M": 0.6397879112317835,
+      "1J": 1.4363216250603679,
+      "news": [
+        {
+          "headline": "Wells Fargo Just Raised its Bets on These 2 Refining Giants",
+          "url": "https://finnhub.io/api/news?id=9f8a8d8d020bc108651a77610bc35608f0c1477cab9279ee6d4bd5c02ba684b5"
+        },
+        {
+          "headline": "Here's How Much a $1000 Investment in Valero Energy Made 10 Years Ago Would Be Worth Today",
+          "url": "https://finnhub.io/api/news?id=5948691e28cecf92c1f3689eb2f029db5d51ee53b3c24774683e2908d9ae8742"
+        }
+      ],
+      "score": 47.1
+    },
+    {
+      "ticker": "OKTA",
+      "price": 170.60000610351562,
+      "1D": 0.0010562606296466582,
+      "1W": 0.026288939952445595,
+      "1M": 0.1602286037346054,
+      "6M": 1.1418707198403049,
+      "1J": 0.9010475837373679,
+      "news": [
+        {
+          "headline": "Okta CFO Dumps 80,000 Company Shares Worth $12.9 Million After the Stock Hit a 52-Week High",
+          "url": "https://finnhub.io/api/news?id=5cefa0071a262221efcba8abf718f2d1851a53ce4455965160ca61f683af9108"
+        },
+        {
+          "headline": "Okta Jumps 20% as AI-Driven Security Fears Fuel a Beat-and-Raise Quarter",
+          "url": "https://finnhub.io/api/news?id=e9aadee686dda29898bcc7ccd02989b56acedec22354a7c31c93d37f787d0312"
+        }
+      ],
+      "score": 44.6
+    },
+    {
+      "ticker": "PSX",
+      "price": 255.08999633789062,
+      "1D": 0.0016884970925853647,
+      "1W": 0.045407983609229916,
+      "1M": 0.2660769821197517,
+      "6M": 0.5519447189983605,
+      "1J": 0.9960767588377998,
+      "news": [
+        {
+          "headline": "Wells Fargo Just Raised its Bets on These 2 Refining Giants",
+          "url": "https://finnhub.io/api/news?id=9f8a8d8d020bc108651a77610bc35608f0c1477cab9279ee6d4bd5c02ba684b5"
+        },
+        {
+          "headline": "PBF Energy Rises 168% in a Year: Is This the Right Time to Buy?",
+          "url": "https://finnhub.io/api/news?id=26192bd189dc2cb3aa8f1710131e79b27e408abba6bb7b034e663a2ae83da93a"
+        }
+      ],
+      "score": 37.2
+    },
+    {
+      "ticker": "ASML",
+      "price": 1714.8800048828125,
+      "1D": 0.04172669371183518,
+      "1W": 0.011036677156574158,
+      "1M": 0.021844594165047398,
+      "6M": 0.2575991696869864,
+      "1J": 1.291088850878841,
+      "news": [
+        {
+          "headline": "ASML Bets Big on AI & Capacity Expansion: Should You Buy the Stock?",
+          "url": "https://finnhub.io/api/news?id=f85e8a7f5bdf1520e195f11f679ecf15bfc38c93d34c1441de5c1aa4cc10f954"
+        },
+        {
+          "headline": "Brent Jumps to $97, German AfD Party Wins Big: Stock Market Today",
+          "url": "https://finnhub.io/api/news?id=68e36c8cf277ad734f4f447ed5986e0b0e158b057eb2a68857ec877428e5c919"
+        }
+      ],
+      "score": 32.5
+    },
+    {
+      "ticker": "GTLB",
+      "price": 49.83000183105469,
+      "1D": 0.010545537280096943,
+      "1W": 0.11054163176378701,
+      "1M": 0.37804209185086346,
+      "6M": 0.9641308704253237,
+      "1J": 0.1465716263408275,
+      "news": [
+        {
+          "headline": "GitLab Is Starting to Prove the Bears Wrong",
+          "url": "https://finnhub.io/api/news?id=d80df8be0dc46a5e81e209b0429833a02ccf1b049d2f38c858aa9dfea897a8c1"
+        },
+        {
+          "headline": "Why GitLab Stock Surged This Week",
+          "url": "https://finnhub.io/api/news?id=e3b5de823612b979aef5acd6da7060b02e693f832790c6c7402498af85776004"
+        }
+      ],
+      "score": 32.2
+    },
+    {
+      "ticker": "VRT",
+      "price": 280.5299987792969,
+      "1D": 0.043521975938075295,
+      "1W": 0.0912167941180416,
+      "1M": 0.00931854470439761,
+      "6M": 0.1237443626550757,
+      "1J": 1.2342006782146702,
+      "news": [
+        {
+          "headline": "AI Is Moving Into Everyday Business \u2014 These 5 Stocks Sit Squarely in the Path of the Surge",
+          "url": "https://finnhub.io/api/news?id=b47f4345a1532218546d58f41d29a5f8a4db384e1bff22250b6094bbe7e6bfc7"
+        },
+        {
+          "headline": "Vertiv Holdings Co. (VRT) is Attracting Investor Attention: Here is What You Should Know",
+          "url": "https://finnhub.io/api/news?id=e1822bf1ccdac90d4c20ecabe0cb312453013b140fab403205d5d4a6a1774820"
+        }
+      ],
+      "score": 30.0
+    },
+    {
+      "ticker": "TGT",
+      "price": 164.44000244140625,
+      "1D": 0.0026218398205750185,
+      "1W": 0.007721594694078003,
+      "1M": 0.12188338544000293,
+      "6M": 0.3897285018566483,
+      "1J": 0.8455263828702524,
+      "news": [
+        {
+          "headline": "Jim Cramer Says Buy Walmart (WMT) as Target\u2019s (TGT) Turnaround Gains Momentum",
+          "url": "https://finnhub.io/api/news?id=4f35c79f24bf0bfc59f6d1a80cc15040196fb6c51ff119a2b729bf1c7557c13a"
+        },
+        {
+          "headline": "Walmart's Ad Business Expands: Can High-Margin Growth Lift Profits?",
+          "url": "https://finnhub.io/api/news?id=be4e68e76cfc51b72a6c35e93877a63480bf4f2d3bc064a8852d7cbd2fa825b4"
+        }
+      ],
+      "score": 27.3
+    },
+    {
+      "ticker": "TSM",
+      "price": 428.9100036621094,
+      "1D": 0.028536470630939077,
+      "1W": 0.0272801660953879,
+      "1M": 0.036014501599298004,
+      "6M": 0.21835151921584564,
+      "1J": 0.8436864223070671,
+      "news": [
+        {
+          "headline": "Baron Durable Advantage Fund Q2 2026 Top Contributors And Detractors",
+          "url": "https://finnhub.io/api/news?id=e413e90e076e239fa7d446b88ee4c8a74c9a527007c64decee8a38d8aa618a3c"
+        },
+        {
+          "headline": "TSMC Rises Nearly 3% as $265 Billion Becomes Taiwan's Diplomatic Currency",
+          "url": "https://finnhub.io/api/news?id=8bf0cd38ae488bf7801bc604bc46253bb4aef1d2499fe164b1bc0226a4c6e116"
+        }
+      ],
+      "score": 23.1
+    },
+    {
+      "ticker": "EAT",
+      "price": 230.22000122070312,
+      "1D": 0.005854580169974693,
+      "1W": 0.00013032181666756376,
+      "1M": 0.018807806244374264,
+      "6M": 0.639977156382691,
+      "1J": 0.4399549298828696,
+      "news": [
+        {
+          "headline": "BE, P, ILMN Join S&P 500; LNG Misses Out \u2014 Bloom Energy Stock Gains While Cheniere Energy Slips",
+          "url": "https://finnhub.io/api/news?id=c1d8669e69b6f463738a0b73cf1fb3a8d6f4e8ad7a78361ac19711797ac441d0"
+        },
+        {
+          "headline": "Bloom Energy, Illumina, and Everpure Set to Join S&P 500; Others to Join S&P 100, S&P MidCap 400, an",
+          "url": "https://finnhub.io/api/news?id=1f2abd83e90d07d31c13eb14b213027822c84c4c217ea9d3e0e8d77d84a07d30"
+        }
+      ],
+      "score": 22.1
+    },
+    {
+      "ticker": "SLB",
+      "price": 57.5099983215332,
+      "1D": 0.0017418302453732094,
+      "1W": 0.008344581082111464,
+      "1M": 0.158252824527463,
+      "6M": 0.225980831766286,
+      "1J": 0.6361005637616756,
+      "news": [
+        {
+          "headline": "SLB Bets $4.1 Billion on the AI Data Center Boom",
+          "url": "https://finnhub.io/api/news?id=4ff9577d0b510524ed47aa4a70c2e86e5fe2730fb8b097e73111387361a3c9e2"
+        },
+        {
+          "headline": "Is SLB Stock Underperforming the S&P 500?",
+          "url": "https://finnhub.io/api/news?id=1c52be4c5258b21b1a0922fa96cc14d7700328a8dbf52d8584e1f42cdf75194b"
+        }
+      ],
+      "score": 20.6
+    },
+    {
+      "ticker": "NVDA",
+      "price": 230.36000061035156,
+      "1D": 0.008360707759353164,
+      "1W": 0.05888300335048074,
+      "1M": 0.0508165282712186,
+      "6M": 0.2579959074166553,
+      "1J": 0.34374225352375937,
+      "news": [
+        {
+          "headline": "You're Telling Me That Circular Financing Can Reduce The Risk Of A Bubble?",
+          "url": "https://finnhub.io/api/news?id=447a7c57d6676d7639d07b87d03a49ca7c6e8f69f79bb0584d383acbde0a2f73"
+        },
+        {
+          "headline": "Baron Durable Advantage Fund Q2 2026 Top Contributors And Detractors",
+          "url": "https://finnhub.io/api/news?id=e413e90e076e239fa7d446b88ee4c8a74c9a527007c64decee8a38d8aa618a3c"
+        }
+      ],
+      "score": 14.4
+    },
+    {
+      "ticker": "SAIC",
+      "price": 126.75,
+      "1D": 0.001976284584980237,
+      "1W": 0.006271839641706767,
+      "1M": 0.05361593337173187,
+      "6M": 0.36665899705310795,
+      "1J": 0.2103429856481472,
+      "news": [
+        {
+          "headline": "Stocks making big moves this week: SAIC, Reddit, Fortrea, GitLab, and G-III",
+          "url": "https://finnhub.io/api/news?id=25468af967938f456899b3fdb741548e8921c88841ffa061918b85a3414fa6cf"
+        },
+        {
+          "headline": "Science Applications (SAIC) Grew Revenue 6% but Posted a 0.6 Book-to-Bill Ratio. Is the $22B Backlog",
+          "url": "https://finnhub.io/api/news?id=4c8eac4f3ad350c21debd589056e325b8b086b2bbd24655f15cef8dec3e4f43d"
+        }
+      ],
+      "score": 12.8
+    },
+    {
+      "ticker": "SWKS",
+      "price": 74.0199966430664,
+      "1D": 0.03524470829463505,
+      "1W": 0.12509493255831025,
+      "1M": 0.10494102109979224,
+      "6M": 0.32194009012866504,
+      "1J": 0.023843263145564432,
+      "news": [
+        {
+          "headline": "Skyworks Chair: It Will Be a While Before This Cycle Ends",
+          "url": "https://finnhub.io/api/news?id=15803f31731e774d5fdfb0b0acc1c745521edea05f187b808ea5b7d13330dc6a"
+        },
+        {
+          "headline": "Skyworks to Present at the Goldman Sachs Communacopia and Technology Conference",
+          "url": "https://finnhub.io/api/news?id=a9a480e7c35f920bddfc6b245288a42bf3342d153d69eca0d77dc6ea07f0afcd"
+        }
+      ],
+      "score": 12.2
+    },
+    {
+      "ticker": "LNG",
+      "price": 292.0,
+      "1D": 0.003953907073583089,
+      "1W": 0.03425074872540761,
+      "1M": 0.14866576221262065,
+      "6M": 0.17541102967452624,
+      "1J": 0.24435157141350422,
+      "news": [
+        {
+          "headline": "PGIM Jennison Global Infrastructure Fund Q2 2026 Contributors And Detractors",
+          "url": "https://finnhub.io/api/news?id=0ce2ec77e2890b3233d557f238da3b331589c9da376ba3f1da83d06a1bdeed25"
+        },
+        {
+          "headline": "KGEI vs. LNG: Which Stock Is the Better Value Option?",
+          "url": "https://finnhub.io/api/news?id=8d1cc51aa6a7405abd3b9390f9bb6a2ba480f61e0707672f4094363d8442d9e2"
+        }
+      ],
+      "score": 12.1
+    },
+    {
+      "ticker": "ZM",
+      "price": 101.33000183105469,
+      "1D": 0.03250461036524852,
+      "1W": 0.02946257763778971,
+      "1M": 0.006856145127095677,
+      "6M": 0.3103581977462455,
+      "1J": 0.2239400979647791,
+      "news": [
+        {
+          "headline": "Anthropic's $2 Trillion IPO Approaches: The Companies Poised to Benefit",
+          "url": "https://finnhub.io/api/news?id=f88c67a8eb7e654a2e18acfe5ec3cd20b85ac37a2f40b73ee3c575d7171c36ca"
+        },
+        {
+          "headline": "Snowflake Stock Is Soaring. How the Software Giant\u2019s Earnings Silenced AI Skeptics.",
+          "url": "https://finnhub.io/api/news?id=da176fab766db8aaa75fb8c4bf960cedd31d64fe73778377bc065c21591ac560"
+        }
+      ],
+      "score": 12.1
+    },
+    {
+      "ticker": "EL",
+      "price": 103.86000061035156,
+      "1D": 0.029744199701026982,
+      "1W": 0.007958071501731237,
+      "1M": 0.19839911066007151,
+      "6M": 0.09122484719359743,
+      "1J": 0.20440713166709296,
+      "news": [
+        {
+          "headline": "EssilorLuxottica: Disclosure of transactions in own shares",
+          "url": "https://finnhub.io/api/news?id=d585305d74a05d3e874131f7d501287d89acb00d0eabdadbd4698e6a09d1a03e"
+        },
+        {
+          "headline": "Zacks Industry Outlook Highlights Estee Lauder, e.l.f. Beauty, Coty and Helen of Troy",
+          "url": "https://finnhub.io/api/news?id=929f087c1b07303944f9e858116852017802f9e7f7021740b354846b7c3dae5c"
+        }
+      ],
+      "score": 10.6
+    },
+    {
+      "ticker": "DLTR",
+      "price": 131.4199981689453,
+      "1D": 0.002899915310455939,
+      "1W": 0.024637484776603158,
+      "1M": 0.020658618946804583,
+      "6M": 0.13381066359077431,
+      "1J": 0.31092267500194826,
+      "news": [
+        {
+          "headline": "S&P 500 Companies Snag More Than $10 Billion in Tariff Refunds. What Goes to You.",
+          "url": "https://finnhub.io/api/news?id=7e8153f27770489243605b8a2245b479e2bebaefe0717b996d96ad76237b1273"
+        },
+        {
+          "headline": "Dollar General (DG) or Dollar Tree (DLTR): Which Stock Is Better?",
+          "url": "https://finnhub.io/api/news?id=5d1f78d54577f0e282a71e9982e2b81e2e8c1896813a2a3aacf718794bb729d8"
+        }
+      ],
+      "score": 9.9
+    },
+    {
+      "ticker": "QCOM",
+      "price": 168.74000549316406,
+      "1D": 0.001008472216640217,
+      "1W": 0.03330511459889685,
+      "1M": 0.07699092773842467,
+      "6M": 0.242956170139253,
+      "1J": 0.0785423562053409,
+      "news": [
+        {
+          "headline": "Arm Expands Into AI Accelerators With Samsung \u2014 But It\u2019s Not the Data Center Goldmine Investors Hope",
+          "url": "https://finnhub.io/api/news?id=5dfb465de93e57439b0edc51fed4446e972ca8839601e2d555a4509470d8b577"
+        },
+        {
+          "headline": "MarketBeat Week in Review \u2013 08/31 - 09/04",
+          "url": "https://finnhub.io/api/news?id=c154a363f86768c4a1eb0f3e89657bd0c0c659ce2c8656bcf803e6ac740c27e1"
+        }
+      ],
+      "score": 8.7
+    },
+    {
+      "ticker": "WMB",
+      "price": 74.1500015258789,
+      "1D": 0.0013504182309242994,
+      "1W": 0.005696434963010424,
+      "1M": 0.032586047163917775,
+      "6M": 0.006216518078994971,
+      "1J": 0.3286232022247731,
+      "news": [
+        {
+          "headline": "2 Safe High-Yield Energy Dividend Stocks You've Probably Never Heard Of",
+          "url": "https://finnhub.io/api/news?id=dc769c245318be7c9b8d4997a2f76f6757ede6e72a1d21e3282eda1c67ef2838"
+        },
+        {
+          "headline": "Is Ultra-High-Yield Energy Transfer a Buy Now?",
+          "url": "https://finnhub.io/api/news?id=4fa6ad558718f819219616d85145e5ea6bd4c645f4b2168a7b6dcd4a7b9ef0b2"
+        }
+      ],
+      "score": 7.5
+    },
+    {
+      "ticker": "GPN",
+      "price": 92.54000091552734,
+      "1D": 0.008390588434429396,
+      "1W": 0.007841442203181696,
+      "1M": 0.057841762281924954,
+      "6M": 0.19044388665199394,
+      "1J": 0.07419292303166156,
+      "news": [
+        {
+          "headline": "Global Payments (GPN) Could Be 9% Undervalued Following Its Genius World Conference Appearance",
+          "url": "https://finnhub.io/api/news?id=0e50b303a2c97a9e2a9c2f431b3c08b1c256414b6632d7066fff07758d3921a7"
+        },
+        {
+          "headline": "Global Payments (GPN) Up 4.7% Since Last Earnings Report: Can It Continue?",
+          "url": "https://finnhub.io/api/news?id=b7706a69785cf0dbbc1fa9e3eae3e805fc78cfe6a5ab6a8f2c8b026ef3eda97d"
+        }
+      ],
+      "score": 6.8
+    },
+    {
+      "ticker": "WFC",
+      "price": 89.97000122070312,
+      "1D": 0.008745361116110503,
+      "1W": 0.03783595209278977,
+      "1M": 0.014764341571427933,
+      "6M": 0.10831645137172694,
+      "1J": 0.12345043305420177,
+      "news": [
+        {
+          "headline": "Wells Fargo: Stick To High-Yield Preferred Shares During Interest Rate Volatility",
+          "url": "https://finnhub.io/api/news?id=7682d01b6fff0769df501e699a4849e4eafdebda960da24591d05a7127efa3a6"
+        },
+        {
+          "headline": "Wells Fargo (WFC) Stock Looks Undervalued On Fair Value And Earnings",
+          "url": "https://finnhub.io/api/news?id=ec7c93a73dcb0af6beb8573ad76f18053588a8ab874085f026ac531ba29376e9"
+        }
+      ],
+      "score": 5.9
+    }
   ]
 }
