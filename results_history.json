@@ -40378,5 +40378,487 @@
       ],
       "score": 5.9
     }
+  ],
+  "2026-09-09": [
+    {
+      "ticker": "DELL",
+      "price": 533.8800048828125,
+      "1D": 0.018582802232544708,
+      "1W": 0.2561882467830882,
+      "1M": 0.1765432219157335,
+      "6M": 2.7302980071022915,
+      "1J": 3.3957987310760727,
+      "news": [
+        {
+          "headline": "Latest Dell Technologies Research Reveals that AI Ambition Outpaces Readiness Across Singapore",
+          "url": "https://finnhub.io/api/news?id=b6407f9507eab7f728f252f66499cabf043d0a549d962cc5b058566be3eaea73"
+        },
+        {
+          "headline": "Why Did DELL, ROIV, SHEL Stocks Surge To 52-Week Highs Today?",
+          "url": "https://finnhub.io/api/news?id=3abc479b6cbcb464602367cf9a6af1441ebdf0eedac8d7ea95285f780697e1f8"
+        }
+      ],
+      "score": 131.5
+    },
+    {
+      "ticker": "STX",
+      "price": 904.3800048828125,
+      "1D": 0.06487845432036729,
+      "1W": 0.1074402290612063,
+      "1M": 0.1127269969195555,
+      "6M": 1.3591649775811563,
+      "1J": 3.818469796806968,
+      "news": [
+        {
+          "headline": "Bull of the Day: Seagate Technology (STX)",
+          "url": "https://finnhub.io/api/news?id=9c5d53352921f074f6acb883b18ae7fecef36639fcdb303562b742757a865ffe"
+        },
+        {
+          "headline": "STX Stock: The Math Hidden In Its Price",
+          "url": "https://finnhub.io/api/news?id=2ba8234a152bee2685ddbbb6c6d3b901688811cddc9b29da2c95ab7f173aae12"
+        }
+      ],
+      "score": 109.3
+    },
+    {
+      "ticker": "WDC",
+      "price": 477.29998779296875,
+      "1D": 0.021377718124031164,
+      "1W": 0.05997073183492744,
+      "1M": 0.09936270676533178,
+      "6M": 0.7939212408114127,
+      "1J": 4.125849410435253,
+      "news": [
+        {
+          "headline": "STX Stock: The Math Hidden In Its Price",
+          "url": "https://finnhub.io/api/news?id=2ba8234a152bee2685ddbbb6c6d3b901688811cddc9b29da2c95ab7f173aae12"
+        },
+        {
+          "headline": "Can SanDisk Stock Keep Climbing When It Cannot Make Enough To Sell?",
+          "url": "https://finnhub.io/api/news?id=d40e448b62837dad5bda9b149908518fbeb8bee3e46b5ba3a845d1fe9c5e000f"
+        }
+      ],
+      "score": 102.0
+    },
+    {
+      "ticker": "INTC",
+      "price": 104.47000122070312,
+      "1D": 0.09050102184507423,
+      "1W": 0.1742160254842526,
+      "1M": 0.02774224940966951,
+      "6M": 1.2332194088670594,
+      "1J": 3.2675654891437733,
+      "news": [
+        {
+          "headline": "Should You Buy Intel Stock After a Nearly Fourfold Year?",
+          "url": "https://finnhub.io/api/news?id=90cb1a5c17af47e73222909236c27015847f5d748ceb981d004df168986d1ed6"
+        },
+        {
+          "headline": "How to Profit From Sharp Stock Moves\u2014Up or Down",
+          "url": "https://finnhub.io/api/news?id=aee316a2e4ea3b7d7eeed93edcfb5d81217016c50f2f9b7da53db6d63b439f32"
+        }
+      ],
+      "score": 95.9
+    },
+    {
+      "ticker": "AMD",
+      "price": 505.739990234375,
+      "1D": 0.05898608052877964,
+      "1W": 0.10036771687526974,
+      "1M": 0.0463009052487761,
+      "6M": 1.4885105588074554,
+      "1J": 2.3402019549712048,
+      "news": [
+        {
+          "headline": "Dow Jones Futures Fall As Brent Oil Prices Hit $100, Apple iPhone Event Due; AMD, HPE Are New Buys",
+          "url": "https://finnhub.io/api/news?id=53db7e8ad45844b805872131e9d48645e2f05e7fbbb1416292281ec5b1e045ca"
+        },
+        {
+          "headline": "Nasdaq, Dow, S&P 500 Futures Mixed As Oil Hits $100 Again: QCOM, ORCL, AAPL, AMD, TSLA, RKLB, HOOD, ",
+          "url": "https://finnhub.io/api/news?id=2ac2ba787536589b8e9b25b125562b5cf8a6fed3b33a834f5fb8f3541beb7db9"
+        }
+      ],
+      "score": 80.7
+    },
+    {
+      "ticker": "MRVL",
+      "price": 225.41000366210938,
+      "1D": 0.008320288906106267,
+      "1W": 0.07139124633316553,
+      "1M": 0.030587062930086534,
+      "6M": 1.4177756173646479,
+      "1J": 2.422579688520868,
+      "news": [
+        {
+          "headline": "Jensen Huang's AI Capex Pulse Check",
+          "url": "https://finnhub.io/api/news?id=f26bfa5dd2cdcf02065a8e5bff83c303492378135be57ce94f2b8f4f763d6b21"
+        },
+        {
+          "headline": "MRVL Stock Keeps Climbing As CEO Shrugs Off Qualcomm-Amazon Threat: 'We Are The Switzerland Of This ",
+          "url": "https://finnhub.io/api/news?id=8118bcc9942e673c9a18b59b8d19226a7edf1d28a8b3bbb3b6d85600c50f3176"
+        }
+      ],
+      "score": 79.0
+    },
+    {
+      "ticker": "HPE",
+      "price": 56.029998779296875,
+      "1D": 0.07749997652493991,
+      "1W": 0.10143502960008668,
+      "1M": 0.05279965227623167,
+      "6M": 1.6803918194361842,
+      "1J": 1.4339185311044067,
+      "news": [
+        {
+          "headline": "Dow Jones Futures Fall As Brent Oil Prices Hit $100, Apple iPhone Event Due; AMD, HPE Are New Buys",
+          "url": "https://finnhub.io/api/news?id=53db7e8ad45844b805872131e9d48645e2f05e7fbbb1416292281ec5b1e045ca"
+        },
+        {
+          "headline": "Hewlett Packard (HPE) Reported $12.2B of Revenue and $1.0B of Free Cash Flow. Can Networking Margins",
+          "url": "https://finnhub.io/api/news?id=ab55528a4324fed4e8a21fc6946c1350311bb8b1da8fcef75ff571b9a4e1591b"
+        }
+      ],
+      "score": 66.9
+    },
+    {
+      "ticker": "LRCX",
+      "price": 320.4200134277344,
+      "1D": 0.041508271687295255,
+      "1W": 0.10413507908174693,
+      "1M": 0.029131225779398934,
+      "6M": 0.48978176117798566,
+      "1J": 2.0664640274650834,
+      "news": [
+        {
+          "headline": "Applied Materials, AMD, Broadcom, Lam Research, and Marvell Technology Shares Skyrocket, What You Ne",
+          "url": "https://finnhub.io/api/news?id=7faead45d0862b2bb97857274399d1789bc228c0e1d23f9985b3f2002a11ca1e"
+        },
+        {
+          "headline": "3 Reasons We\u2019re Fans of Lam Research (LRCX)",
+          "url": "https://finnhub.io/api/news?id=0aa8c883522e3fd50c9624d9c36f58ad2b2a0256a42b0cbeed0b640c64c64dee"
+        }
+      ],
+      "score": 54.6
+    },
+    {
+      "ticker": "VLO",
+      "price": 382.8500061035156,
+      "1D": 0.03272012527748959,
+      "1W": 0.05762594666121719,
+      "1M": 0.28339649772655245,
+      "6M": 0.7793546854361875,
+      "1J": 1.4845397902330157,
+      "news": [
+        {
+          "headline": "Valero Energy Corporation to Announce Third Quarter 2026 Earnings Results on October 22, 2026",
+          "url": "https://finnhub.io/api/news?id=19b475cfe837ea5eb180cba978b78aad5ade056d58dbd8c03aca942aab1c4ac4"
+        },
+        {
+          "headline": "Eni Partners With PETRONAS to Explore New Bio-Gasoline Production",
+          "url": "https://finnhub.io/api/news?id=412ac74d1c7dc15c7a4b6ca3605b8ce0aff95e626bd8b9fd3d7479ef0cf844b9"
+        }
+      ],
+      "score": 52.8
+    },
+    {
+      "ticker": "MPC",
+      "price": 397.7699890136719,
+      "1D": 0.022807907576230187,
+      "1W": 0.03856393998347748,
+      "1M": 0.3375556813442663,
+      "6M": 0.8602490460143832,
+      "1J": 1.231988202805507,
+      "news": [
+        {
+          "headline": "The Best \"Strong Buy\" Momentum Stocks to Buy Now in September",
+          "url": "https://finnhub.io/api/news?id=b0789f9e5ae67dd74ae31a2eceef5ab0319f8be7ba49da3f85dafa0e6a1693e7"
+        },
+        {
+          "headline": "Iran Just Raised the Stakes in the Gulf\u2014These 5 Stocks Stand to Benefit",
+          "url": "https://finnhub.io/api/news?id=956a11dc3e172083dee19e1de6373d324f1056945509c8ba9916d1e694e669de"
+        }
+      ],
+      "score": 49.8
+    },
+    {
+      "ticker": "PSX",
+      "price": 259.1400146484375,
+      "1D": 0.01587682139123263,
+      "1W": 0.028251766745782052,
+      "1M": 0.27759999271791325,
+      "6M": 0.6148108860864688,
+      "1J": 1.0491030634410536,
+      "news": [
+        {
+          "headline": "Top Stock Reports for Oracle, Merck & Union Pacific",
+          "url": "https://finnhub.io/api/news?id=2a1a523fa8cdd81f0e5a709a42b251d610672c211deec6586755e1992960d0f6"
+        },
+        {
+          "headline": "UBS Maintains Buy on Phillips 66, Raises Price Target to $300",
+          "url": "https://finnhub.io/api/news?id=e512a130a1a3bc68c698648e8575076c70c1791e4af4e238c914f3a98f8e48ed"
+        }
+      ],
+      "score": 39.7
+    },
+    {
+      "ticker": "VRT",
+      "price": 290.8299865722656,
+      "1D": 0.03671617238009588,
+      "1W": 0.13618777663522152,
+      "1M": 0.06765783072221687,
+      "6M": 0.07738921335205497,
+      "1J": 1.390004627696169,
+      "news": [
+        {
+          "headline": "Vertiv (VRT) Signed a Deal Worth Up to $2.6B for UtilityInnovation. Can Faster Power Deployment Just",
+          "url": "https://finnhub.io/api/news?id=6e4877c3a6239de203dfc5da8b185d6a273095e50eb3d947b4f534c80ceb293d"
+        },
+        {
+          "headline": "Visa CEO Highlights Cross-Border Growth, AI Gains and Stablecoin Push",
+          "url": "https://finnhub.io/api/news?id=6fdb1c8c75bfd06236c18018d5f8e4318b39311911ef7202c2521adf11cdbd98"
+        }
+      ],
+      "score": 34.2
+    },
+    {
+      "ticker": "ASML",
+      "price": 1764.8499755859375,
+      "1D": 0.029139047957200792,
+      "1W": 0.059880826873619904,
+      "1M": 0.013704837756333355,
+      "6M": 0.2801736183301061,
+      "1J": 1.2310508104844944,
+      "news": [
+        {
+          "headline": "Intel, Amkor, Nova, Qualcomm, and FormFactor Stocks Trade Up, What You Need To Know",
+          "url": "https://finnhub.io/api/news?id=a9724375792e41c8f1ed0416c10e23e6effc86b5ff75384f88f11cfbd429a0cc"
+        },
+        {
+          "headline": "Applied Materials, AMD, Broadcom, Lam Research, and Marvell Technology Shares Skyrocket, What You Ne",
+          "url": "https://finnhub.io/api/news?id=7faead45d0862b2bb97857274399d1789bc228c0e1d23f9985b3f2002a11ca1e"
+        }
+      ],
+      "score": 32.3
+    },
+    {
+      "ticker": "TSM",
+      "price": 439.0,
+      "1D": 0.023524740042760613,
+      "1W": 0.06038647342995169,
+      "1M": 0.0451385369711762,
+      "6M": 0.2713359244096481,
+      "1J": 0.7956029973084339,
+      "news": [
+        {
+          "headline": "Dow Jones Futures: Dow Skids But AMD, HPE Are New Buys; Apple iPhone Event Due",
+          "url": "https://finnhub.io/api/news?id=cd6d68021a949cdb1ddc3c820f58998eda93e19230e21105b3368311d1bd49c6"
+        },
+        {
+          "headline": "AMKR Stock Gains After-Hours \u2014 Amkor Doubles Down On US Chip Manufacturing With $12B Arizona Campus ",
+          "url": "https://finnhub.io/api/news?id=b51d30b25dccee7414e606f2c9facd77b2ba9b2c83e4af4d091cc731d8484c21"
+        }
+      ],
+      "score": 23.9
+    },
+    {
+      "ticker": "FCX",
+      "price": 76.62000274658203,
+      "1D": 0.053485483433263044,
+      "1W": 0.057265095294262804,
+      "1M": 0.10054581619998086,
+      "6M": 0.2335752275197045,
+      "1J": 0.6597447400100351,
+      "news": [
+        {
+          "headline": "Up 109% in a Year, the Best AI Trade Isn\u2019t a Chip Stock at All",
+          "url": "https://finnhub.io/api/news?id=280da2b28a7657738ccfcc8545f4d0316fdede2f78fb30d2707aa1f131390b19"
+        },
+        {
+          "headline": "Uncover the latest developments among S&P500 stocks in today's session.",
+          "url": "https://finnhub.io/api/news?id=a0495480b7db5648533b280a3e20a0e5458966f2076ed7b7baa4a954890ced83"
+        }
+      ],
+      "score": 22.1
+    },
+    {
+      "ticker": "OKE",
+      "price": 97.51000213623047,
+      "1D": 0.021796100014702353,
+      "1W": 0.019019747605698484,
+      "1M": 0.12832682483520702,
+      "6M": 0.1792049925658635,
+      "1J": 0.44062768057116386,
+      "news": [
+        {
+          "headline": "Why the Market Dipped But Oneok Inc. (OKE) Gained Today",
+          "url": "https://finnhub.io/api/news?id=fef99b191945c89bb4108166ed73f0e8036608bfeb7d15bb622c7b25df00a01b"
+        },
+        {
+          "headline": "5 Pipeline Stocks Built to Make Money at Any Oil Price",
+          "url": "https://finnhub.io/api/news?id=70c3710fbf6ef40ba1d873332d13cd757fca1289273f430221577f7234e48a51"
+        }
+      ],
+      "score": 15.8
+    },
+    {
+      "ticker": "SAIC",
+      "price": 127.55000305175781,
+      "1D": 0.006311661157852564,
+      "1W": 0.006073546930706225,
+      "1M": 0.00798168270051383,
+      "6M": 0.4191931170691449,
+      "1J": 0.26095610934036506,
+      "news": [
+        {
+          "headline": "Goldman Sachs Maintains Sell on Science Applications Intl, Raises Price Target to $103",
+          "url": "https://finnhub.io/api/news?id=f2d1fb6d2c9a4f3b62d744a61d29a058743569ea799260661094bdad4f737bdc"
+        },
+        {
+          "headline": "Stocks making big moves this week: SAIC, Reddit, Fortrea, GitLab, and G-III",
+          "url": "https://finnhub.io/api/news?id=25468af967938f456899b3fdb741548e8921c88841ffa061918b85a3414fa6cf"
+        }
+      ],
+      "score": 14.0
+    },
+    {
+      "ticker": "SMCI",
+      "price": 40.2599983215332,
+      "1D": 0.016923419205935934,
+      "1W": 0.09670387702521357,
+      "1M": 0.2932862000289809,
+      "6M": 0.2664358968882199,
+      "1J": 0.005494440583804915,
+      "news": [
+        {
+          "headline": "Super Micro Computer Sees AI Demand Driving Growth, Diversification and Cash Flow",
+          "url": "https://finnhub.io/api/news?id=e3d378dffaa91888566ba915206aa49f018868ad7cce4aca9c992bce67bb3454"
+        },
+        {
+          "headline": "Wall Street Is Getting Much More Bullish on Supermicro",
+          "url": "https://finnhub.io/api/news?id=2f28187b5b85af09e711a9496dc1d7efa1680a119ffa3748a7e788322dc09e72"
+        }
+      ],
+      "score": 13.6
+    },
+    {
+      "ticker": "SWKS",
+      "price": 75.37999725341797,
+      "1D": 0.01837342167022317,
+      "1W": 0.11823161486918096,
+      "1M": 0.06740292157615808,
+      "6M": 0.38421617529189467,
+      "1J": 0.029006438029281493,
+      "news": [
+        {
+          "headline": "Opportunities At New Lucrative Sector Edges",
+          "url": "https://finnhub.io/api/news?id=c8333ac71c7b03cf9b8bbb1369440ba6a9f5432b3b7125bb8817b609997195ee"
+        },
+        {
+          "headline": "Skyworks Chair: It Will Be a While Before This Cycle Ends",
+          "url": "https://finnhub.io/api/news?id=15803f31731e774d5fdfb0b0acc1c745521edea05f187b808ea5b7d13330dc6a"
+        }
+      ],
+      "score": 12.3
+    },
+    {
+      "ticker": "QCOM",
+      "price": 174.08999633789062,
+      "1D": 0.031705527264210616,
+      "1W": 0.0505821075948761,
+      "1M": 0.0427587152378711,
+      "6M": 0.2994377269627279,
+      "1J": 0.10905763226702392,
+      "news": [
+        {
+          "headline": "Inside CEO Cristiano Amon\u2019s vision for Qualcomm\u2019s future",
+          "url": "https://finnhub.io/api/news?id=5a16a74ceff7584cf0a7c95f913de0a3c1721a17e68c5827bee0f06482737006"
+        },
+        {
+          "headline": "Nasdaq, Dow, S&P 500 Futures Mixed As Oil Hits $100 Again: QCOM, ORCL, AAPL, AMD, TSLA, RKLB, HOOD, ",
+          "url": "https://finnhub.io/api/news?id=2ac2ba787536589b8e9b25b125562b5cf8a6fed3b33a834f5fb8f3541beb7db9"
+        }
+      ],
+      "score": 10.7
+    },
+    {
+      "ticker": "WMB",
+      "price": 75.83000183105469,
+      "1D": 0.022656780453193227,
+      "1W": 0.007975521033468021,
+      "1M": 0.07713068448130252,
+      "6M": 0.04197444459494083,
+      "1J": 0.37617271516635464,
+      "news": [
+        {
+          "headline": "Williams Prices $2.75 Billion of Senior Notes",
+          "url": "https://finnhub.io/api/news?id=00ddcdf37d74489bab173c1277b9bcf16a33a508449ed2b831aa36f1c6d01e77"
+        },
+        {
+          "headline": "5 Pipeline Stocks Built to Make Money at Any Oil Price",
+          "url": "https://finnhub.io/api/news?id=70c3710fbf6ef40ba1d873332d13cd757fca1289273f430221577f7234e48a51"
+        }
+      ],
+      "score": 10.5
+    },
+    {
+      "ticker": "KO",
+      "price": 88.36000061035156,
+      "1D": 0.0032928456515526343,
+      "1W": 0.0040909160267223015,
+      "1M": 0.015048793942199604,
+      "6M": 0.14974275156649236,
+      "1J": 0.3475076072398887,
+      "news": [
+        {
+          "headline": "2 Cash-Producing Stocks to Research Further and 1 We Avoid",
+          "url": "https://finnhub.io/api/news?id=69789c93a35c639f5e30965c58f3c1c899ec7161e61205b2d4ca1699927ac909"
+        },
+        {
+          "headline": "A 67-Year-Old Retiree Just Watched Coca-Cola Raise Its Dividend for the 64th Year in a Row. Here Is ",
+          "url": "https://finnhub.io/api/news?id=0d12f5f9630aff1043ab713dc09716b0bac862466e59cfda2e7166b2577efadd"
+        }
+      ],
+      "score": 10.4
+    },
+    {
+      "ticker": "EQIX",
+      "price": 1041.2099609375,
+      "1D": 0.005048341249204053,
+      "1W": 0.013254309179941071,
+      "1M": 0.0034191997743198746,
+      "6M": 0.09966773104037992,
+      "1J": 0.38925801359664913,
+      "news": [
+        {
+          "headline": "Barclays Maintains Equal-Weight on Equinix, Raises Price Target to $1135",
+          "url": "https://finnhub.io/api/news?id=9ab04f9973e2768612ebca91ea040117e13ac206622a10bef93bc41da6e63446"
+        },
+        {
+          "headline": "Payrolls Put The Fed Back To Work",
+          "url": "https://finnhub.io/api/news?id=34324fbb6e75f785939d1089a9ad6cb51e6141420a3712e2df7553c3437716ee"
+        }
+      ],
+      "score": 10.2
+    },
+    {
+      "ticker": "VZ",
+      "price": 50.40999984741211,
+      "1D": 0.005384931413050921,
+      "1W": 0.002186890895030375,
+      "1M": 0.07118568585555526,
+      "6M": 0.026236890116830763,
+      "1J": 0.2431545113493874,
+      "news": [
+        {
+          "headline": "Why Is Corning (GLW) Stock Rocketing Higher Today",
+          "url": "https://finnhub.io/api/news?id=088f63547983ba622a843f6b4241e5c404273eecea52551f655525930cce8c0b"
+        },
+        {
+          "headline": "Stock Market Today, Sept. 8: Stocks Slide Amid Surging Oil Prices, Persistent Geopolotical Tenisons",
+          "url": "https://finnhub.io/api/news?id=d2ea5b0f59e05f25075d247e66ad40d0621c6259bf2187fa7fcca4a520fefbfc"
+        }
+      ],
+      "score": 7.0
+    }
   ]
 }
