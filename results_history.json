@@ -40860,5 +40860,407 @@
       ],
       "score": 7.0
     }
+  ],
+  "2026-09-10": [
+    {
+      "ticker": "DELL",
+      "price": 535.25,
+      "1D": 0.0025661105579112596,
+      "1W": 0.08746441837726099,
+      "1M": 0.16897439130802225,
+      "6M": 2.6492729936909387,
+      "1J": 3.469211801713208,
+      "news": [
+        {
+          "headline": "Zacks Industry Outlook Highlights Dell and HP",
+          "url": "https://finnhub.io/api/news?id=04cd0847c08320a7c66447e8dedeaf2945bc8346ba9a42bedad54f2f3e8a242f"
+        },
+        {
+          "headline": "How Far Can Arista Networks Stock Move On You In A Year?",
+          "url": "https://finnhub.io/api/news?id=9a11dabf8643bc78c417dc339dc7e119e8f37c0f0705883208c5bd6d7ddc291d"
+        }
+      ],
+      "score": 127.5
+    },
+    {
+      "ticker": "WDC",
+      "price": 482.2799987792969,
+      "1D": 0.0104337127879589,
+      "1W": 0.07470440844796966,
+      "1M": 0.1005949892039204,
+      "6M": 0.7951735746504357,
+      "1J": 4.1108499093501605,
+      "news": [
+        {
+          "headline": "SanDisk Traded Its Best Prices For Something Rarer",
+          "url": "https://finnhub.io/api/news?id=926609a271d05c79e1b9b3d5e005a4656f019a6916d66fbb5bd23ea4595f3f84"
+        },
+        {
+          "headline": "Western Digital Corporation (WDC) Presents at Citi's 2026 Global TMT Conference Transcript",
+          "url": "https://finnhub.io/api/news?id=86a8775ed5a6d0e026a64e29eaf0b445b153bcadd039fbffb3d6f18334684cf1"
+        }
+      ],
+      "score": 101.8
+    },
+    {
+      "ticker": "INTC",
+      "price": 106.23999786376953,
+      "1D": 0.01694263063448343,
+      "1W": 0.17978894240243654,
+      "1M": 0.0894175709687446,
+      "6M": 1.214255916577229,
+      "1J": 3.346971994363176,
+      "news": [
+        {
+          "headline": "Intel stock surges 9% as surprising turnaround takes shape",
+          "url": "https://finnhub.io/api/news?id=d0a1dd56bcfc388025e62d91f6488005cb5946dffce263ed8ed197e4140f4bd3"
+        },
+        {
+          "headline": "Marvell Or NVIDIA: Which One Costs Less Per Dollar Of Profit?",
+          "url": "https://finnhub.io/api/news?id=c4fe7030b5ff3d9fc13b612c854759c02fd9127736442ff58ab699f613224b83"
+        }
+      ],
+      "score": 96.9
+    },
+    {
+      "ticker": "MRVL",
+      "price": 235.00999450683594,
+      "1D": 0.04258901862721671,
+      "1W": 0.13817318563365175,
+      "1M": 0.1268220044968653,
+      "6M": 1.6004603176331809,
+      "1J": 2.523499621263509,
+      "news": [
+        {
+          "headline": "Marvell Technology Targets $18B as AI Networking and Optics Fuel Growth",
+          "url": "https://finnhub.io/api/news?id=26e5220dbbd76d905e5111814e353710c92da60b2ee37d9571e8ba16c8486f8a"
+        },
+        {
+          "headline": "Marvell Technology (MRVL) Stock Is Up, What You Need To Know",
+          "url": "https://finnhub.io/api/news?id=eff6936ff12634ab6d0a4e9486c1a9ad0215b9996ad8cf29f4d630f56fcecf8c"
+        }
+      ],
+      "score": 88.6
+    },
+    {
+      "ticker": "AMD",
+      "price": 521.0999755859375,
+      "1D": 0.030371308672751438,
+      "1W": 0.1401128481368226,
+      "1M": 0.10976228446911593,
+      "6M": 1.5440607866407414,
+      "1J": 2.3442430438452697,
+      "news": [
+        {
+          "headline": "Wall Street Is Wrong About These 2 Chip Stocks",
+          "url": "https://finnhub.io/api/news?id=c334bc5e78d4e633b3612f81d926b2e47c99c2fdb2ab7458307093de5627a661"
+        },
+        {
+          "headline": "Dow Jones Futures Rise After Oil Prices, Yields Hit Stocks; Inflation Data Due.",
+          "url": "https://finnhub.io/api/news?id=e031fd1df5d948407664c7607f9a4529eb846741ef7ba6e266ec24c3f0d49f0c"
+        }
+      ],
+      "score": 83.4
+    },
+    {
+      "ticker": "HPE",
+      "price": 58.900001525878906,
+      "1D": 0.0512226094790225,
+      "1W": 0.13640747530493288,
+      "1M": 0.07717632035754904,
+      "6M": 1.774298996949315,
+      "1J": 1.5178756529703419,
+      "news": [
+        {
+          "headline": "How Far Can Arista Networks Stock Move On You In A Year?",
+          "url": "https://finnhub.io/api/news?id=9a11dabf8643bc78c417dc339dc7e119e8f37c0f0705883208c5bd6d7ddc291d"
+        },
+        {
+          "headline": "How Far Could Cisco Stock Fall With Its Fastest Growth Riding On Hyperscalers?",
+          "url": "https://finnhub.io/api/news?id=6b9d8901520cea978991891885a3203b5a74aefde587c0bbb31a3fb56d789c41"
+        }
+      ],
+      "score": 71.1
+    },
+    {
+      "ticker": "VLO",
+      "price": 388.95001220703125,
+      "1D": 0.015933148769145623,
+      "1W": 0.0624437053670308,
+      "1M": 0.2349579207234841,
+      "6M": 0.6979365293155545,
+      "1J": 1.454405941823878,
+      "news": [
+        {
+          "headline": "Why Did CVX, COP, VLO Stocks Jump To 52-Week Highs?",
+          "url": "https://finnhub.io/api/news?id=26b4ced350c04ccd6f9b0ba5515d90bc50094b6bb3bf6c5b6611b9234f9e60da"
+        },
+        {
+          "headline": "Why Is ExxonMobil Priced Above Peers With Fatter Margins?",
+          "url": "https://finnhub.io/api/news?id=f07a852274bab2b15c5ac54419385c30e9a4055f5f782c536cb76d9e2af37093"
+        }
+      ],
+      "score": 49.3
+    },
+    {
+      "ticker": "MPC",
+      "price": 399.44000244140625,
+      "1D": 0.004198439987580296,
+      "1W": 0.03214470915092054,
+      "1M": 0.2504174793342953,
+      "6M": 0.7732307370290628,
+      "1J": 1.2170097871204129,
+      "news": [
+        {
+          "headline": "Why Is ExxonMobil Priced Above Peers With Fatter Margins?",
+          "url": "https://finnhub.io/api/news?id=f07a852274bab2b15c5ac54419385c30e9a4055f5f782c536cb76d9e2af37093"
+        },
+        {
+          "headline": "How High-Return Refinery Investment Strengthens MPC's Long-Term Margins",
+          "url": "https://finnhub.io/api/news?id=fe89987669ffe2a2b6cc50d099be75288f106ff4a355806c2d4f44d22da08356"
+        }
+      ],
+      "score": 45.5
+    },
+    {
+      "ticker": "OKTA",
+      "price": 172.74000549316406,
+      "1D": 0.030699031802777728,
+      "1W": 0.0587803368400024,
+      "1M": 0.14571864825977246,
+      "6M": 1.136549273386265,
+      "1J": 0.840596785313712,
+      "news": [
+        {
+          "headline": "Okta, Inc. (OKTA) Presents at Goldman Sachs Communacopia + Technology Conference 2026 Transcript",
+          "url": "https://finnhub.io/api/news?id=2a5993fb146c32c88d54c0b5e021ece8df553ce0c8f04ac742ff0130bfb18d1b"
+        },
+        {
+          "headline": "SailPoint: Noticeable Deceleration Amid Steep Multiples (Downgrade)",
+          "url": "https://finnhub.io/api/news?id=329530da2b65bf50188571d313beef6267be14912d6414be8f3401262e6d0fa5"
+        }
+      ],
+      "score": 44.2
+    },
+    {
+      "ticker": "PSX",
+      "price": 260.7799987792969,
+      "1D": 0.0063285638579756226,
+      "1W": 0.018313883823943517,
+      "1M": 0.2164258592804754,
+      "6M": 0.5579199096595808,
+      "1J": 1.029649150100767,
+      "news": [
+        {
+          "headline": "Phillips 66 and Tyson Foods have been highlighted as Zacks Bull and Bear of the Day",
+          "url": "https://finnhub.io/api/news?id=23d53dfcf0abf1224da864670383ca3f66196b0d3f46c8854c152936555a2e08"
+        },
+        {
+          "headline": "Are Oils-Energy Stocks Lagging  Par Pacific (PARR) This Year?",
+          "url": "https://finnhub.io/api/news?id=31b2453e3ad4ac2b7f578e5d7573f516d0da77e814f8c3c0b1967068acba83fa"
+        }
+      ],
+      "score": 36.6
+    },
+    {
+      "ticker": "NET",
+      "price": 314.17999267578125,
+      "1D": 0.10510026790634806,
+      "1W": 0.1519395905448094,
+      "1M": 0.011558634792554846,
+      "6M": 0.47502343979240025,
+      "1J": 0.4374999825462239,
+      "news": [
+        {
+          "headline": "AI And Robotics In 2026: 16 Recent Developments For Investors",
+          "url": "https://finnhub.io/api/news?id=52562ddf2a6c2687841344a20584b7dbbff017f24bdf5eb5c9ae273fdb14f613"
+        },
+        {
+          "headline": "Baron Opportunity Fund Q2 2026 Top Contributors And Detractors",
+          "url": "https://finnhub.io/api/news?id=63edc7ea50b61efcc4abc730e9a742c2db46c3146c9761df0643d7cd51b46f95"
+        }
+      ],
+      "score": 23.6
+    },
+    {
+      "ticker": "NEM",
+      "price": 128.7100067138672,
+      "1D": 0.012746954305274241,
+      "1W": 0.03050444468728737,
+      "1M": 0.0999312472799644,
+      "6M": 0.11246103318297222,
+      "1J": 0.7112384008958749,
+      "news": [
+        {
+          "headline": "StrikePoint Announces Closing of $190,000,000 Bought Deal Private Placement of Subscription Receipts",
+          "url": "https://finnhub.io/api/news?id=de2ade1a8dc067c6d384406a674f09b27fe01b135913e229d43cbf2d49136f32"
+        },
+        {
+          "headline": "Bernstein Maintains Outperform on Newmont, Lowers Price Target to $144",
+          "url": "https://finnhub.io/api/news?id=2bc573a5ed5a346f2df7c7a3cf073daf14360704c0b6e38c11dfc674ab701eec"
+        }
+      ],
+      "score": 19.3
+    },
+    {
+      "ticker": "C",
+      "price": 137.8000030517578,
+      "1D": 0.007751919818715684,
+      "1W": 0.025755596309267517,
+      "1M": 0.019080031117908843,
+      "6M": 0.27443695684156044,
+      "1J": 0.4456045884845762,
+      "news": [
+        {
+          "headline": "Citi Japan\u2019s Tokenized Deposit Launch Extends the Institutional Pivot Into Asia\u2019s Deepest Regulatory",
+          "url": "https://finnhub.io/api/news?id=70064d4724fef4643b06c601007d5df498b4bce88ec22256ea70b9a72d6b99eb"
+        },
+        {
+          "headline": "UiPath Slips 3% Despite Citi Buy Initiation and $23 Target, Pegasystems and C3.ai Lag",
+          "url": "https://finnhub.io/api/news?id=92731cf07c1cfb3c4fcaf55a59c8ff8267e4af6171c5ef38957d6790d53461d9"
+        }
+      ],
+      "score": 15.5
+    },
+    {
+      "ticker": "CVX",
+      "price": 213.80999755859375,
+      "1D": 0.019113414911851402,
+      "1W": 0.009585413122097548,
+      "1M": 0.10654121353610713,
+      "6M": 0.1348421203186377,
+      "1J": 0.4351638102688569,
+      "news": [
+        {
+          "headline": "Why Did CVX, COP, VLO Stocks Jump To 52-Week Highs?",
+          "url": "https://finnhub.io/api/news?id=26b4ced350c04ccd6f9b0ba5515d90bc50094b6bb3bf6c5b6611b9234f9e60da"
+        },
+        {
+          "headline": "Why Is ExxonMobil Priced Above Peers With Fatter Margins?",
+          "url": "https://finnhub.io/api/news?id=f07a852274bab2b15c5ac54419385c30e9a4055f5f782c536cb76d9e2af37093"
+        }
+      ],
+      "score": 14.1
+    },
+    {
+      "ticker": "XOM",
+      "price": 164.22999572753906,
+      "1D": 0.022220789145118432,
+      "1W": 0.0004873702956403272,
+      "1M": 0.03444150707579494,
+      "6M": 0.09787131039784175,
+      "1J": 0.5272465741528538,
+      "news": [
+        {
+          "headline": "Why Is ExxonMobil Priced Above Peers With Fatter Margins?",
+          "url": "https://finnhub.io/api/news?id=f07a852274bab2b15c5ac54419385c30e9a4055f5f782c536cb76d9e2af37093"
+        },
+        {
+          "headline": "Why BP Is One of the Best Oil Stocks to Buy Right Now",
+          "url": "https://finnhub.io/api/news?id=a477c1edd543ea112b831d71530bb138dd0b5c4207856767adf9a0f421d67599"
+        }
+      ],
+      "score": 13.6
+    },
+    {
+      "ticker": "SWKS",
+      "price": 76.54000091552734,
+      "1D": 0.015388746409867728,
+      "1W": 0.06795036795036795,
+      "1M": 0.11266172258838657,
+      "6M": 0.3948523560972307,
+      "1J": 0.052775892371049724,
+      "news": [
+        {
+          "headline": "Opportunities At New Lucrative Sector Edges",
+          "url": "https://finnhub.io/api/news?id=c8333ac71c7b03cf9b8bbb1369440ba6a9f5432b3b7125bb8817b609997195ee"
+        },
+        {
+          "headline": "Skyworks Chair: It Will Be a While Before This Cycle Ends",
+          "url": "https://finnhub.io/api/news?id=15803f31731e774d5fdfb0b0acc1c745521edea05f187b808ea5b7d13330dc6a"
+        }
+      ],
+      "score": 12.9
+    },
+    {
+      "ticker": "QCOM",
+      "price": 176.39999389648438,
+      "1D": 0.0132689850490334,
+      "1W": 0.04353990167722102,
+      "1M": 0.09366750286624695,
+      "6M": 0.32728254468831525,
+      "1J": 0.13496474462593744,
+      "news": [
+        {
+          "headline": "Qualcomm\u2019s $60 billion deal reveals what comes after smartphones",
+          "url": "https://finnhub.io/api/news?id=1288fafcac4f00523f553e146b67ae89eb285135d12ff0116e6920aedadd6c85"
+        },
+        {
+          "headline": "The Overlooked Chip Stock Poised to Outperform Nvidia, AMD, and Broadcom in the AI Semiconductor Boo",
+          "url": "https://finnhub.io/api/news?id=835f3b1f585ccb6ae04d006003d09a06bad19dbccf12a972791656216f94634e"
+        }
+      ],
+      "score": 12.3
+    },
+    {
+      "ticker": "OXY",
+      "price": 61.29999923706055,
+      "1D": 0.010717192000469966,
+      "1W": 0.00640287950460416,
+      "1M": 0.045183250507032764,
+      "6M": 0.10800901194410112,
+      "1J": 0.3860805978973089,
+      "news": [
+        {
+          "headline": "Why Is ExxonMobil Priced Above Peers With Fatter Margins?",
+          "url": "https://finnhub.io/api/news?id=f07a852274bab2b15c5ac54419385c30e9a4055f5f782c536cb76d9e2af37093"
+        },
+        {
+          "headline": "Trump oil and gas holdings gained up to $4.4M during Iran war",
+          "url": "https://finnhub.io/api/news?id=bc83188db11793be1fd1828a6c8d2bd0313d9f75250f37b2b485207f2290f20d"
+        }
+      ],
+      "score": 11.1
+    },
+    {
+      "ticker": "EQIX",
+      "price": 1043.06005859375,
+      "1D": 0.0017768727976672273,
+      "1W": 0.0233704216745828,
+      "1M": 0.004469993909523092,
+      "6M": 0.08197558487126864,
+      "1J": 0.3666787184254117,
+      "news": [
+        {
+          "headline": "HostColor Stocks AMD Ryzen 9 9950X Dedicated Servers in Tokyo",
+          "url": "https://finnhub.io/api/news?id=f290ee4f1a265fe1a25d0d463d4d469e676b04523b8abe20ba83dbe1f1849b67"
+        },
+        {
+          "headline": "$1000 Invested In Equinix 15 Years Ago Would Be Worth This Much Today",
+          "url": "https://finnhub.io/api/news?id=3fd69474aee050e1f471d7eca60cde0c0bc445daa8d926ecd0415241d489e517"
+        }
+      ],
+      "score": 9.6
+    },
+    {
+      "ticker": "WFC",
+      "price": 89.66999816894531,
+      "1D": 0.019440644637006572,
+      "1W": 0.004480805880146455,
+      "1M": 0.024565831905219066,
+      "6M": 0.17976595250692684,
+      "1J": 0.13453942475236907,
+      "news": [
+        {
+          "headline": "SpaceX Has Survived Two Big Unlocks. The Third Starts Today",
+          "url": "https://finnhub.io/api/news?id=f51b2126b7611621898051e855318b5acfc0da22b62aad4092aee2a0ce7b74ff"
+        },
+        {
+          "headline": "Merrill Recruits 3 Advisor Practices With $1.7 Billion in Client Assets",
+          "url": "https://finnhub.io/api/news?id=5b9bd0ea8b7eb0bb3985cab04fe928f5cfab71e48e1563ce055c66fa94100761"
+        }
+      ],
+      "score": 7.3
+    }
   ]
 }
