@@ -41262,5 +41262,267 @@
       ],
       "score": 7.3
     }
+  ],
+  "2026-09-11": [
+    {
+      "ticker": "SWKS",
+      "price": 84.02999877929688,
+      "1D": 0.09785730042041413,
+      "1W": 0.17524473817198427,
+      "1M": 0.22976725490305544,
+      "6M": 0.5355101303910337,
+      "1J": 0.17872520220514265,
+      "news": [
+        {
+          "headline": "Fourth Red Session Runs Into a Foldable-Powered Apple as Oil Breaks $105 and Oracle Ships a $28.5 Bi",
+          "url": "https://finnhub.io/api/news?id=353e4ae02b79598186ded3dea272fb32a65f2f8712e0a0e9c1c4dcc2a3721420"
+        },
+        {
+          "headline": "Skyworks (SWKS) Rockets 9.8% on Looming $22B Qorvo Merger Nod",
+          "url": "https://finnhub.io/api/news?id=876f805d983fe8ba935cde042bc8265dceb25a73cb09e5a49603510751e8dce7"
+        }
+      ],
+      "score": 24.3
+    },
+    {
+      "ticker": "C",
+      "price": 138.5,
+      "1D": 0.005079803575760938,
+      "1W": 0.002606056261344817,
+      "1M": 0.020107502700379632,
+      "6M": 0.3257124195349706,
+      "1J": 0.4554898514433533,
+      "news": [
+        {
+          "headline": "Citigroup (C) Completed a Weekend Tokenized-Dollar Transfer. Can the Network Scale?",
+          "url": "https://finnhub.io/api/news?id=a02dbcb646b311b6f137d6599a6159871de3bf4c387fc79a401a889f6f98d81b"
+        },
+        {
+          "headline": "U.S. Bancorp Lifts Quarterly Dividend by 3.8%: Can It Keep Up the Pace?",
+          "url": "https://finnhub.io/api/news?id=1bb79e08f19ae150509d537dd62e9b84a7ace4738ed15b607adfd011808d1f11"
+        }
+      ],
+      "score": 16.2
+    },
+    {
+      "ticker": "COP",
+      "price": 137.0399932861328,
+      "1D": 0.003735402559113419,
+      "1W": 0.009725847727360114,
+      "1M": 0.09556888246534115,
+      "6M": 0.15565653282438938,
+      "1J": 0.4987318177001503,
+      "news": [
+        {
+          "headline": "Why Did CVX, COP, VLO Stocks Jump To 52-Week Highs?",
+          "url": "https://finnhub.io/api/news?id=26b4ced350c04ccd6f9b0ba5515d90bc50094b6bb3bf6c5b6611b9234f9e60da"
+        },
+        {
+          "headline": "Why Is ExxonMobil Priced Above Peers With Fatter Margins?",
+          "url": "https://finnhub.io/api/news?id=f07a852274bab2b15c5ac54419385c30e9a4055f5f782c536cb76d9e2af37093"
+        }
+      ],
+      "score": 15.3
+    },
+    {
+      "ticker": "SAIC",
+      "price": 128.75999450683594,
+      "1D": 0.020285242634702043,
+      "1W": 0.017865569223999504,
+      "1M": 0.0268761076129785,
+      "6M": 0.41669252812029106,
+      "1J": 0.2666219062877975,
+      "news": [
+        {
+          "headline": "Government & Technical Consulting Stocks Q2 Earnings: SAIC (NASDAQ:SAIC) Best of the Bunch",
+          "url": "https://finnhub.io/api/news?id=6d8706516a2f94dbf7087441994295d52e22f8709ea2b8451d771d40af3e7945"
+        },
+        {
+          "headline": "Can BAH's $39 Billion Backlog Offset Its Q1 Revenue Decline?",
+          "url": "https://finnhub.io/api/news?id=92933478b93ce03b650b8e321b44cad910de16a551748a14612917a42c52df6a"
+        }
+      ],
+      "score": 15.0
+    },
+    {
+      "ticker": "FANG",
+      "price": 205.38999938964844,
+      "1D": 0.013620857919991325,
+      "1W": 0.012072518570849834,
+      "1M": 0.023851617857184964,
+      "6M": 0.17313699762547732,
+      "1J": 0.5062820319283329,
+      "news": [
+        {
+          "headline": "Stock Market Today: Dow Drops As Fear Gauge Spikes; Copper Players Tumble On Tariff News (Live Cover",
+          "url": "https://finnhub.io/api/news?id=88c7a427337818f5e2b195f652a3263adfd8c655415680ff52a74ca3001a43c5"
+        },
+        {
+          "headline": "Stock Market Today: Dow Slides As Oil Rocks Higher; Sandisk Slumps As SpaceX Rises (Live Coverage)",
+          "url": "https://finnhub.io/api/news?id=eff409d452d622e1e76df7c5d3517c6b065603c79eb269ecb617129c1ece7cf8"
+        }
+      ],
+      "score": 14.6
+    },
+    {
+      "ticker": "DVN",
+      "price": 50.02000045776367,
+      "1D": 0.021233175280668027,
+      "1W": 0.025210074178229472,
+      "1M": 0.10176208759048773,
+      "6M": 0.09631722763515675,
+      "1J": 0.4447952491730336,
+      "news": [
+        {
+          "headline": "DVN Stock Clocks 3 Straight Days In Green: Retail Eyes Further Upside",
+          "url": "https://finnhub.io/api/news?id=76cd20662300124d2c751f89792bfd0b6a79b3ab9bf2ba139f7d096e5a9a0e1f"
+        },
+        {
+          "headline": "Devon Energy (DVN) Ascends While Market Falls: Some Facts to Note",
+          "url": "https://finnhub.io/api/news?id=4da6a1376cdb0441c56e3257c606492a0239a9985e6524944ab0945b9f46a7c0"
+        }
+      ],
+      "score": 13.8
+    },
+    {
+      "ticker": "XOM",
+      "price": 165.22999572753906,
+      "1D": 0.006089021652652422,
+      "1W": 0.018617772570585184,
+      "1M": 0.04067513051310407,
+      "6M": 0.09052719375870943,
+      "1J": 0.5112781886678905,
+      "news": [
+        {
+          "headline": "Second Quarter Earnings: A Rising AI Tide Lifts Many Sectors",
+          "url": "https://finnhub.io/api/news?id=f55cb0ffee0b789afadea6d663e4e72c30cb75467c30cdff4e7bb8367754f789"
+        },
+        {
+          "headline": "Oil Just Topped $109. Is It Too Late to Buy Chevron (CVX)? History Has a Clear Answer.",
+          "url": "https://finnhub.io/api/news?id=838a307db83238f69bcd91af1fb4a5e78467e88b5c8659994ba8bd8b84314ac0"
+        }
+      ],
+      "score": 13.3
+    },
+    {
+      "ticker": "QCOM",
+      "price": 176.8800048828125,
+      "1D": 0.002721150810298818,
+      "1W": 0.04929701131596165,
+      "1M": 0.09320561672663796,
+      "6M": 0.36103333261321036,
+      "1J": 0.13597688849167616,
+      "news": [
+        {
+          "headline": "Qualcomm Vs. Marvell: The Better AI Business Is The Worse Stock",
+          "url": "https://finnhub.io/api/news?id=4b45d5ff499923ee649048474115ff050ec535df4f7fb88b93d31da568030243"
+        },
+        {
+          "headline": "Qualcomm Stock Looks Cheap, But Is The Discount Deserved?",
+          "url": "https://finnhub.io/api/news?id=231b0f68f8ca7e6ead89d702d975cf56ae17c57ad0d556699b96f5b5468f4e2c"
+        }
+      ],
+      "score": 12.8
+    },
+    {
+      "ticker": "SEDG",
+      "price": 36.75,
+      "1D": 0.04373760169185783,
+      "1W": 0.087278131051106,
+      "1M": 0.10327224511816685,
+      "6M": 0.044330816543623974,
+      "1J": 0.2491502346939973,
+      "news": [
+        {
+          "headline": "SolarEdge Targets $2.4B Revenue By 2029 \u2013 A Look At Some Highlights From Its 2026 Investor Day",
+          "url": "https://finnhub.io/api/news?id=30817b5414c1b6520688e55232c9c1fb354855d645c659e6dc4f9b45429b9a7f"
+        },
+        {
+          "headline": "SolarEdge Falls 4% on Analyst Day Despite Joint NVIDIA 800 VDC Paper; Enphase Energy and First Solar",
+          "url": "https://finnhub.io/api/news?id=401e8c33de95005f668592e76fc9c650b5b51a8c3e1d528a481f8d13af7e8578"
+        }
+      ],
+      "score": 10.6
+    },
+    {
+      "ticker": "OXY",
+      "price": 61.15999984741211,
+      "1D": 0.002294319708262558,
+      "1W": 0.01370468869005475,
+      "1M": 0.04030884195815503,
+      "6M": 0.056744306036463805,
+      "1J": 0.34696188258960164,
+      "news": [
+        {
+          "headline": "Why Is ExxonMobil Priced Above Peers With Fatter Margins?",
+          "url": "https://finnhub.io/api/news?id=f07a852274bab2b15c5ac54419385c30e9a4055f5f782c536cb76d9e2af37093"
+        },
+        {
+          "headline": "Trump oil and gas holdings gained up to $4.4M during Iran war",
+          "url": "https://finnhub.io/api/news?id=bc83188db11793be1fd1828a6c8d2bd0313d9f75250f37b2b485207f2290f20d"
+        }
+      ],
+      "score": 9.2
+    },
+    {
+      "ticker": "EOG",
+      "price": 147.4600067138672,
+      "1D": 0.003061099407158501,
+      "1W": 0.010276787688428421,
+      "1M": 0.02831250341833068,
+      "6M": 0.12528413196135676,
+      "1J": 0.2688016779167836,
+      "news": [
+        {
+          "headline": "The Zacks Analyst Blog Highlights  JPMorgan Chase, EOG Resources and Bloom Energy",
+          "url": "https://finnhub.io/api/news?id=cd5dbdc9453260f00bad847de1e2602b2195fb7b4a4e4b7f622391bf36614df1"
+        },
+        {
+          "headline": "Stocks to Consider Before the Fed's September Decision: JPM, EOG, BE",
+          "url": "https://finnhub.io/api/news?id=a40fb46e21f86db8f3d36fde087eb9d253f01b54d76d194b20674da0e7ba2ced"
+        }
+      ],
+      "score": 8.7
+    },
+    {
+      "ticker": "PM",
+      "price": 189.77000427246094,
+      "1D": 0.021862029033519952,
+      "1W": 0.01933719793158453,
+      "1M": 0.019063489574089525,
+      "6M": 0.12239192635194943,
+      "1J": 0.1895394510876068,
+      "news": [
+        {
+          "headline": "Philip Morris CEO Is 'Optimistic' About Zyn Potential",
+          "url": "https://finnhub.io/api/news?id=11addbefe1e0afbefc440acfd2631ef6753ae0fe644febc393a82366308b2880"
+        },
+        {
+          "headline": "'Trump\u2019s Surgeon General Pick Invested in Tobacco, McDonald\u2019s' - Bloomberg News",
+          "url": "https://finnhub.io/api/news?id=e4c13ac1d629be0cc1cd580cc55b22b1752bd01c858998e92efd73b9440dc2a1"
+        }
+      ],
+      "score": 7.4
+    },
+    {
+      "ticker": "MDLZ",
+      "price": 62.470001220703125,
+      "1D": 0.0008010742266040246,
+      "1W": 0.01659886810577283,
+      "1M": 0.01116870273615928,
+      "6M": 0.16907149109775443,
+      "1J": 0.03806081505099615,
+      "news": [
+        {
+          "headline": "How Mondel\u0113z wants to \u2018shake up\u2019 snacking with cookies",
+          "url": "https://finnhub.io/api/news?id=7d7193202b04640bc59599421360431b249995d7eb3b6822f9764ccb73c34820"
+        },
+        {
+          "headline": "Nestle CEO Says Middle East Conflict Is Driving Cost Inflation; Company Is Mitigating Some Costs And",
+          "url": "https://finnhub.io/api/news?id=f9989697ebf22a0a3865f02ab7f5ce1bec66093cf8d1c8f1411a2cc46cdd0146"
+        }
+      ],
+      "score": 4.7
+    }
   ]
 }
