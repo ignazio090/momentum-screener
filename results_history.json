@@ -41524,5 +41524,598 @@
       ],
       "score": 4.7
     }
+  ],
+  "2026-09-14": [
+    {
+      "ticker": "DELL",
+      "price": 567.2899780273438,
+      "1D": 0.11975441848899494,
+      "1W": 0.08232526075661047,
+      "1M": 0.17087714763125644,
+      "6M": 2.7593037112312713,
+      "1J": 3.5825869315118153,
+      "news": [
+        {
+          "headline": "Jim Cramer Believes This AI Stock Is The Way To Go Over DRAM Memory",
+          "url": "https://finnhub.io/api/news?id=5ddb740be45009c6ef268c9401dbb31db91af2208c72dd37c0e1be8bddf809c9"
+        },
+        {
+          "headline": "Why Did HPQ, DELL, VLO Stocks Surge To 52-Week Highs Last Week?",
+          "url": "https://finnhub.io/api/news?id=d2dab1eb433494c27539f9cf2acc5356b8567c8b5488f0137e859d778287f952"
+        }
+      ],
+      "score": 134.3
+    },
+    {
+      "ticker": "INTC",
+      "price": 102.94000244140625,
+      "1D": 0.02611645488987381,
+      "1W": 0.07453026265344599,
+      "1M": 0.019712784084425016,
+      "6M": 1.249071475024318,
+      "1J": 3.182852494449236,
+      "news": [
+        {
+          "headline": "Wall Street\u2019s new pair trade: Long software, short chips",
+          "url": "https://finnhub.io/api/news?id=63535ae7c71e5e02b32ca774e655634032b32db1f38605bc2ade37e0f56445ab"
+        },
+        {
+          "headline": "AI stocks get drilled because of Anthropic CEO Dario Amodei's 3,800 word warning",
+          "url": "https://finnhub.io/api/news?id=0b1d111c70928ee16f3f64b47e2961a0b0f958735b22d4b22c842eb804a74d10"
+        }
+      ],
+      "score": 91.0
+    },
+    {
+      "ticker": "MRVL",
+      "price": 236.10000610351562,
+      "1D": 0.0402714095843829,
+      "1W": 0.056139578977559446,
+      "1M": 0.08761748715693997,
+      "6M": 1.6892382587355859,
+      "1J": 2.5531316966889595,
+      "news": [
+        {
+          "headline": "The Zacks Analyst Blog Highlights Meta, Marvell, Amphenol, SandRidge and BK Technologies",
+          "url": "https://finnhub.io/api/news?id=54e78aa9d5a5327e01c132dee1aafa817ea3bd57c8ee452d8c71ffbfb8955e13"
+        },
+        {
+          "headline": "Wall Street\u2019s new pair trade: Long software, short chips",
+          "url": "https://finnhub.io/api/news?id=63535ae7c71e5e02b32ca774e655634032b32db1f38605bc2ade37e0f56445ab"
+        }
+      ],
+      "score": 88.5
+    },
+    {
+      "ticker": "AMD",
+      "price": 516.1300048828125,
+      "1D": 0.024880855098165584,
+      "1W": 0.08074208381435405,
+      "1M": 0.06874704969778163,
+      "6M": 1.6688557139032667,
+      "1J": 2.3155393521792664,
+      "news": [
+        {
+          "headline": "AI stocks get drilled because of Anthropic CEO Dario Amodei's 3,800 word warning",
+          "url": "https://finnhub.io/api/news?id=0b1d111c70928ee16f3f64b47e2961a0b0f958735b22d4b22c842eb804a74d10"
+        },
+        {
+          "headline": "Why Are Nasdaq Futures Tumbling Premarket? MU, AMD, NVDA, ORCL, RUM, TSLA, SPCX Stocks In Focus",
+          "url": "https://finnhub.io/api/news?id=603bf62362314d8abc2cda4c0680ad5a49b6d7fe89058bb4377cb43c920811b9"
+        }
+      ],
+      "score": 83.2
+    },
+    {
+      "ticker": "HPE",
+      "price": 62.09000015258789,
+      "1D": 0.12441142303541022,
+      "1W": 0.19403846447284406,
+      "1M": 0.05613198138578301,
+      "6M": 1.9042257129943883,
+      "1J": 1.5496105099613882,
+      "news": [
+        {
+          "headline": "Integrated Systems Market Outlook 2026-2035 - Featuring Profiles of Cisco Systems, Hewlett Packard E",
+          "url": "https://finnhub.io/api/news?id=f2d019e2363a08110f05c0924f29a733c449bb15fc12504204e5e71937012713"
+        },
+        {
+          "headline": "Hewlett Packard Enterprise Sees AI, Networking Demand Outrun Supply as 2027 Targets Rise",
+          "url": "https://finnhub.io/api/news?id=8c8cc35d652b4900b5a596bb0a8dc2b5d1c7fda130051eed8b1fa790590f4c55"
+        }
+      ],
+      "score": 76.6
+    },
+    {
+      "ticker": "VLO",
+      "price": 390.4200134277344,
+      "1D": 0.012946633232434161,
+      "1W": 0.053139868747742895,
+      "1M": 0.18233858311597226,
+      "6M": 0.7077537687922345,
+      "1J": 1.5299682777117158,
+      "news": [
+        {
+          "headline": "VLO Stock Heads For Best Year Since 1982 \u2014 Michael Burry Says It Has Become A \u2018Huge Position\u2019",
+          "url": "https://finnhub.io/api/news?id=fbec6e9b5e6771990fb969f644f27c8dc9a20f75572a4af97ac8caa2514453a0"
+        },
+        {
+          "headline": "Why Did HPQ, DELL, VLO Stocks Surge To 52-Week Highs Last Week?",
+          "url": "https://finnhub.io/api/news?id=d2dab1eb433494c27539f9cf2acc5356b8567c8b5488f0137e859d778287f952"
+        }
+      ],
+      "score": 49.7
+    },
+    {
+      "ticker": "MPC",
+      "price": 395.92999267578125,
+      "1D": 0.008944445053624288,
+      "1W": 0.01807662352694222,
+      "1M": 0.14002615925158354,
+      "6M": 0.7620008132415499,
+      "1J": 1.2080150747376035,
+      "news": [
+        {
+          "headline": "Oil Above $100 Is Creating a New Opportunity Beyond the Major Producers",
+          "url": "https://finnhub.io/api/news?id=63cab8c517de898d6a75adca70cbda1856df4082bafdceaebc464c95dceac63e"
+        },
+        {
+          "headline": "Marathon Petroleum (MPC) Is Considered a Good Investment by Brokers: Is That True?",
+          "url": "https://finnhub.io/api/news?id=0a667b26d672fcfd805dbf57eb0b7d7628a60b3762b1272184c3569476f040f8"
+        }
+      ],
+      "score": 42.7
+    },
+    {
+      "ticker": "PSX",
+      "price": 259.4700012207031,
+      "1D": 0.003713556221472777,
+      "1W": 0.01717042983140261,
+      "1M": 0.15633991497093616,
+      "6M": 0.5210194211752027,
+      "1J": 1.0159482141838858,
+      "news": [
+        {
+          "headline": "Phillips 66 (NYSE:PSX) Offers Dividend Quality for Income Investors",
+          "url": "https://finnhub.io/api/news?id=b9350cd0ec02023fd8dc04cfbea5c3b71972832a2f5bd620679d082bc6663bb3"
+        },
+        {
+          "headline": "Oil Above $100 Is Creating a New Opportunity Beyond the Major Producers",
+          "url": "https://finnhub.io/api/news?id=63cab8c517de898d6a75adca70cbda1856df4082bafdceaebc464c95dceac63e"
+        }
+      ],
+      "score": 34.3
+    },
+    {
+      "ticker": "SWKS",
+      "price": 88.3499984741211,
+      "1D": 0.05141020775414518,
+      "1W": 0.19359635883470425,
+      "1M": 0.26793912295029826,
+      "6M": 0.6280177880899313,
+      "1J": 0.22140106705053259,
+      "news": [
+        {
+          "headline": "What Moved Markets This Week",
+          "url": "https://finnhub.io/api/news?id=9c18ba044294b7bd21cd518eba5081d00a6899203ebad9c26c02f25f5829c2c1"
+        },
+        {
+          "headline": "Skyworks Solutions (SWKS) Stock Trades Up, Here Is Why",
+          "url": "https://finnhub.io/api/news?id=c6aa5866aa4401b5229a39abee51a6de7884ae19f874377159dcb076f4ecc1bc"
+        }
+      ],
+      "score": 27.2
+    },
+    {
+      "ticker": "TSM",
+      "price": 433.239990234375,
+      "1D": 0.012172024086948468,
+      "1W": 0.01009532660766929,
+      "1M": 0.009530458804753417,
+      "6M": 0.28721659108853903,
+      "1J": 0.691828818443598,
+      "news": [
+        {
+          "headline": "Amazon and 2 Other AI Stocks to Buy With $5,000",
+          "url": "https://finnhub.io/api/news?id=0e847eacb7767c1f8b61116e237bb15488e2418bf0638be3345bc59f1cad05bd"
+        },
+        {
+          "headline": "Robots Everywhere: Goldman Sachs Now Sees 6.5 Million Humanoid Robots by 2035",
+          "url": "https://finnhub.io/api/news?id=22f4a830e839b259ddc3d13080195397b050d382ba253f927c2c4e56fd6dd661"
+        }
+      ],
+      "score": 20.2
+    },
+    {
+      "ticker": "AAPL",
+      "price": 332.2699890136719,
+      "1D": 0.017454088133066616,
+      "1W": 0.03844106555628222,
+      "1M": 0.09932171716682175,
+      "6M": 0.33081300208816855,
+      "1J": 0.4497995740678465,
+      "news": [
+        {
+          "headline": "Motive Announces Entitlement Server General Availability for iPhone Duo, iPhone 18 Pro and iPhone 18",
+          "url": "https://finnhub.io/api/news?id=6e83e407911ac92a78991c50cb10e5d70dbc2b88014d518bca8fa20e3c9f9f8b"
+        },
+        {
+          "headline": "GLW Stock Drops Premarket As Corning Launches $2B Equity Offering",
+          "url": "https://finnhub.io/api/news?id=ef76bb5f05d2b5d4e5b2781b6f70f14a796e3c82b82bd658b5219ce23e95fcb6"
+        }
+      ],
+      "score": 18.7
+    },
+    {
+      "ticker": "QCOM",
+      "price": 181.97000122070312,
+      "1D": 0.028776550188716225,
+      "1W": 0.07840461832908398,
+      "1M": 0.12197440481124143,
+      "6M": 0.4145441441817587,
+      "1J": 0.15014238400600416,
+      "news": [
+        {
+          "headline": "Stocktwits Tech Watch: Anthropic's AI Slowdown Row, Salesforce And Snap Events, And A Central Bank R",
+          "url": "https://finnhub.io/api/news?id=9b4434f2bfaa3b5f152477d06c8a8720696f726892831876c06ac6f032f22acb"
+        },
+        {
+          "headline": "Top 50 High-Quality Dividend Growth Stocks For September 2026",
+          "url": "https://finnhub.io/api/news?id=5407a5844cc9dd3106cdde5d4ee746a431794cfe6f78e4b1c910f36d5c7c5a45"
+        }
+      ],
+      "score": 15.9
+    },
+    {
+      "ticker": "C",
+      "price": 138.82000732421875,
+      "1D": 0.0023105221965252706,
+      "1W": 0.007987264694783227,
+      "1M": 0.009012977734124199,
+      "6M": 0.3263866619944711,
+      "1J": 0.43449422876628513,
+      "news": [
+        {
+          "headline": "Citi Says Global Equity Flows Weaken as Investor Positioning Remains Relatively Stable",
+          "url": "https://finnhub.io/api/news?id=a648f1bb30fc504a84a15e8071cfca1a2f4efb777e70c054cead389feeaae6e3"
+        },
+        {
+          "headline": "The 5 market worries investors can\u2019t ignore, according to Citi",
+          "url": "https://finnhub.io/api/news?id=e986147fe1b70108845269cdaddc966da0e0cbe1e403280ed21c93605e5ac999"
+        }
+      ],
+      "score": 15.6
+    },
+    {
+      "ticker": "COP",
+      "price": 137.35000610351562,
+      "1D": 0.0022622068926661494,
+      "1W": 0.023015132750674717,
+      "1M": 0.0861437953765552,
+      "6M": 0.1427816582005782,
+      "1J": 0.5051543271575382,
+      "news": [
+        {
+          "headline": "Is ConocoPhillips Stock Worth Buying Here? - Shorting COP Puts and Credit Spreads are Better Plays",
+          "url": "https://finnhub.io/api/news?id=8b69b57ae8741b37ec3ab59fd8707e3e316e3cbaa7dad90033e935ffd05d739e"
+        },
+        {
+          "headline": "Saudi Arabia Shuts Key Pipeline, Adding Pressure to Oil Supplies",
+          "url": "https://finnhub.io/api/news?id=33bba2ab6863c06f27b4b2aa749ffbaca5b2e13e0bcb0afc52fef5c506189869"
+        }
+      ],
+      "score": 15.2
+    },
+    {
+      "ticker": "SAIC",
+      "price": 129.89999389648438,
+      "1D": 0.008853676904963787,
+      "1W": 0.024852022851947733,
+      "1M": 0.028422107570901245,
+      "6M": 0.4234817165233215,
+      "1J": 0.23867330202381787,
+      "news": [
+        {
+          "headline": "Government & Technical Consulting Stocks Q2 Earnings: SAIC (NASDAQ:SAIC) Best of the Bunch",
+          "url": "https://finnhub.io/api/news?id=6d8706516a2f94dbf7087441994295d52e22f8709ea2b8451d771d40af3e7945"
+        },
+        {
+          "headline": "Can BAH's $39 Billion Backlog Offset Its Q1 Revenue Decline?",
+          "url": "https://finnhub.io/api/news?id=92933478b93ce03b650b8e321b44cad910de16a551748a14612917a42c52df6a"
+        }
+      ],
+      "score": 14.5
+    },
+    {
+      "ticker": "DVN",
+      "price": 50.22999954223633,
+      "1D": 0.004198302330084485,
+      "1W": 0.04515185407695957,
+      "1M": 0.11970572578738718,
+      "6M": 0.0937787773826946,
+      "1J": 0.46031684594905065,
+      "news": [
+        {
+          "headline": "Dividend Champion, Contender, And Challenger Highlights: Week September 13",
+          "url": "https://finnhub.io/api/news?id=3b25c7758098d2e2e83b4a3df7b4ca76db0ada28ba2f63fcd051f9886485f820"
+        },
+        {
+          "headline": "DVN Stock Clocks 3 Straight Days In Green: Retail Eyes Further Upside",
+          "url": "https://finnhub.io/api/news?id=76cd20662300124d2c751f89792bfd0b6a79b3ab9bf2ba139f7d096e5a9a0e1f"
+        }
+      ],
+      "score": 14.5
+    },
+    {
+      "ticker": "XOM",
+      "price": 165.99000549316406,
+      "1D": 0.004599708196314674,
+      "1W": 0.04088545947546203,
+      "1M": 0.04578917885284023,
+      "6M": 0.07736848183076327,
+      "1J": 0.5231035728872042,
+      "news": [
+        {
+          "headline": "Zacks Investment Ideas feature highlights: Johnson & Johnson, Coca-Cola and Exxon Mobil",
+          "url": "https://finnhub.io/api/news?id=b9f385c20c9150b231140fa8d08ba5fc8f641e81dfad653f4de6e7cadc0e786d"
+        },
+        {
+          "headline": "Oil Above $100 Is Creating a New Opportunity Beyond the Major Producers",
+          "url": "https://finnhub.io/api/news?id=63cab8c517de898d6a75adca70cbda1856df4082bafdceaebc464c95dceac63e"
+        }
+      ],
+      "score": 13.8
+    },
+    {
+      "ticker": "TRV",
+      "price": 375.20001220703125,
+      "1D": 0.020785762050233948,
+      "1W": 0.019311830531581906,
+      "1M": 0.017081298476498405,
+      "6M": 0.24981577382667827,
+      "1J": 0.363255218950944,
+      "news": [
+        {
+          "headline": "Higher Rates Are a Gift to These 3 Insurance Dividend Stocks",
+          "url": "https://finnhub.io/api/news?id=533143734c57e89159cea70505fa6d124e632a376747c17ff1e64d7ecab22450"
+        },
+        {
+          "headline": "Friday's session: top gainers and losers in the dow jones index",
+          "url": "https://finnhub.io/api/news?id=d203da3fbc27c56f1bb176547ad99ad90d3267147090af2aa48d0f2d8febe0d4"
+        }
+      ],
+      "score": 13.4
+    },
+    {
+      "ticker": "CVX",
+      "price": 214.05999755859375,
+      "1D": 0.006110185586210117,
+      "1W": 0.02617445491525374,
+      "1M": 0.09831191912694581,
+      "6M": 0.10713263988891926,
+      "1J": 0.4059712181835511,
+      "news": [
+        {
+          "headline": "Oil Above $100 Is Creating a New Opportunity Beyond the Major Producers",
+          "url": "https://finnhub.io/api/news?id=63cab8c517de898d6a75adca70cbda1856df4082bafdceaebc464c95dceac63e"
+        },
+        {
+          "headline": "Chevron Already Committed $7 Billion to Venezuela. Trump Says Exxon Is Next. Here's the Big Differen",
+          "url": "https://finnhub.io/api/news?id=f2d4e018138cd27e6a92fde104d1e3aba5fe130bec57eb4c852d1a7822810bfd"
+        }
+      ],
+      "score": 12.9
+    },
+    {
+      "ticker": "OKE",
+      "price": 96.62000274658203,
+      "1D": 0.009402439557055149,
+      "1W": 0.012469898748828869,
+      "1M": 0.04487943626143007,
+      "6M": 0.15913404817148794,
+      "1J": 0.38969809603926214,
+      "news": [
+        {
+          "headline": "TD Cowen Maintains Hold on ONEOK, Raises Price Target to $93",
+          "url": "https://finnhub.io/api/news?id=2a024ab1890c810dbc58c170c42ecdd37030682a5f60be963a9dc2ae9f159920"
+        },
+        {
+          "headline": "ONEOK Closes $9 Billion Minority Equity Investment with Apollo",
+          "url": "https://finnhub.io/api/news?id=55a46b7de27bc7a7c24449ee8e1b08a2dfb1fc93f6b3b14a6e6b75ebd560890b"
+        }
+      ],
+      "score": 12.3
+    },
+    {
+      "ticker": "OXY",
+      "price": 61.459999084472656,
+      "1D": 0.004905154313424036,
+      "1W": 0.02834801418374078,
+      "1M": 0.05451779581454213,
+      "6M": 0.07165168255627123,
+      "1J": 0.36209864729150987,
+      "news": [
+        {
+          "headline": "Occidental Petroleum (NYSE:OXY) Flashes Breakout Setup With Strong Technicals",
+          "url": "https://finnhub.io/api/news?id=8e8400cac94433ea90d9ad05e226e3e4598e40be875cf239f4f7581c132adacb"
+        },
+        {
+          "headline": "I'm Buying Occidental on This Dip -- Not Because of Oil, but Because of This",
+          "url": "https://finnhub.io/api/news?id=526687cd8aa48700fe3b0ce35b418757be57914017c0f14044507834beb2c1b7"
+        }
+      ],
+      "score": 10.4
+    },
+    {
+      "ticker": "KO",
+      "price": 88.29000091552734,
+      "1D": 0.00523737988025421,
+      "1W": 0.0024980268135058738,
+      "1M": 0.0182216797109576,
+      "6M": 0.14895304644125146,
+      "1J": 0.34265650291165106,
+      "news": [
+        {
+          "headline": "Zacks Investment Ideas feature highlights: Johnson & Johnson, Coca-Cola and Exxon Mobil",
+          "url": "https://finnhub.io/api/news?id=b9f385c20c9150b231140fa8d08ba5fc8f641e81dfad653f4de6e7cadc0e786d"
+        },
+        {
+          "headline": "Coca-Cola vs. Pepsi: Five Years, Two Completely Different Outcomes",
+          "url": "https://finnhub.io/api/news?id=80d3d6eb2d78797e5c2f025460ee4bf13e40be395a420a9e48fe5104fbfe34f2"
+        }
+      ],
+      "score": 10.4
+    },
+    {
+      "ticker": "ABBV",
+      "price": 257.1199951171875,
+      "1D": 0.008313706341911765,
+      "1W": 0.0025735151060588806,
+      "1M": 0.033606692374009636,
+      "6M": 0.1885398197068639,
+      "1J": 0.2037806904633622,
+      "news": [
+        {
+          "headline": "How Much Does a 61-Year-Old Need Invested to Collect $8,600 a Month for Life?",
+          "url": "https://finnhub.io/api/news?id=73edf292663e05f412f5fff7acc38b246c1db52ad563802de1561dece1055aa2"
+        },
+        {
+          "headline": "Why Did Billionaire Israel \"Izzy\" Englander More Than Double His Stake in AbbVie Stock and Start a P",
+          "url": "https://finnhub.io/api/news?id=8a0909e1df6c56605a637ac198a106ca8689a19a0bcc0e3b49b74850234701b6"
+        }
+      ],
+      "score": 8.7
+    },
+    {
+      "ticker": "NXPI",
+      "price": 236.6199951171875,
+      "1D": 0.04481827103711119,
+      "1W": 0.03853580986841303,
+      "1M": 0.013752587312945657,
+      "6M": 0.25041813308235406,
+      "1J": 0.07891982558476492,
+      "news": [
+        {
+          "headline": "Top 50 High-Quality Dividend Growth Stocks For September 2026",
+          "url": "https://finnhub.io/api/news?id=5407a5844cc9dd3106cdde5d4ee746a431794cfe6f78e4b1c910f36d5c7c5a45"
+        },
+        {
+          "headline": "NXP Semiconductors Eyes Physical AI Leadership, Sees Data Center Growth Surge",
+          "url": "https://finnhub.io/api/news?id=778302005df1070830ba491a2ad1fc7355b001fcb223d9cb0079ba0c23695e55"
+        }
+      ],
+      "score": 8.5
+    },
+    {
+      "ticker": "WFC",
+      "price": 90.29000091552734,
+      "1D": 0.009390765745595293,
+      "1W": 0.0035567376957041006,
+      "1M": 0.015292933832053632,
+      "6M": 0.2324903854325139,
+      "1J": 0.13549444442525488,
+      "news": [
+        {
+          "headline": "5 Relatively Secure And Cheap Dividend Stocks, Yields Up To 8% (September 2026)",
+          "url": "https://finnhub.io/api/news?id=63436052826465c295ed7e11b23858def1411813ef4ad7a37566b51ddd5e540b"
+        },
+        {
+          "headline": "Week\u2019s Best: Schwab Hikes Minimums on Popular Tax Strategy",
+          "url": "https://finnhub.io/api/news?id=75c2b8381b42e7b6141dac2277fbc11536341bad2d7f42e1f86a286a56f89e3d"
+        }
+      ],
+      "score": 7.9
+    },
+    {
+      "ticker": "PM",
+      "price": 191.05999755859375,
+      "1D": 0.0067976669499396425,
+      "1W": 0.04673203767239807,
+      "1M": 0.026156050557655915,
+      "6M": 0.11281177359845466,
+      "1J": 0.17915124293289447,
+      "news": [
+        {
+          "headline": "Zacks Industry Outlook Philip Morris, British American Tobacco and Altria",
+          "url": "https://finnhub.io/api/news?id=be64d8095edc9ba8de3f2a4dee4b43d225f3d5ebbbbf39db938b4507bdf30d18"
+        },
+        {
+          "headline": "Chamath Palihapitiya: Anthropic Employee\u2019s \u201cHuman Extinction\u201d AI Warning Risks $2.3 Trillion IPO",
+          "url": "https://finnhub.io/api/news?id=a0627a2d4d4fa6baad0fc302269d8fe4760a904543ddc562360a981d50f12bf5"
+        }
+      ],
+      "score": 7.4
+    },
+    {
+      "ticker": "VZ",
+      "price": 50.61000061035156,
+      "1D": 0.012807672083531563,
+      "1W": 0.009373777950227863,
+      "1M": 0.07726694558291262,
+      "6M": 0.01687311953392992,
+      "1J": 0.22490072632965782,
+      "news": [
+        {
+          "headline": "Two Telecom Giants, Two Big Dividends. Which One Can Investors Actually Count On?",
+          "url": "https://finnhub.io/api/news?id=56f4b9efe0c0c177d8ac149c52606359f7ab97a6cf7e510cf1a32128ab468856"
+        },
+        {
+          "headline": "5 Stocks Yielding More Than 5%. What You\u2019re Actually Trading for That Income",
+          "url": "https://finnhub.io/api/news?id=c8f49c115c6cb7e9ef24cc8692fc52e020ca77f627857d26424c90cebe84c4dc"
+        }
+      ],
+      "score": 6.8
+    },
+    {
+      "ticker": "MO",
+      "price": 68.9800033569336,
+      "1D": 0.0027620648186873695,
+      "1W": 0.0014518889010359606,
+      "1M": 0.07145085895870255,
+      "6M": 0.04853032793235111,
+      "1J": 0.10999014171136454,
+      "news": [
+        {
+          "headline": "Zacks Industry Outlook Philip Morris, British American Tobacco and Altria",
+          "url": "https://finnhub.io/api/news?id=be64d8095edc9ba8de3f2a4dee4b43d225f3d5ebbbbf39db938b4507bdf30d18"
+        },
+        {
+          "headline": "Altria\u2019s Dividend Paradox: Raising Payouts While Cigarette Sales Plummet",
+          "url": "https://finnhub.io/api/news?id=845d0cd1af508132df77db1adff6b1e550d1d1ef902938b367387fcd29e5b663"
+        }
+      ],
+      "score": 4.7
+    },
+    {
+      "ticker": "TTEK",
+      "price": 36.4900016784668,
+      "1D": 0.0218426943150861,
+      "1W": 0.016151540894436565,
+      "1M": 0.02997629650494582,
+      "6M": 0.13927006280397375,
+      "1J": 0.016567947981531893,
+      "news": [
+        {
+          "headline": "Tetra Tech Announces $500 Million Increase to its Share Repurchase Program",
+          "url": "https://finnhub.io/api/news?id=4dab6e4f969e696a3bd578fadb118ac12f94e5898ccd2fbc93719493d714fa7f"
+        },
+        {
+          "headline": "Tetra Tech Expands Its Stock Buyback Program By $500M, Increasing Total Authorization To $898M",
+          "url": "https://finnhub.io/api/news?id=1c116d674b4c5e909f5dd99877754b6bea506a1ea762c8c7a57c3a191dfca250"
+        }
+      ],
+      "score": 4.5
+    },
+    {
+      "ticker": "BRK-B",
+      "price": 510.3699951171875,
+      "1D": 0.006646933169995069,
+      "1W": 0.008576559390471035,
+      "1M": 0.0007254806219362745,
+      "6M": 0.0415076554263191,
+      "1J": 0.027087382737077472,
+      "news": [],
+      "score": 1.7
+    }
   ]
 }
