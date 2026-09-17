@@ -43343,5 +43343,338 @@
       "news": [],
       "score": 3.0
     }
+  ],
+  "2026-09-17": [
+    {
+      "ticker": "MRNA",
+      "price": 145.6199951171875,
+      "1D": 0.012867710855879325,
+      "1W": 0.07381457460204334,
+      "1M": 1.2590753519303872,
+      "6M": 1.7790074594801266,
+      "1J": 4.862318607997934,
+      "news": [
+        {
+          "headline": "This Dividend Stock Is Beating the Market in 2026 and Yields 2.36%",
+          "url": "https://finnhub.io/api/news?id=9e0b6788ff74b1ee55df818058fde15910b46cb3efa6c4b3e242d3ae115025f0"
+        },
+        {
+          "headline": "Is Cancer the Turnaround Moderna Has Been Looking for Post-COVID?",
+          "url": "https://finnhub.io/api/news?id=fb42255126a572d81f834bf8bbfd884e039725d517b0f087b8ca45a58f310ec8"
+        }
+      ],
+      "score": 159.7
+    },
+    {
+      "ticker": "DELL",
+      "price": 563.2899780273438,
+      "1D": 0.03639301559551472,
+      "1W": 0.052386694119278376,
+      "1M": 0.17398549612037947,
+      "6M": 2.793087036657624,
+      "1J": 3.4679511843423705,
+      "news": [
+        {
+          "headline": "The Fed Hikes, Warsh Says Nothing Else, and Wall Street Fills In the Blanks",
+          "url": "https://finnhub.io/api/news?id=717682d626bcfed0fe0efb13305eefa30b057deb824005728acb81d479cd8373"
+        },
+        {
+          "headline": "The Competition's Response to Tesla Robotaxi Day",
+          "url": "https://finnhub.io/api/news?id=4a17506943d1f28fb380d50f642e1aa40309561d46791abbd147b09f88fefe76"
+        }
+      ],
+      "score": 130.5
+    },
+    {
+      "ticker": "VLO",
+      "price": 403.2799987792969,
+      "1D": 0.015716275690309922,
+      "1W": 0.036842746169237876,
+      "1M": 0.16155418054515175,
+      "6M": 0.7057868886665941,
+      "1J": 1.5321589119212684,
+      "news": [
+        {
+          "headline": "XOM Keeps Climbing. Should You Climb On?",
+          "url": "https://finnhub.io/api/news?id=7534221ac344c5c53503dc5423a14b49129f15f76c320858103b61d665ba1ebd"
+        },
+        {
+          "headline": "Valero Energy (VLO) Rises As Market Takes a Dip: Key Facts",
+          "url": "https://finnhub.io/api/news?id=db7cb6a0c53956c306ad4e168c0c44ecfedce1c7c7a93bdede3465a7df43bf27"
+        }
+      ],
+      "score": 49.0
+    },
+    {
+      "ticker": "ILMN",
+      "price": 228.92999267578125,
+      "1D": 0.02987088753519101,
+      "1W": 0.11673167158917683,
+      "1M": 0.18530596147475714,
+      "6M": 0.8619763998217347,
+      "1J": 1.2559123482738797,
+      "news": [
+        {
+          "headline": "Three Stocks Are Joining the S&P 500. Will They Actually Improve VOO\u2019s Returns?",
+          "url": "https://finnhub.io/api/news?id=3a46c8da527e267160d57cde7c3161bbef76e59a47d7066bb6cb4c0b991fb2c1"
+        },
+        {
+          "headline": "LuxExperience, Alvotech, Twist Bioscience And Other Big Stocks Moving Higher On Wednesday",
+          "url": "https://finnhub.io/api/news?id=57e598e4462f2d80a4a1dc3dfe70d483c91f1c6f10263aadd78290f7f7ef57b7"
+        }
+      ],
+      "score": 49.0
+    },
+    {
+      "ticker": "MPC",
+      "price": 413.9200134277344,
+      "1D": 0.0074968774152909525,
+      "1W": 0.03625077833423104,
+      "1M": 0.15878435440934324,
+      "6M": 0.7636192802585694,
+      "1J": 1.2997632554683325,
+      "news": [
+        {
+          "headline": "XOM Keeps Climbing. Should You Climb On?",
+          "url": "https://finnhub.io/api/news?id=7534221ac344c5c53503dc5423a14b49129f15f76c320858103b61d665ba1ebd"
+        },
+        {
+          "headline": "Wall Street Freezes Up as Oil Tops $108 and the Ten-Year Clears 5% Ahead of Warsh's First Hike Test",
+          "url": "https://finnhub.io/api/news?id=5b9afc6a2765be4dcb459f4d7e3bc28535769faef01e43c7ae1224ee6dd76560"
+        }
+      ],
+      "score": 45.3
+    },
+    {
+      "ticker": "TEAM",
+      "price": 190.27999877929688,
+      "1D": 0.0024761668339310585,
+      "1W": 0.07055245245063922,
+      "1M": 0.20171784249159436,
+      "6M": 1.5899005800707382,
+      "1J": 0.1060218914495522,
+      "news": [
+        {
+          "headline": "SmartBear\u2019s BearQ\u2122 Agent Powers Autonomous Testing in Jira",
+          "url": "https://finnhub.io/api/news?id=75a0a770b2b478cf2e56520f8d4b323bff8e674435d3b77f129d25cd023b3a52"
+        },
+        {
+          "headline": "Twilio's AI Deals Grow: Can New Wins Accelerate TWLO's Growth?",
+          "url": "https://finnhub.io/api/news?id=9fb457027334fc582797b4f1dbd6b4b1e25be4ecf27ba391e99dc5c62460433b"
+        }
+      ],
+      "score": 39.4
+    },
+    {
+      "ticker": "TMO",
+      "price": 648.4299926757812,
+      "1D": 0.010976126641451605,
+      "1W": 0.07138476066617024,
+      "1M": 0.10831066315906206,
+      "6M": 0.39787285078179285,
+      "1J": 0.35355617749984936,
+      "news": [
+        {
+          "headline": "The Zacks Analyst Blog Highlights Cisco, Lam, Thermo Fisher Scientific, Ampco-Pittsburgh and Catalys",
+          "url": "https://finnhub.io/api/news?id=0f444d93019c00f7c222b4cf9950e4f8c8ad3ff9a7095eaade07cd88ee801720"
+        },
+        {
+          "headline": "Top Stock Reports for Cisco, Lam Research & Thermo Fisher",
+          "url": "https://finnhub.io/api/news?id=514dc3396812c9b72aa8057bc5c2bd0c5873b64213f3249f865d988802280f0f"
+        }
+      ],
+      "score": 18.8
+    },
+    {
+      "ticker": "AAPL",
+      "price": 332.4100036621094,
+      "1D": 0.0032293334219983165,
+      "1W": 0.05413207180331172,
+      "1M": 0.0877646770039026,
+      "6M": 0.3323325722534108,
+      "1J": 0.40095705730890446,
+      "news": [
+        {
+          "headline": "Did AI Servers Really Quadruple Dell Stock?",
+          "url": "https://finnhub.io/api/news?id=4909ea4bada9f6a3b6849b062a4f75db9788952a90be9b4297a03fbd877fe0c0"
+        },
+        {
+          "headline": "S&P 500, Nasdaq, Dow Futures Inch Higher As Investors Digest First Rate Hike Since 2023 \u2014 INTC, GOOG",
+          "url": "https://finnhub.io/api/news?id=00168ac6217c2b77e67234d7da7eae404e2a005b371afb30ac7684cbf96cb7a7"
+        }
+      ],
+      "score": 17.6
+    },
+    {
+      "ticker": "TRV",
+      "price": 378.9200134277344,
+      "1D": 0.0025134592797392977,
+      "1W": 0.03643327981905815,
+      "1M": 0.043086668314352185,
+      "6M": 0.27587333676746173,
+      "1J": 0.41463969013953567,
+      "news": [
+        {
+          "headline": "Uncover the latest developments among dow jones stocks in today's session.",
+          "url": "https://finnhub.io/api/news?id=ee741aaaf6d4c596298525d052f23bfe3d78b5929e852d5db39941de9f83365c"
+        },
+        {
+          "headline": "Discover which dow jones stocks are making waves on Tuesday.",
+          "url": "https://finnhub.io/api/news?id=a2fd6ceef859ea3281feda9ce6737beeb691937977ad1252cfc372c6ed60226b"
+        }
+      ],
+      "score": 15.5
+    },
+    {
+      "ticker": "JNJ",
+      "price": 267.2799987792969,
+      "1D": 0.0002993509304320316,
+      "1W": 0.0007488850422610432,
+      "1M": 0.02373822448638229,
+      "6M": 0.1384984981393619,
+      "1J": 0.5488117940021466,
+      "news": [
+        {
+          "headline": "Is Pfizer's New Business Big Enough To Carry The Old One?",
+          "url": "https://finnhub.io/api/news?id=f18ff60a19b03a3e4eb745f510ed74b65c961a3130cc840808d3eb4280fba88d"
+        },
+        {
+          "headline": "J&J Slips as Caplyta Clears a Quality-of-Life Test",
+          "url": "https://finnhub.io/api/news?id=56ad4c89a8000f1d56aedd29cf4d0c08682e0fed7c9d08643d7dc0fb681aa6bb"
+        }
+      ],
+      "score": 14.2
+    },
+    {
+      "ticker": "WBD",
+      "price": 28.06999969482422,
+      "1D": 0.001427007035278736,
+      "1W": 0.005732706853703011,
+      "1M": 0.005012509420649517,
+      "6M": 0.026325385861504732,
+      "1J": 0.5380821750588614,
+      "news": [
+        {
+          "headline": "Apple\u2019s Biggest Win This Week Isn\u2019t the New iPhone",
+          "url": "https://finnhub.io/api/news?id=58eb644eeec82d1f7b358b8b6d76f2193ffe1384b676a93f5fd7ad449a115e7d"
+        },
+        {
+          "headline": "Should You Buy Netflix Stock Because Its Earnings Outrun Its Sales?",
+          "url": "https://finnhub.io/api/news?id=9216f592d7342d899b2682a33de8ba524ae8ac2840dc3ff4c37fc1662e60f57c"
+        }
+      ],
+      "score": 11.5
+    },
+    {
+      "ticker": "SJM",
+      "price": 123.55999755859375,
+      "1D": 0.01528348937545662,
+      "1W": 0.0020274106313334928,
+      "1M": 0.04862934429683505,
+      "6M": 0.2436125055297456,
+      "1J": 0.23060402668244734,
+      "news": [
+        {
+          "headline": "Folgers launches functional coffee line featuring protein, fiber",
+          "url": "https://finnhub.io/api/news?id=60f53ca19866133e974dab21ca0667f0e3ae8ca124f9bf8887e5b9a8e85f46a5"
+        },
+        {
+          "headline": "Finding Value Opportunities Among Highly Rated Stocks",
+          "url": "https://finnhub.io/api/news?id=265f2051e062e7edaf4f0fe9ba5f0ed39af4a7efd11b0a552f57b04aee659c15"
+        }
+      ],
+      "score": 10.8
+    },
+    {
+      "ticker": "GILD",
+      "price": 147.67999267578125,
+      "1D": 0.009432601471205894,
+      "1W": 0.019648207969398614,
+      "1M": 0.06904521028918718,
+      "6M": 0.0580211076083109,
+      "1J": 0.36505221118547065,
+      "news": [
+        {
+          "headline": "Gilead Expands Lenacapavir Access With New PAHO Deal in Latin America",
+          "url": "https://finnhub.io/api/news?id=e75f3b737d90025c607b605e7dfe339e2de02fc4e7e0e1232d8e9e290c3d211b"
+        },
+        {
+          "headline": "Gilead Expands Lenacapavir Licensing Agreements to Include Once-Yearly HIV Prevention Formulation",
+          "url": "https://finnhub.io/api/news?id=4ded9287680153405d14690cb18989c70c791fc2a8bd7ad575a7949ac7d765c8"
+        }
+      ],
+      "score": 10.4
+    },
+    {
+      "ticker": "MO",
+      "price": 70.0999984741211,
+      "1D": 0.004154145905590912,
+      "1W": 0.04904372197680609,
+      "1M": 0.11350187282371159,
+      "6M": 0.1284489111158054,
+      "1J": 0.15477436512305415,
+      "news": [
+        {
+          "headline": "British American Tobacco vs Altria: Which High-Yield Dividend Stock Is the Better Buy",
+          "url": "https://finnhub.io/api/news?id=401121a5a73c734adbe98dfddf02158424903d73f905678a387ba77aa16a45b0"
+        },
+        {
+          "headline": "How a Roth IRA Can Keep Thousands More of Your High-Yield Dividend Income Compounding",
+          "url": "https://finnhub.io/api/news?id=696beaf84ba82f283bd674d00abe3894302551bce23d1b48376bcfafbc92b9ae"
+        }
+      ],
+      "score": 9.0
+    },
+    {
+      "ticker": "PLTR",
+      "price": 174.33999633789062,
+      "1D": 0.01031524573760188,
+      "1W": 0.02837254523227868,
+      "1M": 0.010373765601127745,
+      "6M": 0.14119258664783582,
+      "1J": 0.023963361697928842,
+      "news": [
+        {
+          "headline": "CMG Stock Ticks Up On AI Food Safety Bet With Palantir: Retail Bullish On \u2018Ontological Burritos'",
+          "url": "https://finnhub.io/api/news?id=5d8d069475dec364439dd0392f8cb3487c2ec7b8652f5ae48893d54afbf9ada4"
+        },
+        {
+          "headline": "Nebius Group (NBIS) Is Down 12.9% After Becoming Palantir\u2019s Preferred Sovereign AI Cloud Partner \u2013 H",
+          "url": "https://finnhub.io/api/news?id=c9ac88a8980c3cffa2dd992c74927f5cb2b9679287d0b947aff53ac48ee9a336"
+        }
+      ],
+      "score": 4.3
+    },
+    {
+      "ticker": "BRK-B",
+      "price": 519.7999877929688,
+      "1D": 0.005882765635681683,
+      "1W": 0.025813045746675797,
+      "1M": 0.04329321062763625,
+      "6M": 0.07292502421872525,
+      "1J": 0.058677362332460674,
+      "news": [],
+      "score": 4.1
+    },
+    {
+      "ticker": "AIG",
+      "price": 76.06999969482422,
+      "1D": 0.007816591304330248,
+      "1W": 0.020577164957148775,
+      "1M": 0.010076607870245287,
+      "6M": 0.03703439059253465,
+      "1J": 0.021009726406605637,
+      "news": [
+        {
+          "headline": "Jon Hancock to Retire from AIG",
+          "url": "https://finnhub.io/api/news?id=ce9b2273469fa8a0fdf5e5e66880516c3f67286a61ae83c8b73f47327573a183"
+        },
+        {
+          "headline": "American International Group Inc's Dividend Analysis",
+          "url": "https://finnhub.io/api/news?id=3be08b24cc9f43f0775f94c6450bf74f6cee56e7f12ea2cc1476a7cd6533ef26"
+        }
+      ],
+      "score": 1.9
+    }
   ]
 }
