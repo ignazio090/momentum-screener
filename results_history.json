@@ -44514,5 +44514,247 @@
       ],
       "score": 5.6
     }
+  ],
+  "2026-09-21": [
+    {
+      "ticker": "AMD",
+      "price": 559.8200073242188,
+      "1D": 0.02702302324943412,
+      "1W": 0.08464922021211706,
+      "1M": 0.20024868403498614,
+      "6M": 1.7806089615694218,
+      "1J": 2.5449595606334445,
+      "news": [
+        {
+          "headline": "AMD Stock Jumped 8% Last Week. It Could Bring 325% More, Here\u2019s How.",
+          "url": "https://finnhub.io/api/news?id=2197af758c06801cb32619bf5b7914c15c1ac8453ecfbec19cff45b914d8f83f"
+        },
+        {
+          "headline": "Dow, S&P 500, Nasdaq Futures Climb Ahead Of Key China Summit: CRML, APLD, GME, AMD Stocks In Focus",
+          "url": "https://finnhub.io/api/news?id=838093a5a94167442ceaf330339f12062de3e1ea066f2e2dd6b1393315ed3a1b"
+        }
+      ],
+      "score": 92.7
+    },
+    {
+      "ticker": "STX",
+      "price": 858.7899780273438,
+      "1D": 0.0693038148321364,
+      "1W": 0.03447486142158533,
+      "1M": 0.03150521349292186,
+      "6M": 1.0934790423188696,
+      "1J": 2.9968650957916196,
+      "news": [
+        {
+          "headline": "Wall Street Brunch: U.S.-China Summit In Spotlight",
+          "url": "https://finnhub.io/api/news?id=e2972381010a8ed6329d7047e94f453e8c0e4121e4497cf8ad3a417c76f42666"
+        },
+        {
+          "headline": "SanDisk Stock Jumped 11% on S&P 100 News. Here\u2019s What the Street Says.",
+          "url": "https://finnhub.io/api/news?id=75772e5b5caed6c6fd566d93edf557c6729054bbc247e50b142636dc9d16e33e"
+        }
+      ],
+      "score": 84.5
+    },
+    {
+      "ticker": "MRVL",
+      "price": 244.25,
+      "1D": 0.014495786562517845,
+      "1W": 0.03451924475135801,
+      "1M": 0.02941794412210581,
+      "6M": 1.7804863220511773,
+      "1J": 2.2974589006457036,
+      "news": [
+        {
+          "headline": "Tough Times for Stockpickers: Passive Index Funds Continue To Dominate",
+          "url": "https://finnhub.io/api/news?id=b43020d44c24c9ffa1f606f1e995595f65fb190a7baf144a6285ac619d20f1bf"
+        },
+        {
+          "headline": "Marvell to Showcase Industry-First 2nm Optical Technology Demos for AI Data Center Infrastructure at",
+          "url": "https://finnhub.io/api/news?id=9b499c1f420d8c5079b7cd86676d2911585f48dc99df427c6fe8ad09093cf332"
+        }
+      ],
+      "score": 83.1
+    },
+    {
+      "ticker": "VLO",
+      "price": 413.2799987792969,
+      "1D": 0.0018180496017727167,
+      "1W": 0.05855228872838973,
+      "1M": 0.19355393959307077,
+      "6M": 0.7378817179677024,
+      "1J": 1.5757846334421066,
+      "news": [
+        {
+          "headline": "3 U.S. Refining Stocks With Diesel And Jet Fuel Margin Upside",
+          "url": "https://finnhub.io/api/news?id=7608269a43ae7acc66f6d493faef08d4efd11274eb92fd651ab5ca3390206865"
+        },
+        {
+          "headline": "Morgan Stanley Sees More Fuel for Valero\u2019s (VLO) Rally",
+          "url": "https://finnhub.io/api/news?id=57c885e14f0b6ed2212e1c573d168d36a6ae2485d24201c006d77de61a1ca2b8"
+        }
+      ],
+      "score": 51.4
+    },
+    {
+      "ticker": "MPC",
+      "price": 424.8900146484375,
+      "1D": 0.006943841247260299,
+      "1W": 0.07314429951855404,
+      "1M": 0.17779629840176714,
+      "6M": 0.8392442858150615,
+      "1J": 1.3346859886855866,
+      "news": [
+        {
+          "headline": "3 U.S. Refining Stocks With Diesel And Jet Fuel Margin Upside",
+          "url": "https://finnhub.io/api/news?id=7608269a43ae7acc66f6d493faef08d4efd11274eb92fd651ab5ca3390206865"
+        },
+        {
+          "headline": "Morgan Stanley Sees Marathon Petroleum (MPC) Breaking into New Highs",
+          "url": "https://finnhub.io/api/news?id=803b6ef2bf8635bbc58aa40051bf83d111e0cf2504a753810b31c4b08af989d4"
+        }
+      ],
+      "score": 48.6
+    },
+    {
+      "ticker": "ARM",
+      "price": 275.6099853515625,
+      "1D": 0.04043031975026506,
+      "1W": 0.040862481428580816,
+      "1M": 0.10535810298991245,
+      "6M": 1.0824327362402852,
+      "1J": 0.8807833900565879,
+      "news": [
+        {
+          "headline": "Better Artificial Intelligence Stock: Arm Holdings vs. ASML",
+          "url": "https://finnhub.io/api/news?id=d8376df9a3b0b152ee22d7601cf7aa782560a413730d668435d74be2e8ab8e72"
+        },
+        {
+          "headline": "Better Artificial Intelligence Stock: Arm Holdings vs. SK Hynix",
+          "url": "https://finnhub.io/api/news?id=82e5e7dffa528dc8798e5071b130ab3b9b7a8541d262066411285411492fe484"
+        }
+      ],
+      "score": 43.0
+    },
+    {
+      "ticker": "FCX",
+      "price": 71.54000091552734,
+      "1D": 0.009738919636791278,
+      "1W": 0.00661321545970618,
+      "1M": 0.03546106104355193,
+      "6M": 0.37975725289594947,
+      "1J": 0.6093716049107257,
+      "news": [
+        {
+          "headline": "Freeport McMoRan (FCX) Stock Fair Value Edges Higher After Split Analyst Revisions",
+          "url": "https://finnhub.io/api/news?id=921391c69323ab606e4b069d2439cb7cc1f3d3490ce5685c30b732aac31ac9ac"
+        },
+        {
+          "headline": "Freeport-McMoRan (FCX) Surpasses Market Returns: Some Facts Worth Knowing",
+          "url": "https://finnhub.io/api/news?id=3fcf7a01deeee9e7359b95eb141109643d5da13012a548257c925ac277ae3f3d"
+        }
+      ],
+      "score": 20.8
+    },
+    {
+      "ticker": "TSM",
+      "price": 434.6700134277344,
+      "1D": 0.010249624789697818,
+      "1W": 0.005992333186777484,
+      "1M": 0.05762362818918448,
+      "6M": 0.32686427316999006,
+      "1J": 0.6351637302846668,
+      "news": [
+        {
+          "headline": "Stocks advance after Bessent says talks with China were successful before Trump-Xi meeting",
+          "url": "https://finnhub.io/api/news?id=347dae5338296fc6007102b0ae5b67b2e5e52d5e5b073578d88aa87b22ff915f"
+        },
+        {
+          "headline": "ASML (ASML) and Chip Giants like TSMC Plot a Bigger Canvas for Building AI Chips",
+          "url": "https://finnhub.io/api/news?id=8c69db0d3d99efd1444fd0b5c88390a4d70bf5b030efe1d6bd477ef579b7f8ce"
+        }
+      ],
+      "score": 20.7
+    },
+    {
+      "ticker": "NVDA",
+      "price": 222.27000427246094,
+      "1D": 0.013358292985729199,
+      "1W": 0.018232677212606616,
+      "1M": 0.022792393468480297,
+      "6M": 0.28997148930837996,
+      "1J": 0.2641993983923572,
+      "news": [
+        {
+          "headline": "What Is Driving Bitcoin Higher Right Now",
+          "url": "https://finnhub.io/api/news?id=8bd511deceb01a353c743a81e21e2de51ef084c1cc0b51292ba7ebe8775bb665"
+        },
+        {
+          "headline": "Nvidia Has Been the King of AI. This ETF Bets the Next Winners Will Be Somewhere Else.",
+          "url": "https://finnhub.io/api/news?id=0ecab2bbcee4f2fba590757b2eb33ce2bceca58f2dcbbefa26260b512a1d6aba"
+        }
+      ],
+      "score": 12.2
+    },
+    {
+      "ticker": "GOOGL",
+      "price": 349.5400085449219,
+      "1D": 0.006362888486728548,
+      "1W": 0.032614500871261075,
+      "1M": 0.014634147637836603,
+      "6M": 0.16270302106964732,
+      "1J": 0.39050521133202565,
+      "news": [
+        {
+          "headline": "Waymo is bringing driverless taxis to a fourth country",
+          "url": "https://finnhub.io/api/news?id=9cdf05906a39a4fb7be8ee524900b52e7b63d56888ec332485b76ffc0259470e"
+        },
+        {
+          "headline": "Michael Burry Warns Hyperscalers Are Hiding $3 Trillion In AI Liabilities \u2014 And Wall Street Isn\u2019t Lo",
+          "url": "https://finnhub.io/api/news?id=8d7c4a1cd9f4e21d9a5466b42840f5f4bb61c8a26df7a089476b5de79314066d"
+        }
+      ],
+      "score": 12.1
+    },
+    {
+      "ticker": "GOOG",
+      "price": 344.4100036621094,
+      "1D": 0.002124100913307451,
+      "1W": 0.026710362584659097,
+      "1M": 0.008585233273652713,
+      "6M": 0.15412495190987097,
+      "1J": 0.36848219262199294,
+      "news": [
+        {
+          "headline": "Waymo is bringing driverless taxis to a fourth country",
+          "url": "https://finnhub.io/api/news?id=9cdf05906a39a4fb7be8ee524900b52e7b63d56888ec332485b76ffc0259470e"
+        },
+        {
+          "headline": "Michael Burry Warns Hyperscalers Are Hiding $3 Trillion In AI Liabilities \u2014 And Wall Street Isn\u2019t Lo",
+          "url": "https://finnhub.io/api/news?id=8d7c4a1cd9f4e21d9a5466b42840f5f4bb61c8a26df7a089476b5de79314066d"
+        }
+      ],
+      "score": 11.2
+    },
+    {
+      "ticker": "PLTR",
+      "price": 177.63999938964844,
+      "1D": 0.007943678239040214,
+      "1W": 0.06224961985330649,
+      "1M": 0.0139847988703671,
+      "6M": 0.17892227252676568,
+      "1J": 0.003785942048504273,
+      "news": [
+        {
+          "headline": "Michael Burry Doubles Down On Palantir Bear Case: \u2018A Lot Of\u2019 Money Still To Be Made Shorting PLTR",
+          "url": "https://finnhub.io/api/news?id=2485367c5bf7624fbe2852bc4ca0080b1d09b4a8f6113e738f7ac90e50287b7c"
+        },
+        {
+          "headline": "Prediction: This Will Be Palantir\u2019s Stock Price in a Year (Hint: It Implies Upside)",
+          "url": "https://finnhub.io/api/news?id=a50f8237cf997638ab142f72f9e06d5345d941873441dd95f0d53efa85fb0822"
+        }
+      ],
+      "score": 5.3
+    }
   ]
 }
