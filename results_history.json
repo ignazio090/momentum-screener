@@ -46183,5 +46183,487 @@
       ],
       "score": 7.4
     }
+  ],
+  "2026-09-25": [
+    {
+      "ticker": "MRNA",
+      "price": 194.82000732421875,
+      "1D": 0.06979301889664988,
+      "1W": 0.23249192318073195,
+      "1M": 0.2265945040499725,
+      "6M": 2.6367371370928288,
+      "1J": 6.527821238091876,
+      "news": [
+        {
+          "headline": "Moderna Stock Jumped 7% Thursday. The Real Test Comes at ESMO on October 24.",
+          "url": "https://finnhub.io/api/news?id=006838f8ced6332dc0acba2379725c751ab2aef9e4f253b26366c5d6e4cd9e3a"
+        },
+        {
+          "headline": "MRNA On Track To Be September's No. 2 S&P 500 Stock \u2014 But These 5 Smaller Health Care Names Did Even",
+          "url": "https://finnhub.io/api/news?id=70f140ccdd3ef73bfe1021f5281a43c699cb88dc3919b70c5378fbbb27e02a74"
+        }
+      ],
+      "score": 193.9
+    },
+    {
+      "ticker": "INTC",
+      "price": 127.38999938964844,
+      "1D": 0.03907015477278686,
+      "1W": 0.17086393213653756,
+      "1M": 0.4562185013856839,
+      "6M": 1.888662217628054,
+      "1J": 3.080397251487344,
+      "news": [
+        {
+          "headline": "AMD, INTC Stocks Extend Rally As Meta's Muse Fuels Bets On An AI-Agent CPU Boom",
+          "url": "https://finnhub.io/api/news?id=c3298b332bf6a6a18a9675f56e98f1333aadc8c43944bd1ce7c05d5222092b6a"
+        },
+        {
+          "headline": "Options Say Marvell Stock Could Halve Or Nearly Double In A Year",
+          "url": "https://finnhub.io/api/news?id=bacbc7bbdfb056628af57fb2c506c3609de6baafa584ca4f0fd3e0b134f7302f"
+        }
+      ],
+      "score": 112.7
+    },
+    {
+      "ticker": "AMD",
+      "price": 629.260009765625,
+      "1D": 0.023836294175537277,
+      "1W": 0.1544148283095886,
+      "1M": 0.3132017600563503,
+      "6M": 2.08808949586241,
+      "1J": 2.9113624482047213,
+      "news": [
+        {
+          "headline": "Nasdaq, S&P 500 Futures Rise Despite Surging Treasury Yields: AMD, TSLA, SPCX, AKAM, BE Stocks In Fo",
+          "url": "https://finnhub.io/api/news?id=464c155eaf42e2f6a75fb5446883d2f0913dbf22cc42b3a8780439cfbc23cfc4"
+        },
+        {
+          "headline": "Stocktwits AI Roundup: Meta's Muse Lifts Chip Stocks, Anthropic's $11B Akamai Deal And Oracle's New ",
+          "url": "https://finnhub.io/api/news?id=afdf730dc80ff089abc10d5a5e828ae5b4b436d20f3c9a1b1642c7d4ca8e9ab6"
+        }
+      ],
+      "score": 109.8
+    },
+    {
+      "ticker": "OKTA",
+      "price": 206.63999938964844,
+      "1D": 0.006232950796126723,
+      "1W": 0.08746444976054654,
+      "1M": 0.582114680529839,
+      "6M": 1.6031746855565792,
+      "1J": 1.299321164730992,
+      "news": [
+        {
+          "headline": "Why Okta Stock Was Rocking it This Week",
+          "url": "https://finnhub.io/api/news?id=444f8ae11f60ed5df55cd6d330761492661a703553eea7698898e926effc3f68"
+        },
+        {
+          "headline": "CrowdStrike (CRWD) Joined A Founding Alliance To Secure AI Agents",
+          "url": "https://finnhub.io/api/news?id=0b9999458a907e89be2013b5926ae6fe49542e3969b3eb8d674cb691800d5e89"
+        }
+      ],
+      "score": 71.6
+    },
+    {
+      "ticker": "ILMN",
+      "price": 273.8999938964844,
+      "1D": 0.07251933847432666,
+      "1W": 0.11713843738743235,
+      "1M": 0.2173873825911185,
+      "6M": 1.2017684126756623,
+      "1J": 1.9011755457267472,
+      "news": [
+        {
+          "headline": "Illumina (ILMN) Tests Valuation As Russell Index Removal Forces A Fresh Look",
+          "url": "https://finnhub.io/api/news?id=ee8b6d2cdf06d5fd5bfed5f295872420f87752a4fada8637c2a797b11a3da751"
+        },
+        {
+          "headline": "Illumina Stock Surges 94.9% YTD: What's Behind the Rally?",
+          "url": "https://finnhub.io/api/news?id=9180dee01b1435b5949c866d0156ec20e36275e8ed2385a62cbc20a980a110b4"
+        }
+      ],
+      "score": 70.2
+    },
+    {
+      "ticker": "HPE",
+      "price": 63.52000045776367,
+      "1D": 0.019091907456291638,
+      "1W": 0.040629087566174435,
+      "1M": 0.19162921934892943,
+      "6M": 1.547545751219756,
+      "1J": 1.643719767454599,
+      "news": [
+        {
+          "headline": "Hewlett Packard and Tecnoglass have been highlighted as Zacks Bull and Bear of the Day",
+          "url": "https://finnhub.io/api/news?id=016d512979b9c12f0e48c4dd5f1cd8a72dfaf2ce345b9a3d3c356599262afa07"
+        },
+        {
+          "headline": "Private 5G Market Forecasts Growth from $5.35B (2026) to $24.84B by 2032, Profiling Ericsson, Huawei",
+          "url": "https://finnhub.io/api/news?id=c880f48e2f5429d95a6bf6359362cda5caffb86264946cf1aab55f0f82b4be95"
+        }
+      ],
+      "score": 68.9
+    },
+    {
+      "ticker": "DDOG",
+      "price": 256.9200134277344,
+      "1D": 0.021591346836715184,
+      "1W": 0.08864412469378972,
+      "1M": 0.1521593214885609,
+      "6M": 1.0669348923567954,
+      "1J": 0.881233064722647,
+      "news": [
+        {
+          "headline": "Datadog (DDOG) Rallies On AI Demand, Is The Stock Still Cheap?",
+          "url": "https://finnhub.io/api/news?id=f49b2069830bbb54ec1dc24a099925df820781a59974eff1fd8ad6c01de1070b"
+        },
+        {
+          "headline": "Dow Jones Futures: Market Rally Resilient As Yields, Oil Prices Keep Rising; Tesla Event On Deck",
+          "url": "https://finnhub.io/api/news?id=78238e26136a0958e886dd7b0985f3367f77c2ddd56135f7b81615238bc1bd03"
+        }
+      ],
+      "score": 44.2
+    },
+    {
+      "ticker": "NET",
+      "price": 358.82000732421875,
+      "1D": 0.018420290634620654,
+      "1W": 0.07450441606551163,
+      "1M": 0.29267247165459087,
+      "6M": 0.7076095702007396,
+      "1J": 0.6492163223100503,
+      "news": [
+        {
+          "headline": "Do Cloudflare\u2019s (NET) New AI Crawler Controls Quietly Strengthen Its Data-Moat Narrative?",
+          "url": "https://finnhub.io/api/news?id=cd2c4d10920a5ed7a5a104b8aa0251941ad181d80aee3a990a5f5198c55e8254"
+        },
+        {
+          "headline": "What Does Cloudflare (NET) New AI Crawler Control Mean For Website Owners?",
+          "url": "https://finnhub.io/api/news?id=bf97e73febaf08927615fa0a106b1cf13eb90cd860c65e2534cb15ba4911b290"
+        }
+      ],
+      "score": 34.8
+    },
+    {
+      "ticker": "FIX",
+      "price": 1643.3900146484375,
+      "1D": 0.01075711296620344,
+      "1W": 0.04411170260619767,
+      "1M": 0.05213325293054412,
+      "6M": 0.210667441005523,
+      "1J": 1.0806551011102035,
+      "news": [
+        {
+          "headline": "3 Great Undervalued Stocks To Own In September 2026",
+          "url": "https://finnhub.io/api/news?id=b2ea2b2a69d6c70de7cba5e964a4c5d255e018bf1fa6400a867cd64e476b3554"
+        },
+        {
+          "headline": "Jacobs to Provide Advisory Services for Germany's Konrad Repository",
+          "url": "https://finnhub.io/api/news?id=3fd8cc3f972d4ddd474afe06890596aadef5b750fa4407c613345be0729dea9a"
+        }
+      ],
+      "score": 28.0
+    },
+    {
+      "ticker": "TSM",
+      "price": 451.1499938964844,
+      "1D": 0.01025592067794303,
+      "1W": 0.04855200031775844,
+      "1M": 0.08373132188205405,
+      "6M": 0.39038884715618116,
+      "1J": 0.6241844488002766,
+      "news": [
+        {
+          "headline": "ASML vs. Applied Materials: Which AI Chip-Equipment Stock Is the Better Buy?",
+          "url": "https://finnhub.io/api/news?id=c08ff8575733bc3b1222d51293c785ab4608a01a8ca0aaecef107f8326cdb9f7"
+        },
+        {
+          "headline": "Dow Jones Futures: Market Rally Resilient As Yields, Oil Prices Keep Rising; Tesla Event On Deck",
+          "url": "https://finnhub.io/api/news?id=78238e26136a0958e886dd7b0985f3367f77c2ddd56135f7b81615238bc1bd03"
+        }
+      ],
+      "score": 23.1
+    },
+    {
+      "ticker": "ESTC",
+      "price": 91.27999877929688,
+      "1D": 0.0,
+      "1W": 0.025963780228163227,
+      "1M": 0.1353233463548623,
+      "6M": 0.7789903787999488,
+      "1J": 0.06300216443081672,
+      "news": [
+        {
+          "headline": "Elastic Unveils AI-Era Metrics Platform, Claims Major Speed and Storage Gains",
+          "url": "https://finnhub.io/api/news?id=79845866172780b8d942078760dac955a59abc82f887359f591c22fb247c7e53"
+        },
+        {
+          "headline": "Cantor Fitzgerald Reiterates Neutral on Elastic, Maintains $100 Price Target",
+          "url": "https://finnhub.io/api/news?id=9c769e05925e65950124fe5889115f62050f1cc77849e1278b5778e531d9afa5"
+        }
+      ],
+      "score": 20.1
+    },
+    {
+      "ticker": "META",
+      "price": 777.5900268554688,
+      "1D": 0.045007461857742556,
+      "1W": 0.1405426712187981,
+      "1M": 0.3651499185519935,
+      "6M": 0.4225900425000399,
+      "1J": 0.025724685784114854,
+      "news": [
+        {
+          "headline": "Meta\u2019s Muse AI Downloads Are Soaring. Is It Time to Buy This Bargain AI Stock?",
+          "url": "https://finnhub.io/api/news?id=e00b38db8953dfa6ad5956b787673cb68a59bd103c2e087f85d27e188550e954"
+        },
+        {
+          "headline": "Stocktwits AI Roundup: Meta's Muse Lifts Chip Stocks, Anthropic's $11B Akamai Deal And Oracle's New ",
+          "url": "https://finnhub.io/api/news?id=afdf730dc80ff089abc10d5a5e828ae5b4b436d20f3c9a1b1642c7d4ca8e9ab6"
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "ticker": "TMO",
+      "price": 678.3900146484375,
+      "1D": 0.019675375162553237,
+      "1W": 0.03048670418782273,
+      "1M": 0.0808087379215726,
+      "6M": 0.39018215936510164,
+      "1J": 0.4546452291175039,
+      "news": [
+        {
+          "headline": "Dodge and Cox\u2019s Bullish Stance on Thermo Fisher Scientific (TMO)",
+          "url": "https://finnhub.io/api/news?id=af7721b4a3c3faf40f37a5359500b81eca8d8a2d2c03042a3b8d7aa798c4e476"
+        },
+        {
+          "headline": "Cell Isolation/Cell Separation Market Forecasts Growth from $6.97B (2026) to $13.51B by 2032, Profil",
+          "url": "https://finnhub.io/api/news?id=66bfbc06670a60d13954e5695d290adac6a19f1a3561c5de9ad44b4137b0a494"
+        }
+      ],
+      "score": 19.5
+    },
+    {
+      "ticker": "PWR",
+      "price": 643.5,
+      "1D": 0.01354540125254249,
+      "1W": 0.04372793806318358,
+      "1M": 0.06578549931401413,
+      "6M": 0.1797608610390141,
+      "1J": 0.5986495236964513,
+      "news": [
+        {
+          "headline": "Quanta Services (NYSE:PWR): High Growth Momentum Meets a Breakout Setup",
+          "url": "https://finnhub.io/api/news?id=290c2cb71a8fa381fc6bbd89c4096e17ae09e7048efd17bded00fd955c31d6a3"
+        },
+        {
+          "headline": "Why the Market Dipped But Quanta Services (PWR) Gained Today",
+          "url": "https://finnhub.io/api/news?id=6bed4280a4b065461d46421d415a3175d81731c37981db664b694c8a7e01faec"
+        }
+      ],
+      "score": 18.0
+    },
+    {
+      "ticker": "RKLB",
+      "price": 73.61000061035156,
+      "1D": 0.04693504716747732,
+      "1W": 0.08537306018255875,
+      "1M": 0.10013445795155956,
+      "6M": 0.1163178326503826,
+      "1J": 0.511809461624685,
+      "news": [
+        {
+          "headline": "Stocktwits Space Race Weekly: Why RKLB, FLY, RDW And PL Are Outpacing SPCX",
+          "url": "https://finnhub.io/api/news?id=80317a1b56351172d7ca147d1dc6e70c26d792d0a0e09f134b402a648de48362"
+        },
+        {
+          "headline": "Cathie Wood buys $25 million in tumbling tech stock",
+          "url": "https://finnhub.io/api/news?id=15852a2f1e6bb4e16fe009f3a7601535d7b976d927f8d304c0fd37068a5b4681"
+        }
+      ],
+      "score": 17.2
+    },
+    {
+      "ticker": "WBD",
+      "price": 30.84000015258789,
+      "1D": 0.002600777734420803,
+      "1W": 0.09206800292289023,
+      "1M": 0.06712804704722958,
+      "6M": 0.1392685814652778,
+      "1J": 0.5560040679839883,
+      "news": [
+        {
+          "headline": "How the Earn Your Leisure Hosts sparked a financial revolution",
+          "url": "https://finnhub.io/api/news?id=c41e27178bf349763e80f5c820287fee59ac57e5f9a8d081243a11bd2f5cd275"
+        },
+        {
+          "headline": "Paramount Skydance (PSKY) Lines Up $7.5 Billion Loan For Its Acquisition",
+          "url": "https://finnhub.io/api/news?id=2fd4db3a301f2c119d701feca1fe00d3f1b78f289b2f9e9fadfa171a327a30f0"
+        }
+      ],
+      "score": 17.1
+    },
+    {
+      "ticker": "APH",
+      "price": 83.08000183105469,
+      "1D": 0.010828560204544627,
+      "1W": 0.06174368962557889,
+      "1M": 0.048102484654983034,
+      "6M": 0.3536002199677954,
+      "1J": 0.35889072599859223,
+      "news": [
+        {
+          "headline": "Soaring Defense Spending Means Great News for These 2 Stocks",
+          "url": "https://finnhub.io/api/news?id=a4c4dd1676a5fb3c5318d1d6a758bbfe9e3c8059304b80174a0e0df58eb7d17b"
+        },
+        {
+          "headline": "Bernstein Initiates Coverage of Amphenol at Outperform",
+          "url": "https://finnhub.io/api/news?id=02a2755c785dd2fac01c524a3876a3dbc6d74c55b5555334335454a09994f4b2"
+        }
+      ],
+      "score": 16.7
+    },
+    {
+      "ticker": "GEV",
+      "price": 955.0399780273438,
+      "1D": 0.0033829617767513268,
+      "1W": 0.03255379930372423,
+      "1M": 0.030548269890086268,
+      "6M": 0.09438335385384083,
+      "1J": 0.5218669641791622,
+      "news": [
+        {
+          "headline": "Predictive Maintenance Market Forecasts Growth from $13.89B (2026) to $23.79B by 2031, Profiling ABB",
+          "url": "https://finnhub.io/api/news?id=eec6ca7073c9ddf2afb21b98007f07ed264e2742a41412d1731dc2006095d89e"
+        },
+        {
+          "headline": "GE Vernova Will Continue To Underperform Even As Growth Impresses",
+          "url": "https://finnhub.io/api/news?id=d84ed417ed3a4eb1e1246dd835e6354ac16565593276cfc16a7c6c03e26621e4"
+        }
+      ],
+      "score": 13.7
+    },
+    {
+      "ticker": "PLTR",
+      "price": 192.58999633789062,
+      "1D": 0.004171245006324612,
+      "1W": 0.09277116622287407,
+      "1M": 0.11497713831752963,
+      "6M": 0.30516399786070864,
+      "1J": 0.0725662673004044,
+      "news": [
+        {
+          "headline": "Should Investors Worry About Michael Burry's Big AI Stock Shorts",
+          "url": "https://finnhub.io/api/news?id=66992a2a57d429080f218de1356c59b614c501d7d0cc05f810009c5cedaa50fe"
+        },
+        {
+          "headline": "Reddit Stock And 2 More Quality Stocks",
+          "url": "https://finnhub.io/api/news?id=99435e7fe7c1f50b07893feaffcf73dc5015cd20ef9df243ac36c526d5cb8e80"
+        }
+      ],
+      "score": 11.8
+    },
+    {
+      "ticker": "ETN",
+      "price": 440.0,
+      "1D": 0.0028261240923879386,
+      "1W": 0.07458606257571912,
+      "1M": 0.07526878512746905,
+      "6M": 0.23859280026356108,
+      "1J": 0.19530821099553694,
+      "news": [
+        {
+          "headline": "Zacks Industry Outlook Highlights Eaton, Emerson Electric, A. O. Smith and EnerSys",
+          "url": "https://finnhub.io/api/news?id=42f336ef088289c07889c6b5e6ecb74fd7bdba90105b3bcb8e1a88fef34cf69b"
+        },
+        {
+          "headline": "Is Eaton (ETN) Priced Beyond What Its Cash Flow Can Support?",
+          "url": "https://finnhub.io/api/news?id=fb1b9ad5f675e4a53cc2affda38be4dc6bfd33e5674d938e472377b0a2656d1c"
+        }
+      ],
+      "score": 11.7
+    },
+    {
+      "ticker": "ROK",
+      "price": 432.92999267578125,
+      "1D": 9.23514657094073e-05,
+      "1W": 0.05579808697461649,
+      "1M": 0.008220770445907024,
+      "6M": 0.22767373254613366,
+      "1J": 0.28101272086605267,
+      "news": [
+        {
+          "headline": "Rockwell Automation Announces Executive Leadership Team Role Transitions",
+          "url": "https://finnhub.io/api/news?id=e532ab61a1bb8cc9ff3d3dd8be36253859903aabb5f728946e88cb063b61b2ca"
+        },
+        {
+          "headline": "More Than One-Third of Industrial Organizations See Cybersecurity Risk as a Top Obstacle to Growth, ",
+          "url": "https://finnhub.io/api/news?id=1fcd1b39e5de84d0258a59f890b3cb981e31c9a845e46fb4d6fbe938b8a1cf60"
+        }
+      ],
+      "score": 11.5
+    },
+    {
+      "ticker": "EMR",
+      "price": 156.13999938964844,
+      "1D": 0.010026541745753962,
+      "1W": 0.05929447662868947,
+      "1M": 0.0076148207579785415,
+      "6M": 0.2453700508977667,
+      "1J": 0.20218587773403598,
+      "news": [
+        {
+          "headline": "Zacks Industry Outlook Highlights Eaton, Emerson Electric, A. O. Smith and EnerSys",
+          "url": "https://finnhub.io/api/news?id=42f336ef088289c07889c6b5e6ecb74fd7bdba90105b3bcb8e1a88fef34cf69b"
+        },
+        {
+          "headline": "What Could Go Wrong With Eaton Stock?",
+          "url": "https://finnhub.io/api/news?id=b3d444233e152c24259d1c1c771d1186b13b45fda25a4a71b8c3aaf0a8adf179"
+        }
+      ],
+      "score": 10.5
+    },
+    {
+      "ticker": "DHR",
+      "price": 223.77000427246094,
+      "1D": 0.009974755092162921,
+      "1W": 0.053035314223345585,
+      "1M": 0.03611614116623015,
+      "6M": 0.19495997920532057,
+      "1J": 0.21252666072019746,
+      "news": [
+        {
+          "headline": "TDM Reagent Kit Market Forecasts Growth from $2.87B (2026) to $6.96B by 2032, Profiling Abbott, Roch",
+          "url": "https://finnhub.io/api/news?id=a6a2698a12e235b7483efb3690526ce2fedb211b659108492c6bf866419ee73a"
+        },
+        {
+          "headline": "Danaher Isn't Anything Special, Even After Absorbing Masimo",
+          "url": "https://finnhub.io/api/news?id=7a37969885fd72539f9794fa81246294a8d812436cceaac8ff4432f5c912e606"
+        }
+      ],
+      "score": 10.1
+    },
+    {
+      "ticker": "EME",
+      "price": 751.9600219726562,
+      "1D": 0.00021286802645116608,
+      "1W": 0.031127460580660044,
+      "1M": 0.016340744908237316,
+      "6M": 0.036366193607412105,
+      "1J": 0.20250213803309544,
+      "news": [
+        {
+          "headline": "Zacks Investment Ideas feature highlights: Celestica, Advanced Energy Industries and EMCOR",
+          "url": "https://finnhub.io/api/news?id=f24c540e9e4f4434d19d2ada1e713840676d785eeea4d6eb73f4b4aa74734a11"
+        },
+        {
+          "headline": "Can Quanta Convert Record Demand Into Sustainable Shareholder Wins?",
+          "url": "https://finnhub.io/api/news?id=bbade3163e0f563dd321dc5ec298c2b07c326b77f813a1c0ae0b6f88abb04a8a"
+        }
+      ],
+      "score": 5.7
+    }
   ]
 }
