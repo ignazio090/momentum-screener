@@ -48069,5 +48069,507 @@
       ],
       "score": 2.5
     }
+  ],
+  "2026-09-30": [
+    {
+      "ticker": "MRNA",
+      "price": 203.4600067138672,
+      "1D": 0.03132607447693709,
+      "1W": 0.11448296140870319,
+      "1M": 0.4744546605873312,
+      "6M": 3.005118302549802,
+      "1J": 7.032372969865322,
+      "news": [
+        {
+          "headline": "2 S&P 500 Stocks to Consider Right Now and 1 We Question",
+          "url": "https://finnhub.io/api/news?id=eaf88aabaf598a4b569b275c120d8333e97469795bff83e81d797cb0df79770a"
+        },
+        {
+          "headline": "Moderna And Merck: The Intismeran Readout That Was Worth $86 Billion",
+          "url": "https://finnhub.io/api/news?id=b078ce9932311c0ec1ff3a2786143129d201366a0e8b160b070fcaafb45008a3"
+        }
+      ],
+      "score": 213.2
+    },
+    {
+      "ticker": "MRVL",
+      "price": 263.2699890136719,
+      "1D": 0.04513694082049037,
+      "1W": 0.0034685306941528056,
+      "1M": 0.21535405294071572,
+      "6M": 1.6599368873133757,
+      "1J": 2.2022202544862863,
+      "news": [
+        {
+          "headline": "Can GLOBALFOUNDRIES (GFS) Justify Its Price On Future Cash Flow?",
+          "url": "https://finnhub.io/api/news?id=ed6832d57c1800d545d66d2554d338d81c76dcef3b393c094a990ac16c06f4bf"
+        },
+        {
+          "headline": "Why Marvell Technology Stock Triumphed on Tuesday",
+          "url": "https://finnhub.io/api/news?id=9d75315514838dfc008a0ca9d554c3eb3290d12ff0791435e9c01ae9aa7b7080"
+        }
+      ],
+      "score": 82.5
+    },
+    {
+      "ticker": "ILMN",
+      "price": 272.0,
+      "1D": 0.00036780472879928986,
+      "1W": 0.0991675124074004,
+      "1M": 0.26165408701848536,
+      "6M": 1.2067174694624607,
+      "1J": 1.9607052559941236,
+      "news": [
+        {
+          "headline": "3 Reasons to Sell ILMN and 1 Stock to Buy Instead",
+          "url": "https://finnhub.io/api/news?id=a766159d97687c73b807491c44389d04e202731a733c483878a59c561fb831fa"
+        },
+        {
+          "headline": "REGN or ILMN: Which Is the Better Value Stock Right Now?",
+          "url": "https://finnhub.io/api/news?id=bdcfcfc06de86328a7f733848b6543e114871488323f76d1929944a21cef51c7"
+        }
+      ],
+      "score": 70.6
+    },
+    {
+      "ticker": "CRWD",
+      "price": 262.739990234375,
+      "1D": 0.01346187168514947,
+      "1W": 0.05070780132600013,
+      "1M": 0.20302196692783137,
+      "6M": 1.6919391180536476,
+      "1J": 1.1516223455268273,
+      "news": [
+        {
+          "headline": "Why Did IOVA, ABCL, CRWD Stocks Surge To 52-Week Highs Today?",
+          "url": "https://finnhub.io/api/news?id=d9722c39d0a535f60993fc10356f09a4ca28f89d0a483effd510bc618b619ddf"
+        },
+        {
+          "headline": "S&P 500 investors may have more tech exposure than they think: Here's how one wealth manager mitigat",
+          "url": "https://finnhub.io/api/news?id=2a83eca63e96323d9f57e3ecab19ccf880b913d9eeec9e0fec70a3955535926b"
+        }
+      ],
+      "score": 62.2
+    },
+    {
+      "ticker": "OKTA",
+      "price": 204.8800048828125,
+      "1D": 0.013354497501446785,
+      "1W": 0.04201001917786617,
+      "1M": 0.23250923508789065,
+      "6M": 1.6029730309478527,
+      "1J": 1.182825522592388,
+      "news": [
+        {
+          "headline": "Okta (OKTA) Could Be 36% Overvalued Following Its AI Agent Identity Push",
+          "url": "https://finnhub.io/api/news?id=be3cb4a540f91d15f12e11ad2164d453eeceea4f6b17c6ad01aea595e87edc8f"
+        },
+        {
+          "headline": "Okta (OKTA) Added An Alphabet Executive To Its Board",
+          "url": "https://finnhub.io/api/news?id=cef51c223ca6b9335d6229ae4672fba2c3f2ce54b93e4142127a6cd133873373"
+        }
+      ],
+      "score": 61.5
+    },
+    {
+      "ticker": "AMAT",
+      "price": 512.010009765625,
+      "1D": 0.05187361223893039,
+      "1W": 0.0837108306012136,
+      "1M": 0.10903891280296547,
+      "6M": 0.5014911954362304,
+      "1J": 1.5120368961142399,
+      "news": [
+        {
+          "headline": "Applied Materials (AMAT) Ties Its $5 Billion EPIC Center To Next Gen AI Memory",
+          "url": "https://finnhub.io/api/news?id=70dbbcf35681147bb4c01b4fc05085c74fea63b9f26fd51b1f4d5c838b7b698d"
+        },
+        {
+          "headline": "AMAT Stock Has Doubled This Year: Analyst Trims Price Target But Sees Higher 2027 Sales, Profit",
+          "url": "https://finnhub.io/api/news?id=17d74b492ebe2992d25d56275bf1f14d7b0f21114947697a156a96a6a9bf30d6"
+        }
+      ],
+      "score": 45.2
+    },
+    {
+      "ticker": "LRCX",
+      "price": 323.8599853515625,
+      "1D": 0.029859713468405664,
+      "1W": 0.0425908001828127,
+      "1M": 0.07387888134993956,
+      "6M": 0.5184516899290492,
+      "1J": 1.4819274487918364,
+      "news": [
+        {
+          "headline": "Better Semiconductor Equipment Stock: Applied Materials vs. Lam Research",
+          "url": "https://finnhub.io/api/news?id=39839efb9dddeab36a5bc56d672d5f68cc8c45e55812a82ab1985731ef70168f"
+        },
+        {
+          "headline": "Is Applied Materials Still The Business You Bought?",
+          "url": "https://finnhub.io/api/news?id=fa3817732c0d9b26a58c0e02d7106f4d6c0b7392d61661ad4c43fa920396b355"
+        }
+      ],
+      "score": 42.9
+    },
+    {
+      "ticker": "MPC",
+      "price": 392.0299987792969,
+      "1D": 0.006650565739661802,
+      "1W": 0.00603060497763574,
+      "1M": 0.06290164317343439,
+      "6M": 0.6160362999447863,
+      "1J": 1.0286968291877514,
+      "news": [
+        {
+          "headline": "Is ExxonMobil Stock Increasing Your Market Risk?",
+          "url": "https://finnhub.io/api/news?id=ad73f0d7e70dc7ec6e3026eb492e943d4d23b39f8dec2349363d33221df6cee5"
+        },
+        {
+          "headline": "Can HF Sinclair's Go-West Initiative Drive Long-Term Midstream Growth?",
+          "url": "https://finnhub.io/api/news?id=9905c5d72e95b06dd9651917bc88ad6ebb54af3d6f471fc40bc6fd6f50a1fa04"
+        }
+      ],
+      "score": 34.4
+    },
+    {
+      "ticker": "ASML",
+      "price": 1834.3900146484375,
+      "1D": 0.03555358683395685,
+      "1W": 0.049482229547635884,
+      "1M": 0.08149583629094412,
+      "6M": 0.39364979734688244,
+      "1J": 0.9181937990200661,
+      "news": [
+        {
+          "headline": "UBS names top European chip stocks to watch ahead of Q3 2026 earnings season",
+          "url": "https://finnhub.io/api/news?id=d9b9775e05615d1adbcdc0c5ee31fdbb2af56ae8ac549455667c27d778f294f8"
+        },
+        {
+          "headline": "ASML Stock Surges 3.8% as AI Rebound Returns to Lithography",
+          "url": "https://finnhub.io/api/news?id=b4143177df06152fa219489f138582afb43180674577ec407cf939d594b6e24e"
+        }
+      ],
+      "score": 29.6
+    },
+    {
+      "ticker": "FIX",
+      "price": 1665.050048828125,
+      "1D": 0.004070433456701662,
+      "1W": 0.024564215678358065,
+      "1M": 0.09634370180419688,
+      "6M": 0.20854042594212369,
+      "1J": 1.0808924834052207,
+      "news": [
+        {
+          "headline": "Can Dycom Turn a $20B Fiber Opportunity Into Its Next Growth Wave?",
+          "url": "https://finnhub.io/api/news?id=b8b860a19fd566977015b32ab261ba17a6c3833800edd86a6ea8a826a16501f9"
+        },
+        {
+          "headline": "Comfort Systems vs. EMCOR: Which Stock Is the Better Buy?",
+          "url": "https://finnhub.io/api/news?id=f0c1d8a5ad347575d5a436c458e56b94a95472e721e65fc10533dd3e2ce6ed24"
+        }
+      ],
+      "score": 28.3
+    },
+    {
+      "ticker": "KLAC",
+      "price": 196.52999877929688,
+      "1D": 0.03890680700741161,
+      "1W": 0.043595959726910466,
+      "1M": 0.11957392216000624,
+      "6M": 0.3379645529182958,
+      "1J": 0.856823725807827,
+      "news": [
+        {
+          "headline": "KLA Corporation: Fundamentals Are Strong, But The Stock Needs More",
+          "url": "https://finnhub.io/api/news?id=4f5fe2c23712d243acff5b685188fbbfccb200516c982610e76a84a1ea302787"
+        },
+        {
+          "headline": "KLA Corporation: Strong AI Exposure, But Limited Margin Of Safety",
+          "url": "https://finnhub.io/api/news?id=db2484a50e291bc2feef09f0d35c11f52596d0ced0c8d78e9fbf173582b66835"
+        }
+      ],
+      "score": 27.9
+    },
+    {
+      "ticker": "TXN",
+      "price": 281.69000244140625,
+      "1D": 0.012144748347033036,
+      "1W": 0.037876270736486604,
+      "1M": 0.08911996012797938,
+      "6M": 0.46580253342092814,
+      "1J": 0.5771703735041909,
+      "news": [
+        {
+          "headline": "Is Applied Materials Still The Business You Bought?",
+          "url": "https://finnhub.io/api/news?id=fa3817732c0d9b26a58c0e02d7106f4d6c0b7392d61661ad4c43fa920396b355"
+        },
+        {
+          "headline": "NVIDIA's Stock Gains 1.7% as It Unveils Historic Buyback",
+          "url": "https://finnhub.io/api/news?id=77c516d80b42fdc460682f0d2229f551b9fd96099c1dd9d6ba21be31dadd8bc0"
+        }
+      ],
+      "score": 23.6
+    },
+    {
+      "ticker": "TSM",
+      "price": 456.94000244140625,
+      "1D": 0.00896484171263935,
+      "1W": 0.010929208941164269,
+      "1M": 0.09735069100140788,
+      "6M": 0.35889570579986607,
+      "1J": 0.6900635661231708,
+      "news": [
+        {
+          "headline": "Prediction: Taiwan Semiconductor Manufacturing Will Hit a $3 Trillion Market Cap Before 2027 Is Over",
+          "url": "https://finnhub.io/api/news?id=fc100185c0fea6bb99bd5989ed8ce4a4a98e101cbd862d756b5283cc0fffd2b1"
+        },
+        {
+          "headline": "Wells Fargo Spots Unexpected Winner in TSMC's 2nm Race",
+          "url": "https://finnhub.io/api/news?id=4e7e2c0c57f2e7c1b74919cf2e9fa15f54eff3101b8b070c4e075a903bb3b183"
+        }
+      ],
+      "score": 23.3
+    },
+    {
+      "ticker": "ADI",
+      "price": 398.2200012207031,
+      "1D": 0.007055632088103755,
+      "1W": 0.020109143124996287,
+      "1M": 0.10407784277216685,
+      "6M": 0.2589656467585299,
+      "1J": 0.6471282709996067,
+      "news": [
+        {
+          "headline": "DOCU Stock Soars 50.8% in 3 Months: Here's What You Should Know",
+          "url": "https://finnhub.io/api/news?id=172ca1db6c8ca777967951052c9c4d162a9bba324e0a34c68c0e2b1ac4dc8174"
+        },
+        {
+          "headline": "Timken to Boost Industrial Motion Margins With Belts Business Sale",
+          "url": "https://finnhub.io/api/news?id=6b1e224a04fb147426e4ecbd74274fc7191e8c71376774ad5ec02fa7ce805931"
+        }
+      ],
+      "score": 20.7
+    },
+    {
+      "ticker": "CAT",
+      "price": 826.6400146484375,
+      "1D": 0.00815903694348269,
+      "1W": 0.02305665110289463,
+      "1M": 0.03297721293150578,
+      "6M": 0.1712026219528014,
+      "1J": 0.7685823358535332,
+      "news": [
+        {
+          "headline": "Caterpillar (CAT) Stock May Be Reasonably Priced Despite Its 368% Run",
+          "url": "https://finnhub.io/api/news?id=a138211ccbc3000a7172a51b9c92d0dbb404c9d62d272d7671b6a940f2ae55af"
+        },
+        {
+          "headline": "Why Caterpillar Stock Has Surged 75% Over the Past Year on AI Power Demand",
+          "url": "https://finnhub.io/api/news?id=bb5cbf8890e2b66c76149637f396fb4e99894d7b09e8feac074bc4e5caf382a0"
+        }
+      ],
+      "score": 20.1
+    },
+    {
+      "ticker": "TMO",
+      "price": 679.6099853515625,
+      "1D": 0.0014883728292988908,
+      "1W": 0.03202630929174307,
+      "1M": 0.09314176561549399,
+      "6M": 0.3850887691144708,
+      "1J": 0.47605870176594456,
+      "news": [
+        {
+          "headline": "Fetal Bovine Serum Market Outlook 2026-2035 - Featuring Profiles of Leading Companies Thermo Fisher ",
+          "url": "https://finnhub.io/api/news?id=8d251d09424e47ffe6afe7ae2fcabc15ca0b3967efdcd06b3fd5a40232055b92"
+        },
+        {
+          "headline": "Thermo Fisher Scientific (TMO) Stock Seems Reasonable Following Its 47% Run",
+          "url": "https://finnhub.io/api/news?id=d91634b5352d5649bd2051f18acf345913d25fd2183ccb0f091e8a105122089b"
+        }
+      ],
+      "score": 19.8
+    },
+    {
+      "ticker": "PWR",
+      "price": 651.7899780273438,
+      "1D": 0.011530810175506863,
+      "1W": 0.014253883377576848,
+      "1M": 0.08145008267139339,
+      "6M": 0.18760256334405545,
+      "1J": 0.5945467888976738,
+      "news": [
+        {
+          "headline": "Is Quanta Services (PWR) a Solid Growth Stock? 3 Reasons to Think \"Yes\"",
+          "url": "https://finnhub.io/api/news?id=cec5c420aef1590612a28d8f7b46368719e84a307fc33618bc459088310f36fc"
+        },
+        {
+          "headline": "Comfort Systems vs. EMCOR: Which Stock Is the Better Buy?",
+          "url": "https://finnhub.io/api/news?id=f0c1d8a5ad347575d5a436c458e56b94a95472e721e65fc10533dd3e2ce6ed24"
+        }
+      ],
+      "score": 17.8
+    },
+    {
+      "ticker": "ON",
+      "price": 75.94999694824219,
+      "1D": 0.003965570605582296,
+      "1W": 0.03192932775599703,
+      "1M": 0.045999122845544534,
+      "6M": 0.22658267432464702,
+      "1J": 0.5263263567148372,
+      "news": [
+        {
+          "headline": "ON Semiconductor Stock Looks Expensive Until You Price Its Fuller Factories",
+          "url": "https://finnhub.io/api/news?id=cd9b1300e85a07aac3944a41802875404e3d579bbd970891153550204c10ae1e"
+        },
+        {
+          "headline": "Prediction: ON Semiconductor Could Be a Sleeper AI Infrastructure Winner",
+          "url": "https://finnhub.io/api/news?id=ef4d9ce8e62de0dabfae57358377bb492b675ffb5abfe2fcf6d7640db00edc9c"
+        }
+      ],
+      "score": 16.7
+    },
+    {
+      "ticker": "GEV",
+      "price": 962.489990234375,
+      "1D": 0.013392685009580341,
+      "1W": 0.012848803048649054,
+      "1M": 0.055442849741393865,
+      "6M": 0.10319827007847189,
+      "1J": 0.6013073309090481,
+      "news": [
+        {
+          "headline": "1 Cash-Heavy Stock with Exciting Potential and 2 We Turn Down",
+          "url": "https://finnhub.io/api/news?id=0b5d49e2b6773f7d96ffdd9a29a19799fa3f404a4b030672fd55c9f6b35c89ab"
+        },
+        {
+          "headline": "GE Vernova (GEV) Gains As Market Dips: What You Should Know",
+          "url": "https://finnhub.io/api/news?id=1546650fa9af1ef90864249d89c34d65151a51d67851e118e1c67d1a6e304efd"
+        }
+      ],
+      "score": 15.7
+    },
+    {
+      "ticker": "MCHP",
+      "price": 78.77999877929688,
+      "1D": 0.010388579529464903,
+      "1W": 0.039039819261232706,
+      "1M": 0.08021388248514684,
+      "6M": 0.23280853054602704,
+      "1J": 0.2617983070935564,
+      "news": [
+        {
+          "headline": "Microchip Technology (MCHP) Stock Trades Up, Here Is Why",
+          "url": "https://finnhub.io/api/news?id=ddb13a903a3ccedaba87a9207d169ad53fa33349f7f02c023ea93a97b8cb0a04"
+        },
+        {
+          "headline": "Is Applied Materials Still The Business You Bought?",
+          "url": "https://finnhub.io/api/news?id=fa3817732c0d9b26a58c0e02d7106f4d6c0b7392d61661ad4c43fa920396b355"
+        }
+      ],
+      "score": 12.5
+    },
+    {
+      "ticker": "GNRC",
+      "price": 212.22000122070312,
+      "1D": 0.03416010076258252,
+      "1W": 0.029344730588784104,
+      "1M": 0.15462457941821842,
+      "6M": 0.08646904843761266,
+      "1J": 0.2798214440176752,
+      "news": [
+        {
+          "headline": "3 US Stocks Building The AI Data Center Power Trade",
+          "url": "https://finnhub.io/api/news?id=921c90dab5b78eb1c8ed93dbfa86cefc8240817c8814ff7bcf1cdab92381f933"
+        },
+        {
+          "headline": "1 Mid-Cap Stock for Long-Term Investors and 2 We Ignore",
+          "url": "https://finnhub.io/api/news?id=96f20787303c76b898d7d6d28142cb30def3086f664216ed57f20c058866eb31"
+        }
+      ],
+      "score": 11.7
+    },
+    {
+      "ticker": "ROK",
+      "price": 431.5299987792969,
+      "1D": 0.0007188849258295184,
+      "1W": 0.01015940521334158,
+      "1M": 0.00155506069376035,
+      "6M": 0.20986006380088593,
+      "1J": 0.2692726398932044,
+      "news": [
+        {
+          "headline": "PBS Biotech Industrializes Cell Therapy Development with Rockwell Automation",
+          "url": "https://finnhub.io/api/news?id=fdda5b1a257809dfa3e455865146de0d7b8e281a5cdf27d9ae8d65d3e254ca98"
+        },
+        {
+          "headline": "KE or ROK: Which Is the Better Value Stock Right Now?",
+          "url": "https://finnhub.io/api/news?id=5a3f10856cf763a37d350b605c6bd02ab9fae7629700f3ddf55abf9655fa80e7"
+        }
+      ],
+      "score": 9.8
+    },
+    {
+      "ticker": "PM",
+      "price": 193.89999389648438,
+      "1D": 0.000722540223046395,
+      "1W": 0.019292426280667876,
+      "1M": 0.010474722566205642,
+      "6M": 0.18245763833225423,
+      "1J": 0.23272789075918995,
+      "news": [
+        {
+          "headline": "The Zacks Analyst Blog Highlights Coca-Cola, Philip Morris, Mondelez and Dole",
+          "url": "https://finnhub.io/api/news?id=342de438618df84931ef50a56b60b2cc8607a9cdbe9e8c59bd675f4164286372"
+        },
+        {
+          "headline": "Will Dividend Hike and Smoke-Free Shift Change Philip Morris International's (PM) Investment Narrati",
+          "url": "https://finnhub.io/api/news?id=a9a89f9a9e85ae7e2e90c755e9819a9b4bb608bcb9f48099892a54ce9182daeb"
+        }
+      ],
+      "score": 8.9
+    },
+    {
+      "ticker": "PFE",
+      "price": 28.719999313354492,
+      "1D": 0.0,
+      "1W": 0.02828496238978967,
+      "1M": 0.027181697201982224,
+      "6M": 0.057862921101081405,
+      "1J": 0.28864563054117887,
+      "news": [
+        {
+          "headline": "With the Market Flashing Warning Signs Not Seen Since the Dot-Com Bust, Is Pfizer's 6% Yield a Safe ",
+          "url": "https://finnhub.io/api/news?id=eba9ff33296a3fe2faba5686b38869c02071b92b0539f6d946ca4223a15f6a4d"
+        },
+        {
+          "headline": "Is Eli Lilly Stock a Good Fit For Your Portfolio Risk?",
+          "url": "https://finnhub.io/api/news?id=867d24414fff59a62dd175f863f0568d4caf341cfdc7d4be5570a573cb403329"
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "ticker": "TT",
+      "price": 455.5899963378906,
+      "1D": 0.007808695302307376,
+      "1W": 0.04058743025992567,
+      "1M": 0.017166521664804434,
+      "6M": 0.09829479581036356,
+      "1J": 0.10721413375252212,
+      "news": [
+        {
+          "headline": "2 Cash-Producing Stocks with Exciting Potential and 1 That Underwhelm",
+          "url": "https://finnhub.io/api/news?id=c92ec6ce743f040a9d921f68053db0d185c7aa88d735754b8769be1fa5269d46"
+        },
+        {
+          "headline": "Trane Technologies Launches LiquidStack CDU 2.X for Faster, More Flexible AI Cooling Deployments",
+          "url": "https://finnhub.io/api/news?id=65b69e05a32948b72ee66ab27799944b490255d2589b4f760d604d62ae26a3b4"
+        }
+      ],
+      "score": 5.4
+    }
   ]
 }
