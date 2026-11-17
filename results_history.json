@@ -52021,5 +52021,307 @@
       ],
       "score": 3.2
     }
+  ],
+  "2026-11-17": [
+    {
+      "ticker": "REGN",
+      "price": 958.4450073242188,
+      "1D": 0.006347104950858497,
+      "1W": 0.04626881413726827,
+      "1M": 0.21208617138502892,
+      "6M": 0.5246667113941609,
+      "1J": 0.36780640640318035,
+      "news": [
+        {
+          "headline": "Libtayo\u00ae (cemiplimab) Approved in the European Union (EU) for Extended Dosing and Faster Infusion Ti",
+          "url": "https://finnhub.io/api/news?id=f59bd18b6b9e167fd69a584829241376354dc769191be5a78d52a78bf5d601f1"
+        },
+        {
+          "headline": "What iShares Biotechnology ETF (IBB) Bought: Gilead Leads on Nov. 13",
+          "url": "https://finnhub.io/api/news?id=17449836f3ef3db017ba6a7a32fac137804fd440c93334567fa8f844c430084d"
+        }
+      ],
+      "score": 23.1
+    },
+    {
+      "ticker": "CART",
+      "price": 58.63999938964844,
+      "1D": 0.008773409808398252,
+      "1W": 0.0029074425414090696,
+      "1M": 0.17680106832954695,
+      "6M": 0.4309419239795429,
+      "1J": 0.4475438612516106,
+      "news": [
+        {
+          "headline": "Market Chatter: DoorDash's $17 Billion Instacart Deal Faces Justice Department's Antitrust Review",
+          "url": "https://finnhub.io/api/news?id=5e0f2741b8e70c60e6c09472998e8143961426c496beec3d9f3b92471d35385e"
+        },
+        {
+          "headline": "DOJ reportedly set to review DoorDash\u2019s Instacart acquisition",
+          "url": "https://finnhub.io/api/news?id=5b58cee3c6f8750f7510ea276735bec09ad591113fd4e89857eeb67e4b2400e6"
+        }
+      ],
+      "score": 21.3
+    },
+    {
+      "ticker": "NUE",
+      "price": 257.6700134277344,
+      "1D": 0.01978871767532072,
+      "1W": 0.004678957388075143,
+      "1M": 0.005384544214764487,
+      "6M": 0.16771114146792118,
+      "1J": 0.7534504061197859,
+      "news": [
+        {
+          "headline": "Can STLD's Strong Cash Flow Fuel Bigger Shareholder Returns Ahead?",
+          "url": "https://finnhub.io/api/news?id=09a19ed3c2ea45d0e0375b4456abc498792027ae715b23ef14db2cf569784fd9"
+        },
+        {
+          "headline": "This Medtronic Analyst Turns Bullish; Here Are Top 5 Upgrades For Tuesday",
+          "url": "https://finnhub.io/api/news?id=76e0761cbd4700df8f0854ec74afb9331b5800e19c111c068f88fb800c8516de"
+        }
+      ],
+      "score": 19.0
+    },
+    {
+      "ticker": "FAST",
+      "price": 55.19499969482422,
+      "1D": 0.0015423531760348137,
+      "1W": 0.006473368731739067,
+      "1M": 0.08731461349557616,
+      "6M": 0.28022061251524955,
+      "1J": 0.420319397768095,
+      "news": [
+        {
+          "headline": "The Winners Inside SCHD - November 2026",
+          "url": "https://finnhub.io/api/news?id=c073735c337135254275f5275d9ff4c0cb3f56e0208a335369f819a0db8f5c97"
+        },
+        {
+          "headline": "$1000 Invested In Fastenal 10 Years Ago Would Be Worth This Much Today",
+          "url": "https://finnhub.io/api/news?id=190b9d154b53f921983870f2e4b3aa412b45677ed382a2607729c5d6f6b12e85"
+        }
+      ],
+      "score": 15.9
+    },
+    {
+      "ticker": "ALL",
+      "price": 271.135009765625,
+      "1D": 0.002607022552742497,
+      "1W": 0.038354070296083155,
+      "1M": 0.093815573764437,
+      "6M": 0.218709345729268,
+      "1J": 0.3210664971571847,
+      "news": [
+        {
+          "headline": "JP Morgan Maintains Overweight on Allstate, Lowers Price Target to $291",
+          "url": "https://finnhub.io/api/news?id=12ff3be65a19ecb43769b7a63ace5181d1ba45c555f8c04af0317fac70a175e5"
+        },
+        {
+          "headline": "Can LMND's Nationwide Renters Insurance Expansion Accelerate Growth?",
+          "url": "https://finnhub.io/api/news?id=f517c63ed80b3b4b2da9c013222fe0472abd4159f503ce7b2cb510385ab3e55b"
+        }
+      ],
+      "score": 13.5
+    },
+    {
+      "ticker": "IDXX",
+      "price": 704.5900268554688,
+      "1D": 0.005623353035206391,
+      "1W": 0.011411937356258898,
+      "1M": 0.2573881884400047,
+      "6M": 0.2893008828090133,
+      "1J": 0.05319884432805493,
+      "news": [
+        {
+          "headline": "Here's Why You Should Retain NVST Stock in Your Portfolio for Now",
+          "url": "https://finnhub.io/api/news?id=a64e04561ae85bbb480440d4dad7d327c8335ebb141252c5b24e28b74f745915"
+        },
+        {
+          "headline": "Should You Continue to Retain Bruker Stock in Your Portfolio?",
+          "url": "https://finnhub.io/api/news?id=a6456afcb74eccdabeb0a20d55e54ad5a72a45c95b8d40f6627d4d8358a3abe8"
+        }
+      ],
+      "score": 12.3
+    },
+    {
+      "ticker": "ECL",
+      "price": 311.3324890136719,
+      "1D": 0.009475974569113987,
+      "1W": 0.017326700831701982,
+      "1M": 0.07768518545905982,
+      "6M": 0.27379790878118615,
+      "1J": 0.23200945538544923,
+      "news": [
+        {
+          "headline": "Ecolab Unveils First-of-Its-Kind Integrated Cooling Platform to Unlock the Next Generation of AI; He",
+          "url": "https://finnhub.io/api/news?id=1e9e2c004dd7d58d2c97985c90117584578cced0412f998a9f9f4d64ee648c19"
+        },
+        {
+          "headline": "This Palo Alto Analyst Turns Bullish; Here Are Top 5 Upgrades For Friday",
+          "url": "https://finnhub.io/api/news?id=e55317326c6bdc776b7ac69f200f5b1f025f6568b1fb9fda977ed79e87618d8b"
+        }
+      ],
+      "score": 12.2
+    },
+    {
+      "ticker": "AAPL",
+      "price": 354.19000244140625,
+      "1D": 0.0039968356113961245,
+      "1W": 0.017070177337298407,
+      "1M": 0.03202450090485892,
+      "6M": 0.1866235548818984,
+      "1J": 0.3288862696613338,
+      "news": [
+        {
+          "headline": "Warren Buffett\u2019s Berkshire Didn\u2019t Sell a Single Apple Share for a Second Straight Quarter. The Stake",
+          "url": "https://finnhub.io/api/news?id=b899dccb0df67e6419f921bc675f6fccad4c1c15013cd84903d3fabac0d6f393"
+        },
+        {
+          "headline": "Could Nvidia Be Berkshire's Next Big Tech Purchase?",
+          "url": "https://finnhub.io/api/news?id=5d2d270e0b53e99cc4402c4b91051027dc5cb5a1247cfb6aae4dd69506a827e1"
+        }
+      ],
+      "score": 11.4
+    },
+    {
+      "ticker": "CMG",
+      "price": 36.13999938964844,
+      "1D": 0.005564851713456148,
+      "1W": 0.0061247558997184854,
+      "1M": 0.20910003772581248,
+      "6M": 0.0938256170769121,
+      "1J": 0.18375363828461577,
+      "news": [
+        {
+          "headline": "Has McDonald's Stock Become A Different Bet?",
+          "url": "https://finnhub.io/api/news?id=991d2bc21d86a10d5d32722748efa0fca83027605daa5997aaa0c327f45a4fa0"
+        },
+        {
+          "headline": "Chipotle (CMG) Unveils Sneak It In Hoodie With An Insulated Food Pocket",
+          "url": "https://finnhub.io/api/news?id=af118a42abee7af35ed33a03b8ca0a6eae01220e37bcb7b41cae1a661ce4e896"
+        }
+      ],
+      "score": 10.0
+    },
+    {
+      "ticker": "DIS",
+      "price": 121.33499908447266,
+      "1D": 0.022198839123639,
+      "1W": 0.017825685901517514,
+      "1M": 0.0971607116592385,
+      "6M": 0.19527540804288304,
+      "1J": 0.16465087579014373,
+      "news": [
+        {
+          "headline": "The Walt Disney Company Announces Segment Reporting Changes for Fiscal 2027",
+          "url": "https://finnhub.io/api/news?id=0c41a0352078333feb09419972e0f1e06982669be8dfdfef5274b2babb65ca47"
+        },
+        {
+          "headline": "The Walt Disney Company Reports Fourth Quarter and Fiscal Year 2026 Results",
+          "url": "https://finnhub.io/api/news?id=57a572e1044d191aa01835e13c3a0994b3fa1476902008f81aaca18ea0e0937c"
+        }
+      ],
+      "score": 9.9
+    },
+    {
+      "ticker": "COST",
+      "price": 1119.739990234375,
+      "1D": 0.005387253804846643,
+      "1W": 0.05027479960370143,
+      "1M": 0.1337413919534347,
+      "6M": 0.02637058685968695,
+      "1J": 0.23422813396343767,
+      "news": [
+        {
+          "headline": "Should You Buy Costco Stock for Its Special Dividend?",
+          "url": "https://finnhub.io/api/news?id=512729a8b398a07c0610af1f63806802c63fe8816c38a03da63726e911e3e00c"
+        },
+        {
+          "headline": "Should Target Stock Be in Your Portfolio Ahead of Q3 Earnings Report?",
+          "url": "https://finnhub.io/api/news?id=aefe6df79d782b5666c167be5736233a996ea61fe2fd0ee0eb6b8805d82ba203"
+        }
+      ],
+      "score": 9.0
+    },
+    {
+      "ticker": "WM",
+      "price": 244.64999389648438,
+      "1D": 0.0013096716041075887,
+      "1W": 0.030625953593946778,
+      "1M": 0.0784183780228777,
+      "6M": 0.10999433558456116,
+      "1J": 0.19601621882584486,
+      "news": [
+        {
+          "headline": "WM Announces Cash Dividend",
+          "url": "https://finnhub.io/api/news?id=02dd21bf74dcd04679b64fb244e14a4f3ca4e9a713bc3c701a7107a59d5d0b5c"
+        },
+        {
+          "headline": "Are Wall Street Analysts Bullish on Waste Management Stock?",
+          "url": "https://finnhub.io/api/news?id=84b46bf0215ade81244d6625e0f6630a1e811dddb2a56d1d525781ee9aa219bf"
+        }
+      ],
+      "score": 8.3
+    },
+    {
+      "ticker": "AFL",
+      "price": 128.1999969482422,
+      "1D": 0.0009368762919427567,
+      "1W": 0.012318363598486122,
+      "1M": 0.06860044714343821,
+      "6M": 0.09376608988791837,
+      "1J": 0.16576281832790613,
+      "news": [
+        {
+          "headline": "This Insurance Stock Just Raised Its Dividend by Roughly 5%",
+          "url": "https://finnhub.io/api/news?id=0356e8dbcc1a12ecddf52700b22c85d67df074b9e171e208d78783fdb790590f"
+        },
+        {
+          "headline": "GL Stock Gains 22.3% in a Year: Here's What Investors Should Know",
+          "url": "https://finnhub.io/api/news?id=124441a4b0f57ecf87d7515cf822aa70e464668132278cd4d99e24de5838983c"
+        }
+      ],
+      "score": 6.8
+    },
+    {
+      "ticker": "CMCSA",
+      "price": 25.645000457763672,
+      "1D": 0.0017578154540387474,
+      "1W": 0.03616163465711805,
+      "1M": 0.1710046075098849,
+      "6M": 0.06445463523925826,
+      "1J": 0.059101367696278946,
+      "news": [
+        {
+          "headline": "Netflix Stock Down 47%: Too Early To Buy?",
+          "url": "https://finnhub.io/api/news?id=62275deaee77d1f1fa72097f3b7c9452102c93234a37e132fbfa749659d24281"
+        },
+        {
+          "headline": "Comcast Stock Up 17%, Still Losing Internet Customers",
+          "url": "https://finnhub.io/api/news?id=258db59f7bdc4a6c53f07586f47ed5cda11d54b0884a84e14ea5a7a64c3bd463"
+        }
+      ],
+      "score": 6.6
+    },
+    {
+      "ticker": "VZ",
+      "price": 46.51499938964844,
+      "1D": 0.0037764185689320487,
+      "1W": 0.0044266467345788745,
+      "1M": 0.03851302609648058,
+      "6M": 0.0063214330309132654,
+      "1J": 0.20971532032044446,
+      "news": [
+        {
+          "headline": "5 Dividend Stocks Yielding Over 5% to Hide in Your Roth IRA",
+          "url": "https://finnhub.io/api/news?id=7579553a990d34740ce178a91029e376f1157ffbf83078ac364fef27cc4410bd"
+        },
+        {
+          "headline": "5 Huge Dividend Payers the IRS Leaves Alone Inside a Roth",
+          "url": "https://finnhub.io/api/news?id=95e0c024ccb9c0a5cd08e69b23b3d698a609e61e306565be3c53726e5032a18a"
+        }
+      ],
+      "score": 5.3
+    }
   ]
 }
